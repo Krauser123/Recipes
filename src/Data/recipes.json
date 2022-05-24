@@ -1,0 +1,582 @@
+[
+	{
+		"Title": "Salmorejo De Zanahoria De Rodrigo De La Calle",
+		"Amount": "4",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			"350 gr de zanahorias de manojo",
+			"450 ml de caldo de verduras",
+			"100 g de aceite de oliva virgen extra",
+			"2 rebanadas de pan de molde",
+			"1 diente de ajo",
+			"Vinagre de vino tinto",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Guarnición",
+			"Ingredients": [
+				"8 zanahorias pequeñas",
+				"Hojas de zanahoria fritas",
+				"Hojas de kale fritas",
+				"Mató o requesón",
+				"Brotes o germinados"
+			]
+		},
+		"Steps": [
+			"Escaldar las zanahorias en agua hirviendo un par de minutos. Raspar con un estropajo limpio las más pequeñas de la guarnición.",
+			"Las demás, asarlas en el horno a 220 grados unos 15 minutos o hasta que estén tiernas, y después tostarlas ligeramente por fuera con un soplete si se tiene. También se pueden hacer en la parrilla en vez de usar horno y soplete.",
+			"Triturar las zanahorias asadas con el caldo, el pan, el ajo, el aceite, un chorro de vinagre y sal. Ajustar de espesor con más caldo o más pan, y pasar por el chino para que la crema quede más fina.",
+			"Servir con las zanahorias pequeñas, hojas de kale y de zanahoria fritas, mató o requesón desmigado, brotes y un chorrito de aceite final."
+		]
+	},
+	{
+		"Title": "Croquetas atún",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Type": null,
+		"Ingredients": [
+			"3 latas de atún en aceite de oliva",
+			"80g. de cebolla.",
+			"30g. del aceite del atún.",
+			"45g. de mantequilla.",
+			"100g. de harina de trigo.",
+			"300g. de leche.",
+			"3 cucharadas grandes de queso Philadelphia.",
+			"Sal.",
+			"Pimienta.",
+			"Nuez moscada."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En primer lugar colocar la cebolla en el vaso cortada en cuartos y triturar 7seg./vel.7.",
+			"Después incorporar el aceite de las latas de atún junto con la mantequilla y programar 5min/temp. varoma/ vel.1.",
+			"A continuación añadir la harina y sofreír 2 min/100º/vel. 2.",
+			"Al acabar introducir ahora el atún junto con el resto de ingredientes y programar 7min/100º/vel.3",
+			"Seguidamente volcar la masa en un recipiente y dejarla enfriar una hora aproximadamente en la nevera. Si está más tiempo en la nevera no pasa nada.",
+			"Después darles la forma que deseemos y pasarlas por huevo batido y pan rallado.",
+			"Finalmente sofreír en una sartén con abundante aceite hasta que se doren."
+		]
+	},
+	{
+		"Title": "Chuletas al limón",
+		"Amount": "",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			"6 chuletas de cerdo",
+			"1 barra de mantequilla",
+			"Ralladura de dos limones",
+			"2 cucharaditas de azúcar",
+			"1 vaso de vino blanco seco",
+			"1/2 vaso de agua",
+			"Perejil picado",
+			"Sal y pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Sazona las chuletas con sal y pimienta Fríelas en la mitad de la mantequilla.",
+			"Pon a hervir el agua con el azúcar y la ralladura de los limones.",
+			"En un sartén incorpora las chuletas doradas, agrega el vino blanco, el agua infusionada con la corteza de limón, el resto de la mantequilla y deja cocinar hasta que la carne esté suave.",
+			"Al servir agrega el perejil picado."
+		]
+	},
+	{
+		"Title": "Solomillo al oloroso",
+		"Amount": "",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			"2 solomillos de cerdo",
+			"1 Cebolla",
+			"100ml de oloroso",
+			"100ml de caldo de carne"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Trocear el solomillo en filetes/medallones de tamaño mediano",
+			"Cortamos la cebolla en juliana, y la ponemos en la sartén con un poco de aceite de oliva virgen extra. En cuanto los pedazos se ponen transparentes, bajamos al fuego al mínimo y dejamos que se hagan poco a poco, hasta que toman color.",
+			"Añadimos entonces los trozos del solomillo de cerdo y los marcamos un poco por ambas caras, mientras la cebolla sigue haciéndose y oscureciéndose. Es el momento de incorporar el vino de Jerez oloroso.",
+			"Tras un par de minutos a fuego vivo, bajamos el fuego y añadimos el caldo de carne y dejamos que la carne se cocine a fuego lento otros dos o tres minutos por cada lado, mientras la salsa se va evaporando y concentrando. El plato estará listo cuando prácticamente no quede salsa, tras unos seis o siete minutos desde que añadimos el caldo."
+		]
+	},
+	{
+		"Title": "Roquefort dulce",
+		"Amount": "",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			"150gr Roquefort",
+			"Nata cocinar",
+			"Dos cucharadas harina",
+			"Miel de caña al gusto",
+			"Nueces al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Añadir la nata 10dc y las dos cucharada de harina disuelta en agua para que la mezcla se espese.",
+			"Batir con batidora.",
+			"Añadir las dos cucharadas de miel de caña y dejar enfriar unos 30 minutos en el congelador o unas 3 horas en el frigorífico; Echar nueces por encima y lista para comer con unos biscotes."
+		]
+	},
+	{
+		"Title": "Salchichas al vino blanco",
+		"Amount": "",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			"8 Salchichas frescas",
+			"1 cebolla mediana (unos 200 gramos)",
+			"1 diente de ajo",
+			"1 hoja de laurel",
+			"1 vaso de vino blanco (250 ml)",
+			"1 vaso de caldo de pollo (250 ml)",
+			"4 cucharadas de aceite de oliva (40 ml)",
+			"1 cucharada pequeña de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Vamos a utilizar un par de sartenes para preparar esta receta. Coge una de tamaño entre mediano y grande para la cebolla y el ajo y otra sartén mediana para las salchichas.",
+			"Pela el diente de ajo, córtalo en rodajas finas y resérvalo aparte. Pela la cebolla y pícala finamente.",
+			"En una sartén pon dos de las cuatro cucharadas de aceite, la cebolla, la hoja de laurel y media cucharada pequeña con sal. Pon a fuego medio para que se poche la cebolla y cuando lleve 5 minutos añade el ajo que teníamos reservado.",
+			"Mientras se pocha la cebolla prepararemos las salchichas. En una sartén ponemos las otras dos cucharadas de aceite, añadimos las salchichas (o longanizas) y las dejamos a fuego medio que se vayan haciendo poco a poco.",
+			"Cuando la cebolla esté pochada sube el fuego de las dos sartenes. Queremos que la salchichas y la cebolla cojan un poco de color, pero con cuidado de no quemar la cebolla. Cuando la cebolla haya cogido un poquito de color le añadimos las salchichas y el vaso de caldo (si está caliente mejor).",
+			"Echamos el vaso de vino en la sartén donde estaban las salchichas y lo ponemos a fuego fuerte. Cuando hierva arañaremos el fondo de la sartén con una cuchara de madera para arrastras los jugos que haya soltado la salchicha. Dejamos que se evapore el alcohol del vino blanco durante un par de minutos y lo añadimos a la sartén con la cebolla, el ajo, las salchichas y el caldo de pollo.",
+			"Ahora solo nos queda dejar a fuego medio hasta que reduzca todo el líquido y nos quede una salsa muy densa.",
+			"Cuando esté la salsa en su punto prueba de sal, si el caldo de pollo estaba salado quizás no necesites más, pero si no llevaba sal quizás necesites añadir la media cucharada de sal que tenemos reservada."
+		],
+		"Others": [
+			"Si no tienes caldo de pollo sustitúyelo por la misma cantidad de agua con media pastilla de caldo concentrado y no añadas nada más que la sal que lleva la cebolla al principio."
+		]
+	},
+	{
+		"Title": "Bombas mexicanas",
+		"Amount": "",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			" 400 gr de carne picada de ternera",
+			"10 patatas medianas",
+			"3 huevos",
+			"Perejil c/n",
+			"Pimienta blanca c/n",
+			"Sal",
+			"Aceite de oliva c/n",
+			"Pan rayado c/n"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Primero cocemos las patatas en una olla con agua y algo de sal. Una vez cocidas las trituramos en un bol con ayuda de un tenedor.",
+			"Reogamos la carne en una sartén con aceite de oliva, perejil, pimienta blanca, sal, y una vez hecha lo apartamos del fuego.",
+			"Ahora cogemos (con las manitas bien limpias) la pasta de la patata y hacemos una semi esfera del tamaño de una pelotita, el tamaño irá a gusto. El interior, con ayuda de una cuchara, lo rellenamos con la carne picada preparada, y añadiremos más patata para cerrar la esfera. Una vez hechas, tan sólo hay que pasarlas por huevo y después por pan rallado y a la sartén, hasta que queden doradas, y ya están listas para comer.",
+			"La carne se pùede sustituir por queso."
+		]
+	},
+	{
+		"Title": "Quiche lorraine",
+		"Amount": "",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			""
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Alubias Blancas con chorizo ",
+		"Amount": "",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			"500 gr. de alubia blanca (a remojo con sal al menos 12h)",
+			"3 chorizos frescos",
+			"200 gr. de panceta curada",
+			"2 tomates",
+			"1 puerro (parte blanca) y 1 cebolla",
+			"3 dientes de ajo",
+			"2 hojas de laurel",
+			"1 cucharada rasa de Pimentón de la Vera (dulce o picante)",
+			"1 ñora",
+			"Aceite de oliva virgen extra",
+			"Sal (al gusto)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Lavamos y pelamos las verduras. En una olla grande y alta, ponemos las alubias, media cebolla (pelada), los tomates sin piel, 2 dientes de ajo y el puerro (parte blanca).",
+			"Cubrimos de agua, con un par de dedos (3-4 cm.) por encima de las alubias. Añadimos las hojas de laurel.",
+			"Ponemos a fuego alto y llevamos a ebullición. Cuando comience a hervir, bajamos a fuego bajo, salamos al gusto y cocinamos 1 hora.",
+			"Controlamos la cazuela, para que no se quede sin nivel de agua. También para retirar la espuma que se pueda formar en la superficie, si es el caso.",
+			"Cuando falten unos 10 minutos nos ponemos con el sofrito.",
+			"Picamos la cebolla restante en “brunoise” y el ajo fino. Sofreímos en una sartén con una lámina de aceite de oliva virgen extra, y salamos ligeramente.",
+			"Cuando esté la cebolla pochada, retiramos del fuego y dejamos atemperar.",
+			"Añadimos la cucharada de pimentón y mezclamos bien con una cuchara de madera (o similar). Sin parar el movimiento, para que no se nos queme el pimentón.",
+			"En este punto puedes pasar por la batidora las verduras de la cazuela con un poco de agua de coccion y tras pasarlo por el chino añadirlo a la cazuela este caldo de verduras, también puedes dejarlas sin más, añade tambien a la cazuela el sofrito, los chorizos y la panceta picados junto con la ñora.",
+			"Movemos en vaivén, agarrando pro las asas, para que se integren bien todos los ingredientes.",
+			"Con todo en la olla, vamos a cocinar otros 40-45 min. más a fuego bajo.",
+			"Si es necesario añadimos un poco más de líquido (agua caliente). Cuando queden unos 10 minutos probad las alubias para comprobar su punto, y el caldo por si hay que rectificar de sal."
+		]
+	},
+	{
+		"Title": "Chili",
+		"Amount": "",
+		"Utility": null,
+		"Type": null,
+		"Ingredients": [
+			""
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Tostada Francesa",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Postre",
+		"Ingredients": [
+			""
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Compota de manzana",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Postre",
+		"Ingredients": [
+			"3 manzanas",
+			"300 ml de agua",
+			"150 g de azúcar",
+			"1 ramita de canela"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En un cazo ponemos el agua y el azúcar y llevamos a ebullición a fuego medio para que el azúcar se disuelva poco a poco.",
+			"Dejamos un par de minutos hasta que se fome un almíbar muy ligero. Mientras, lavamos, pelamos y descorazonamos las manzanas.",
+			"Las troceamos y añadimos a la cazuela justo cuando el almíbar está hecho y sigue burbujeando ligeramente. Ponemos la ramita de canela, tapamos la cazuela, bajamos el fuego y cocemos durante unos 30 minutos. El tiempo depende un poco de la variedad de manzana y del tamaño de los trozos.",
+			"Retiramos el fuego y servimos templada o como acompañamiento de helado. Si la canela no os gusta podéis utilizar una vaina de vainilla, o nada, como prefiráis. "
+		]
+	},
+	{
+		"Title": "Crema pastelera",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Postre",
+		"Ingredients": [
+			"500 ml. (medio litro) de leche entera",
+			"corteza de limón (solo la parte amarilla)",
+			" Una rama de canela.",
+			" 150 gramos de azúcar.",
+			" 45 gramos de maicena (harina de maíz).",
+			" Tres yemas de huevo."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponemos a calentar la leche con el limón, la canela y el azúcar.",
+			"Cuando rompa a hervir la apartamos y la dejamos infusionar con el limón y la canela hasta que temple.",
+			"En un cuenco mezclamos muy bien las yemas de huevo con la harina de maíz hasta formar una crema.",
+			"Cuando la leche esté templada le añadimos un poco a las yemas y seguimos moviendo con las varillas hasta integrarla bien, cuidando de que no forme grumos.Añadimos la totalidad de la leche, sin dejar de remover. Lo ponemos en una cazuela a fuego lento, sin dejar de batir hasta que espese y tenga la consistencia que deseemos. Debéis tener en cuenta que cuando la crema se enfría espesa aún más. Dejarla enfriar completamente antes de usarla."
+		]
+	},
+	{
+		"Title": "Marron Glace",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Postre",
+		"Ingredients": [
+			"1/2 kg. de castañas",
+			"300gr azúcar",
+			"1 vaina de vainilla o 2 cucharadas de azúcar vainillada"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Se hace un pequeño corte en las castañas y se ponen en una olla con agua caliente escaldandolas unos 5 minutos.",
+			"Pelamos las castañas quitando también la piel fina con mucho cuidado que no se rompan.",
+			"En una cazuela ponemos 3/4 l. de agua, el azúcar y la vainilla y cocemos durante 15 minutos a fuego medio.",
+			"Añadimos las castañas y aflojamos el fuego, dejamos cocer hasta que las castañas estén tiernas con un fuego muy suave, para que no se rompan, aproximadamente de 15 a 20 minutos Dejamos reposar las castañas en este almíbar durante un día entero.",
+			"Forramos la bandeja del horno con papel vegetal y ponemos las castañas. Horneamos unos 20 minutos a 125º, hasta que estén bien secas. Las dejamos enfriar y las presentamos en capsulas de papel."
+		]
+	},
+	{
+		"Title": "Leche frita",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Postre",
+		"Ingredients": [
+			"1 litro de leche entera",
+			"2 huevos 120 gr. de harina de trigo (6 cucharadas según la abuela)",
+			" 120 gr. de azúcar (6 cucharadas según la abuela)",
+			"Aceite de girasol",
+			"Cáscara de limón",
+			"Sal",
+			"Rebozado: 3 huevos y 100 gr. de harina"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Aunque en la elaboración de la receta os llevará sobre 30 min, debéis de tener en cuenta que en medio del proceso, deberá reposar la masa de un día para otro. Por ejemplo, si la hacemos por la tarde, pues reposará hasta la mañana siguiente. Comenzamos separando unos 400 ml. de leche en una taza y vamos añadiendo poco a poco la harina, al mismo tiempo que removemos con una varilla de repostería. Lo hacemos de manera que no nos queden grumos en la mezcla. Podéis usar también mitad harina de trigo (60 gr.) y mitad Maizena (60 gr.), de este modo espesará más rápido. Batimos 2 huevos y los incorporamos a la mezcla anterior. Removemos bien con las varillas para que la mezcla quede perfectamente integrada y sin grumos. Lavamos el limón y pelamos finamente la piel, procurando que no lleve la parte interior blanca, que dará amargor a la leche. Ponemos el resto de la leche (600 ml.) a calentar en una cazuela y añadimos la piel de limón. Mi abuela le echa también una pizca de sal. En cuanto comience el primer hervor, bajamos a fuego medio y retiramos la cáscara de limón. Ahora iremos incorporando a la cazuela la mezcla de los primeros pasos de la receta, poco a poco y removiendo sin parar al mismo tiempo con unas varillas. Es importante no parar de remover en ningún momento ya que no queremos que se nos queme o pegue a la cazuela. Nos tiene que resultar una crema con textura espesa, como en la siguiente foto. Toca ahora el turno del azúcar, que añadimos y removemos de nuevo continuadamente como en anteriores pasos. Sin parar de mezclar, pasados unos 2-3 minutos el azúcar estará perfectamente integrado. Elegimos una fuente para verter el contenido de la cazuela, que sea bastante amplia ya que nos debe quedar un grosor/altura de unos 2 cm. de crema. Humedecemos la fuente con agua fría, la escurrimos y vertemos la mezcla de la cazuela en ella. Con ese truco del agua (de la abuela) no se pegará la crema a la fuente. Debe de enfriar lo suficiente para que esté bien consistente antes de rebozar y freír. Lo que os recomiendo es prepararla de un día para otro, para que esté en su punto óptimo. Normalmente mi abuela la hace por la tarde y una vez que ha templado a temperatura ambiente, la deja en el frigorífico hasta la mañana siguiente. Por lo tanto, al menos 16-18 horas de reposo en frío.",
+			"Las porciones: con un cuchillo cortamos la crema fría en porciones cuadradas o rectangulares de unos 5-6 cm y las vamos reservando en un plato antes del rebozado.",
+			"El rebozado: vamos a rebozar las porciones en harina y huevo. En una sartén grande y amplia vertemos abundante aceite de girasol (mi abuela usa este porque el de oliva es fuerte y le aporta sabor al postre) y calentamos a fuego alto. Batimos los 3 huevos restantes. Pasamos las porciones por harina, sacudimos un poquito para que no lleven demasiado, mojamos en el huevo y freímos en la sartén cuando el aceite esté bien caliente. Para comprobar la temperatura podéis echar un trocito de pan y cuando esté dorado nos ponemos en marcha. Freímos con el aceite bastante caliente porque la intención es que nos quede “puntilla” en el rebozado, algo característico de la leche frita de mi madre y de mi abuela. Un minuto por cada lado es suficiente para que esté doradita y lista. Retiráis las porciones y reserváis en una fuente con papel absorbente de cocina, para que escurra bien el aceite. Escogemos una bonita fuente (o un plato) donde presentaremos la leche frita en la mesa. Espolvoreamos la base con azúcar blanco, colocamos las porciones y volvemos a echarles azúcar por la parte superior. Una vez templada podríamos consumirla pero en nuestro caso la dejamos en el frigorífico hasta la hora de comer/cenar, un par de horas por lo menos. Esto va en el gusto de cada uno. Otra opción es echar también un poco de canela por encima además del azúcar."
+		]
+	},
+	{
+		"Title": "Helado Chocolate",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Postre",
+		"Ingredients": [
+			"4 cucharadas de cacao en polvo",
+			"2 cucharadas de azúcar",
+			"100 gr mantequilla",
+			"1 cucharada Coñac"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Separe las yemas y póngalas en la batidora. Añada la mantequilla, cacao y 1 cucharada de azúcar y otra de coñac. Mezcle hasta formar una masa homogénea.",
+			"Bata las claras hasta que estén a punto de nieve, añadir una cucharada de azúcar y volver a remover. Añádelo a la mezcla anterior y vuelve a batir.",
+			"Unta el molde en mantequilla y vuelva la mezcla, mételo en el congelador al menos 2h."
+		]
+	},
+	{
+		"Title": "Helado Leche",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Postre",
+		"Ingredients": [
+			"3 tazones de leche",
+			"1 huevo ",
+			"4 cucharadas de azúcar",
+			"Canela en rama ",
+			"1 Cuchara postre de coñac"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner en un cazo la leche, el azúcar y una pizca de canela. Cuando hierva añadimos el huevo batido y el coñac. Remover para que no cuaje el huevo y dejar hirviendo otro minutos.",
+			"Cuando se enfrié al congelador durante un par de horas sin dejar de batir para que quede cremoso."
+		]
+	},
+	{
+		"Title": "Patatas a la riojana",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"1 cebolla",
+			"4 dientes de ajo",
+			"2-3 chorizos frescos",
+			"4-6 patatas, 2 pimientos choriceros rehidratados",
+			"perejil (opcional), pimentón dulce",
+			"1 hoja de laurel",
+			"aceite de oliva virgen extra",
+			"agua y sal."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Echar el ajo y las cebollas en una cazuela y dorarlos con aceite y luego añadir el chorizo hasta que cojan color.",
+			"Añadir pimenton, peregil, los pimientos choriceros mezclar y añadir agua hasta cubir, cocer dejando que espese."
+		]
+	},
+	{
+		"Title": "Garbanzos con chorizo",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Type": "",
+		"Ingredients": [
+			"400 gramos garbanzos",
+			"150 gramos cebolla",
+			"1 diente ajo",
+			"40 gramos aceite",
+			"100 gramos chorizo",
+			"20 gramos vino blanco",
+			"1 cucharadita pimentón",
+			"1 cucharada maicena",
+			"400 gramos agua",
+			"1 pellizco sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Si usamos garbanzos de bote, enjuagar los garbanzos con agua y los ponemos a escurrir en un colador o en el propio cestillo de la Thermomix.",
+			"Escurrir los garbanzos",
+			"Ponemos la cebolla y el ajo en el vaso de la Thermomix y troceamos 3 segundos a velocidad 5.",
+			"Añadimos el aceite y sofreímos programando 8 minutos a temperatura varoma y velocidad 1.",
+			"Añadimos el chorizo troceado y programamos 2 minutos a temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Sofrito para garbanzos con chorizo en Thermomix",
+			"Mientras se sofríe el chorizo diluimos la maicena en un vasito de agua fría y y cuando haya acabado el tiempo lo añadimos al vaso.",
+			"Añadimos el pimentón, y mezclamos durante 20 segundos a velocidad cuchara.",
+			"Incorporamos el agua, el vino blanco y la sal. Programamos 10 minutos a temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Añadimos los garbanzos y programamos 5 minutos más a temperatura varoma, giro a la izquierda y velocidad cuchara."
+		]
+	},
+	{
+		"Title": "Lentejas",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"Lentejas",
+			"Chorizo",
+			"1 hoja de laurel",
+			"2 Zanahorias ",
+			"1 Tomate",
+			"5 dientes de ajo",
+			"1 cebolla",
+			"1 pimiento rojo",
+			"1 pastilla avecrem",
+			"1 cucharada pimiento vera",
+			"½ pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Poner aceite a calentar y hacer el refrito con las verduras. Luego se añade avecrem, pimentón y una poquita de agua y se muelen para echarlo a las lentejas escurridas junto al laurel, el chorizo"
+		]
+	},
+	{
+		"Title": "Pollo coco, soja y cacahuetes",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Type": "",
+		"Ingredients": [
+			""
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				"200 g de pechugas de pollo",
+				"100 g de cacahuetes fritos, con sal y sin piel",
+				"70 g de cebolla",
+				"2 dientes de ajo",
+				"1 cucharada sopera de cominos",
+				"25 g de aceite de oliva",
+				"100 g de leche de coco",
+				"100 g de salsa de soja",
+				"1 cucharada sopera de miel (20 g aprox.)",
+				"1 cucharadita (de las de café) de sal"
+			]
+		},
+		"Steps": [
+			"Ponemos en el vaso los cacahuetes, el ajo y el comino. Trituramos durante 5 segundos a velocidad 7.",
+			"Añadimos 25 g de aceite de oliva y sofreímos la mezcla durante 3 minutos, 100º, velocidad 1.",
+			"Añadimos la cebolla a grandes trozos y troceamos 5 segundos a velocidad 5.",
+			"Bajamos los restos de las paredes del vaso con la espátula, le añadimos la leche de coco y programamos 3 minutos, 100º, velocidad 1. Con cubilete.",
+			"Mientras, troceamos las pechugas en tiras.",
+			"Añadimos la salsa de soja, la miel y la sal. Programamos 2 minutos, 100º, velocidad 1. Con cubilete.",
+			"Añadimos la pechuga y programamos 10 minutos, 100º, velocidad cuchara, giro a la izquierda. Con cubilete.",
+			"Quitamos el cubilete y programamos 5 minutos más, 100º, velocidad cuchara, giro a la izquierda. Sin cubilete."
+		]
+	},
+	{
+		"Title": "Helado Leche 2",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			""
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	}
+]

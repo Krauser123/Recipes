@@ -1,24 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { default as recipes } from "./Data/recipes.json";
+import { Search } from './Components/Search';
+import { SideMenu } from './Components/SideMenu';
+import { RecipeNote } from './Components/RecipeNote';
+import { IRecipe } from './Classes/Recipe';
 
 function App() {
+
+
   return (
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <SideMenu></SideMenu>
+      <div className='recipesSearch'>
+        <Search recipes={recipes as IRecipe[]}></Search>
+      </div>
+      <div className='recipesView'>
+        <RecipeNote recipe={recipes[0] as IRecipe}></RecipeNote>
+      </div>
     </div>
   );
 }
