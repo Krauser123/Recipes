@@ -1,4 +1,4 @@
 export default class Constants {
-    public static Prepracion = "Prepración";
+    public static Prepracion = "Preparación";
     public static Ingredientes = "Ingredientes";
 }

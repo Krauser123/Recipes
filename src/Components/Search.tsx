@@ -17,19 +17,22 @@ export class Search extends Component<SearchProps, SearchState> {
         this.onChange = this.onChange.bind(this);
     }
 
-    onChange(nextValue: any) {
-        this.setState({ dateValue: nextValue })
+    onChange(recipeTitle: string) {
+        window.location.href = this.getPathFromUrl(window.location.href) + "?Title=" + recipeTitle;
+    }
+
+    getPathFromUrl(url: string) {
+        return url.split("?")[0];
     }
 
     render() {
-        let as2 = this.props.recipes as IRecipe[];
 
         return (
             <div className="sidemenu">
-                {as2.map((element, index) => (
+                {this.props.recipes.map((element, index) => (
                     <div key={index} className="row">
                         <div className="col-sm">
-                            {element.Title}
+                            <div className='recipeLink' onClick={() => this.onChange(element.Title)} >{element.Title}</div>
                         </div>
                     </div>
                 ))}
