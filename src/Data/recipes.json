@@ -278,12 +278,18 @@
 		]
 	},
 	{
-		"Title": "Tostada Francesa",
+		"Title": "Hamburguesa Vegetal",
 		"Amount": "",
 		"Utility": null,
-		"Type": "Postre",
+		"Type": "",
 		"Ingredients": [
-			""
+			"1 taza de arroz/quinoa",
+			"2 Cucharadas Pimenton Rojo",
+			"1/2 Cebolla picada",
+			"2 Cucharadas de Zanahoria",
+			"1/2 Taza Harina Garbanzos",
+			"Orégano, Pimienta y sal al gusto",
+			"Agua"			
 		],
 		"Ingredients2": {
 			"TitleIngredients2": null,
@@ -292,7 +298,9 @@
 			]
 		},
 		"Steps": [
-			""
+			"Sofreir la cebolla, la zanahoria y el pimienton.",
+			"Luego se cuece el arroz/quinoa con el sofrito.",
+			"Mientras se enfría añadir la harina y el agua para dar forma."
 		]
 	},
 	{
@@ -390,9 +398,16 @@
 			]
 		},
 		"Steps": [
-			"Aunque en la elaboración de la receta os llevará sobre 30 min, debéis de tener en cuenta que en medio del proceso, deberá reposar la masa de un día para otro. Por ejemplo, si la hacemos por la tarde, pues reposará hasta la mañana siguiente. Comenzamos separando unos 400 ml. de leche en una taza y vamos añadiendo poco a poco la harina, al mismo tiempo que removemos con una varilla de repostería. Lo hacemos de manera que no nos queden grumos en la mezcla. Podéis usar también mitad harina de trigo (60 gr.) y mitad Maizena (60 gr.), de este modo espesará más rápido. Batimos 2 huevos y los incorporamos a la mezcla anterior. Removemos bien con las varillas para que la mezcla quede perfectamente integrada y sin grumos. Lavamos el limón y pelamos finamente la piel, procurando que no lleve la parte interior blanca, que dará amargor a la leche. Ponemos el resto de la leche (600 ml.) a calentar en una cazuela y añadimos la piel de limón. Mi abuela le echa también una pizca de sal. En cuanto comience el primer hervor, bajamos a fuego medio y retiramos la cáscara de limón. Ahora iremos incorporando a la cazuela la mezcla de los primeros pasos de la receta, poco a poco y removiendo sin parar al mismo tiempo con unas varillas. Es importante no parar de remover en ningún momento ya que no queremos que se nos queme o pegue a la cazuela. Nos tiene que resultar una crema con textura espesa, como en la siguiente foto. Toca ahora el turno del azúcar, que añadimos y removemos de nuevo continuadamente como en anteriores pasos. Sin parar de mezclar, pasados unos 2-3 minutos el azúcar estará perfectamente integrado. Elegimos una fuente para verter el contenido de la cazuela, que sea bastante amplia ya que nos debe quedar un grosor/altura de unos 2 cm. de crema. Humedecemos la fuente con agua fría, la escurrimos y vertemos la mezcla de la cazuela en ella. Con ese truco del agua (de la abuela) no se pegará la crema a la fuente. Debe de enfriar lo suficiente para que esté bien consistente antes de rebozar y freír. Lo que os recomiendo es prepararla de un día para otro, para que esté en su punto óptimo. Normalmente mi abuela la hace por la tarde y una vez que ha templado a temperatura ambiente, la deja en el frigorífico hasta la mañana siguiente. Por lo tanto, al menos 16-18 horas de reposo en frío.",
+			"Aunque en la elaboración de la receta os llevará sobre 30 min, debéis de tener en cuenta que en medio del proceso, deberá reposar la masa de un día para otro. Por ejemplo, si la hacemos por la tarde, pues reposará hasta la mañana siguiente.",
+			"Comenzamos separando unos 400 ml. de leche en una taza y vamos añadiendo poco a poco la harina, al mismo tiempo que removemos con una varilla de repostería. Lo hacemos de manera que no nos queden grumos en la mezcla. Podéis usar también mitad harina de trigo (60 gr.) y mitad Maizena (60 gr.), de este modo espesará más rápido. Batimos 2 huevos y los incorporamos a la mezcla anterior.",
+			"Removemos bien con las varillas para que la mezcla quede perfectamente integrada y sin grumos. Lavamos el limón y pelamos finamente la piel, procurando que no lleve la parte interior blanca, que dará amargor a la leche. Ponemos el resto de la leche (600 ml.) a calentar en una cazuela y añadimos la piel de limón. Mi abuela le echa también una pizca de sal. En cuanto comience el primer hervor, bajamos a fuego medio y retiramos la cáscara de limón.", 
+			"Ahora iremos incorporando a la cazuela la mezcla de los primeros pasos de la receta, poco a poco y removiendo sin parar al mismo tiempo con unas varillas. Es importante no parar de remover en ningún momento ya que no queremos que se nos queme o pegue a la cazuela. Nos tiene que resultar una crema con textura espesa, como en la siguiente foto. Toca ahora el turno del azúcar, que añadimos y removemos de nuevo continuadamente como en anteriores pasos.", 
+			"Sin parar de mezclar, pasados unos 2-3 minutos el azúcar estará perfectamente integrado. Elegimos una fuente para verter el contenido de la cazuela, que sea bastante amplia ya que nos debe quedar un grosor/altura de unos 2 cm. de crema. Humedecemos la fuente con agua fría, la escurrimos y vertemos la mezcla de la cazuela en ella. Con ese truco del agua (de la abuela) no se pegará la crema a la fuente. Debe de enfriar lo suficiente para que esté bien consistente antes de rebozar y freír. Lo que os recomiendo es prepararla de un día para otro, para que esté en su punto óptimo. Normalmente mi abuela la hace por la tarde y una vez que ha templado a temperatura ambiente, la deja en el frigorífico hasta la mañana siguiente. Por lo tanto, al menos 16-18 horas de reposo en frío.",
 			"Las porciones: con un cuchillo cortamos la crema fría en porciones cuadradas o rectangulares de unos 5-6 cm y las vamos reservando en un plato antes del rebozado.",
-			"El rebozado: vamos a rebozar las porciones en harina y huevo. En una sartén grande y amplia vertemos abundante aceite de girasol (mi abuela usa este porque el de oliva es fuerte y le aporta sabor al postre) y calentamos a fuego alto. Batimos los 3 huevos restantes. Pasamos las porciones por harina, sacudimos un poquito para que no lleven demasiado, mojamos en el huevo y freímos en la sartén cuando el aceite esté bien caliente. Para comprobar la temperatura podéis echar un trocito de pan y cuando esté dorado nos ponemos en marcha. Freímos con el aceite bastante caliente porque la intención es que nos quede “puntilla” en el rebozado, algo característico de la leche frita de mi madre y de mi abuela. Un minuto por cada lado es suficiente para que esté doradita y lista. Retiráis las porciones y reserváis en una fuente con papel absorbente de cocina, para que escurra bien el aceite. Escogemos una bonita fuente (o un plato) donde presentaremos la leche frita en la mesa. Espolvoreamos la base con azúcar blanco, colocamos las porciones y volvemos a echarles azúcar por la parte superior. Una vez templada podríamos consumirla pero en nuestro caso la dejamos en el frigorífico hasta la hora de comer/cenar, un par de horas por lo menos. Esto va en el gusto de cada uno. Otra opción es echar también un poco de canela por encima además del azúcar."
+			"El rebozado: vamos a rebozar las porciones en harina y huevo. En una sartén grande y amplia vertemos abundante aceite de girasol (mi abuela usa este porque el de oliva es fuerte y le aporta sabor al postre) y calentamos a fuego alto. Batimos los 3 huevos restantes.",
+			"Pasamos las porciones por harina, sacudimos un poquito para que no lleven demasiado, mojamos en el huevo y freímos en la sartén cuando el aceite esté bien caliente. Para comprobar la temperatura podéis echar un trocito de pan y cuando esté dorado nos ponemos en marcha. Freímos con el aceite bastante caliente. Un minuto por cada lado es suficiente para que esté doradita y lista. Retiráis las porciones y reserváis en una fuente con papel absorbente de cocina, para que escurra bien el aceite.",
+			"Escogemos una bonita fuente (o un plato) donde presentaremos la leche frita en la mesa.",
+			"Espolvoreamos la base con azúcar blanco, colocamos las porciones y volvemos a echarles azúcar por la parte superior. Una vez templada podríamos consumirla pero en nuestro caso la dejamos en el frigorífico hasta la hora de comer/cenar, un par de horas por lo menos. Esto va en el gusto de cada uno. Otra opción es echar también un poco de canela por encima además del azúcar."
 		]
 	},
 	{
@@ -562,7 +577,708 @@
 		]
 	},
 	{
-		"Title": "Helado Leche 2",
+		"Title": "Pollo Jack Daniel's",
+		"Amount": "4",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"4 pechugas de pollo",
+			"Pan rallado",
+			"Aceite"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Salsa Jack Daniel´s",
+			"Ingredients": [
+				"1l. de zumo de piña",
+				"500ml de agua",
+				"40cl de salsa de soja",
+				"3 guindillas",
+				"3 ajos",
+				"Zumo de 1 limón",
+				"1kg de azúcar moreno",
+				"50cl de Jack Daniel´s"
+			]
+		},
+		"Steps": [
+			"Troceamos las pechugas de pollo en tacos, una por persona.",
+			"A continuación, las empanamos, solo en pan rallado, esto dará un toque crujiente y un color dorado al pollo.",
+			"Echamos 4 ó 5 cucharadas de aceite en la sartén, cuando esté bien caliente, freímos los tacos y los dejamos dorar.",
+			"Una vez fritos, los presentamos en un plato acompañado de un trozo de pan y lo salseamos al gusto con el toque de gracia especial.",
+			"Elaboración de la salsa Jack Daniel´s:",
+			"En una cazuela o cazo, añadimos los ingredientes líquidos:",
+			"El zumo de piña, el agua, zumo de limón, salsa de soja y el Jack Daniel´s, y lo ponemos a fuego lento, para que se mezclen suavemente.",
+			"Seguidamente, añadimos el azúcar, las guindillas y los ajos, estos últimos los retiraremos al cabo de unos minutos cuando hayan dejado su sabor.",
+			"Subiremos el fuego, sin dejar de remover para que no se nos queme y dejaremos reducir hasta que su textura sea de sirope."
+		]
+	},
+	{
+		"Title": "Filetes lomo con salsa picante",
+		"Amount": "4",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"750gr filetes lomo",
+			"1 cebolla mediana",
+			"1 cucharada de pimentón",
+			"1 cucharadita de comino",
+			"2 dientes de ajo",
+			"2 cucharadas de vinagre",
+			"1 guindilla",
+			"1 cucharadita de harina fina de maíz",
+			"½ taza de caldo de carne",
+			"Pimienta negra",
+			"Aceite de oliva",
+			"sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponemos a pochar la cebolla picadita junto con los dientes de ajo y la guindilla limpia de semillas, cuando estén tiernos retiramos del fuego y ponemos en el vaso batidor y le añadimos, el pimentón, unos granitos de pimienta, el comino y el vinagre, batimos bien y pasamos por el chino depositando en un cazo junto con el caldo que pondremos al fuego  suave durante diez minutos, desliamos la cucharadita de harina en un poquito de agua y añadimos al cazo removiendo hasta que espese un poco, y retiramos del fuego.",
+			"Pasamos nuestros filetes por la plancha salpicados con un poco de sal, cuando los tengamos hechos por ambos lados servimos rociados con nuestra picante salsa."
+		]
+	},
+	{
+		"Title": "Salsa Marinara de pasta",
+		"Amount": "4",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"Tomates enteros",
+			"Albahaca",
+			"2 chile",
+			"Orégano",
+			"1 cebolla",
+			"Ajo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Se echan los tomates en una sarten con un chorreon de aceite de oliva",
+			"La carne se fríe aparte con el ajo, la cebolla y el pimiento, la carne se echa en el tomate, y se añade albahaca.",
+			"Espolvorea un poco de orégano en la salsa, y sin dejar de revolver. Agrega la pimienta, un poco de sal, un poco de azúcar y otros condimentos al gusto."
+		]
+	},
+	{
+		"Title": "Pechuga con Ajo y mostaza",
+		"Amount": "4",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"2 pechugas de pollo cortadas en filetes gruesos",
+			"2 huevos",
+			"1 taza de harina",
+			"1 cucharada de tomillo",
+			"1 cucharada de orégano",
+			"1/2 cucharada de pimentón",
+			"una pizca de pimentón picante",
+			"aceite de oliva",
+			"Sal y pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Salsa",
+			"Ingredients": [
+				"125ml de miel",
+				"2 cucharadas de salsa de soja",
+				"1 cucharada de almidón de maíz",
+				"75ml de agua",
+				"4 dientes de ajo picados"
+			]
+		},
+		"Steps": [
+			"Empezamos preparando la salsa. En una sartén pequeña a fuego medio, mezclamos la miel con la salsa de soja y los dientes de ajo picados. Luego preparamos una mezcla con el almidón de maíz y el agua, que incorporamos también a la sartén. Dejamos que reduzca 1 o 2 minutos sin dejar de remover y reservamos.",
+			"Por otro lado, en dos platos hondos, disponemos por un lado los huevos batidos y, por el otro, la harina con el tomillo, el orégano y el pimentón. Salpimentamos las pechugas y vamos pasándolas una a una primero por la harina, luego por el huevo y luego de nuevo por la harina.",
+			"Por último, freímos las pechugas en aceite de oliva caliente, hasta que se doren por fuera. Dejamos que se escurra el aceite sobrante en papel de cocina absorbente y servimos acompañadas con la salsa de ajo y miel que podemos haber templado previamente."
+		]
+	},
+	{
+		"Title": "Ternera a la cerveza",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"900 gramos de escalopes de ternera",
+			"Dos cebollas grandes",
+			"Tres dientes de ajo",
+			"Caldo",
+			"Harina",
+			"3/4 de litro de cerveza",
+			"Patatas",
+			"Aceite",
+			"Sal",
+			"Tomillo",
+			"Pimienta negra",
+			"Pimentón dulce",
+			"Caldo (dos zanahorias, una cebolla, un pimiento verde",
+			"Un hueso de jamón"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Salpimentamos y añadimos tomillo a los escalopines, los enharinamos ligeramente y los freímos en una sartén con el aceite bien caliente. Escurrimos y reservamos.",
+			"Bien, ha llegado la hora de llorar. Cojan un parde cebollas grandes, y córtenlas en rodajas muy finas. Las pasamos durante dos minutos en la misma sartén donde hemos frito los filetes. Añadimos dos o tres dientes de ajo cortados en finas láminas. Removemos otro par de minutos y retiramos del fuego.",
+			"Y ahora nos vamos al horno, que tendremos precalentado a unos 180 grados. En una fuente untada en aceite vamos poniendo capas de esta manera: una capa de escalopes, una capa de cebolla, una de escalopes, una de cebolla. Lo cubrimos todo con cerveza y un par de cazos de caldo y lo metemos al horno. Tenemos que tenerlo ahí unos 35 minutos, así que nos da tiempo para ir haciendo la guarnición.",
+			"Cuezan unas patatas enteras con piel y todo. Las templamos con agua fría, las pelamos y las desmenuzamos groseramente con las manos en una cazuelita de barro. Añadimos sal y orégano y espolvoreamos ligeramente con pimentón duclce. Regamos con unos hilillos de aceite de oliva y las metemos al horno bastará con unos 15 minutos, así que calculen y lo tendrán todo terminado a la vez."
+		]
+	},
+	{
+		"Title": "Siberian Coffe",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			""
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"dos partes de vodka caramelo, dos partes de café solo, una parte de nata, una cucharada de cacao en polvo (cacao puro, del amargo, no cacao soluble, aunque igual con cacao soluble también está rico) y hielo en una batidora (una que no se joda con los hielos). Le pegáis un poco de caña para que se mezcle bien y el hielo se rompa (si tenéis una picadora de hielo mejor todavía) y servís en vaso ancho"
+		]
+	},
+	{
+		"Title": "Leche de pantera",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"1 medida de ginebra",
+			"2 de leche",
+			"2 cucharadas de azucar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En la coctelera mezcla con cubitos de hielo"
+		]
+	},
+	{
+		"Title": "Barrecho",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"1 Parte de brandy",
+			"1 Parte de moscatel"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Diesel blindado",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"3 partes whisky/bourbon",
+			"1 parte de limon",
+			"1 cuchara hielo picado",
+			"Azucar al gusto (aprox 1 cucharadita postre)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Old fashioned",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"4 partes de whisky rye, bourbon, o blended.",
+			"1 terrón o una cucharada sopera al ras de azúcar.",
+			"2 gotas de amargo (bíteres) de Angostura.",
+			"1 golpe de agua o soda.",
+			"1 rodaja de naranja.",
+			"1 cáscara de limón."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Hot Toddy Tennessee",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			" 1 parte de Jack Daniel´s Old N°7",
+			"1 cucharada de miel",
+			"1 chorrito de jugo de limón",
+			"Canela en ramas",
+			"Agua hervida caliente"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Verter la cantidad de Jack Daniel’s que dicta la receta en un vaso cóctel resistente al calor. Añadir una cucharada de miel, el jugo de limón y unas pocas ramas de canela. Cubrir con el agua hervida caliente y revolver el contenido."
+		]
+	},
+	{
+		"Title": "Tennesse Biker",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"30 ml. Jack Daniel’s",
+			"20 ml. vermut blanco",
+			"20 cl. de bitter",
+			"10 cl Zumo Naranja"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Julepe de menta",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"2 oz de Bourbon Whisky",
+			"2 cucharadas de azucar",
+			"Hojas de menta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Aplastar unas 6 hojitas de menta junto con la azucar y colocarlas hasta abajo del vaso, se acostumbra a utilizar un vaso largo y de metal, luego llenarlo de hielo picado (Frappe) y por ultimo agregar el Whisky, para adornarlo se acostumbra poner una hojita de menta."
+		]
+	},
+	{
+		"Title": "Affinity",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"1/2 de Whisky",
+			"1/4 de Vermouth seco",
+			"1/4 de Vermouth rojo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Se echa hielo en un vaso mezclador, y a continuación los ingredientes en el orden establecido, se mezcla con una cucharilla y después se cuela y se sirve"
+		]
+	},
+	{
+		"Title": "Cucharacha",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"30 cc Tequila",
+			"30 cc Licor de Café"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Se pone el cafe y se añade el tequila, se toma con pajita de abajo arriba y si puede ser con fuego"
+		]
+	},
+	{
+		"Title": "Enano Rojo",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"2 oz. de Whisky",
+			"1 oz. de Amareto",
+			"Hielo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Mezclar los ingredientes. Se puede agregar unas cuantas gotas de limón"
+		]
+	},
+	{
+		"Title": "No remedy",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"3 Medidas de Whisky",
+			"2 Medidas de Ron Blanco",
+			"2 Medidas de Jugo de Naranja",
+			"1 Medida de Soda"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En un vaso de coctel o pequeño como en la foto, con hielo o sin hielo, dependiendo del gusto vierte primero los licores, luego el jugo de naranja y por ultimo la soda, mezcla suavemente con un mezclador. Si quieres adornalo con alguna fruta."
+		]
+	},
+	{
+		"Title": "Belmont",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"50 cc Gin",
+			"15 cc Jugo de Frambuesa",
+			"25 cc Crema de Leche"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Mezclar todos los ingredientes en una coctelera con hielo picado. Batir y servir (incluyendo el hielo) en una copa de fantasía"
+		]
+	},
+	{
+		"Title": "The Planters Punch",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"1 medida de granadina",
+			"Hielo en cubitos",
+			"Agua Mineral",
+			"3 medidas de ron oscuro",
+			"1 medida de jugo de limon"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Mezclar los 3 primeros ingredientes en vasos largos con los cubitos de hielo y rellenarlos con agua mineral."
+		]
+	},
+	{
+		"Title": "Irish Car Bomb",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"Cerveza Obscura",
+			"1/2 oz. Irish cream (Baileys, Cruzan, etc.)",
+			"1/2 oz. de Whisky",
+			"1/2 oz. Licor de Café"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En el vaso grande servir la cerveza y en el corto poner primero la irish cream, luego el whisky, por último el licor de café. Dejar caer el shot dentro del vaso de cerveza para crear la bomba"
+		]
+	},
+	{
+		"Title": "Acelerador",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"1 medida de Ron",
+			"4 medidas de Vino tinto",
+			"1 cucharadita de miel"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Disolver la miel en el vino caliente y añadir el ron."
+		]
+	},
+	{
+		"Title": "Douglas",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"1 parte de Gin",
+			"1 parte de Vermouth seco"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Cowboy Bepop",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"1/3 Bourbon",
+			"2/Leche Fria"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Mezclar en vaso alto con hielo"
+		]
+	},
+	{
+		"Title": "Sangría",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Cocktail",
+		"Ingredients": [
+			"2 Botellas de Vino Tinto",
+			"100 cc Brandy",
+			"100 cc Triple Sec",
+			"1 a 2 Naranjas sin cáscara cortadas en cubos",
+			"1 a 2 Limones sin cáscara cortados en cubos",
+			"3 a 4 Cucharadas grandes de Azúcar Flor"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Poner las naranjas y limones en cubos a macerar en frío en algún recipiente, junto con el azúcar, el brandy y el triple sec por al menos una hora.",
+			"Después de esto, juntar los ingredientes anteriores con el vino en un Bowl. Agregar hielo. De acuerdo al gusto, se le puede agregar más brandy, triple sec y/o azúcar"
+		]
+	},
+	{
+		"Title": "Pollo Almendras",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Type": "",
+		"Ingredients": [
+			"2-3 gotas de tabasco",
+			"1 chorrito de caramelo líquido",
+			"1 de cucharadita de maicena",
+			"60 g aceite oliva",
+			"4 filetes de contramuslo de pollo, sin piel",
+			"sal",
+			"pimienta molida",
+			"20 g de salsa de soja",
+			"30 g de almendras tostadas",
+			"4 cucharadas de ketchup"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponga el aceite en el vaso y caliente 6 min/Varoma/vel 1.",
+			"Mientras tanto, corte los filetes en tiras y salpimiéntelos. Cuando acabe el tiempo programado, vuelva a programar 7 min/Varoma/Counter-clockwise operation/vel ",
+			"Ve añadiendo el pollo por el bocal.",
+			"Añada la salsa de soja, las almendras, el ketchup, el tabasco, el caramelo y la maicena. Mueva la carne con la espátula y rehogue 3 min/Varoma/Counter-clockwise operation/vel Gentle stir setting. Sirva caliente."
+		]
+	},
+	{
+		"Title": "tarta de queso del restaurante La Viña",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Type": "Postre",
+		"Ingredients": [
+			"1 kilo de queso de untar tipo Philadelphia®",
+			"500 ml de nata con un 35% de materia grasa",
+			"6 huevos L ó 7 huevos medianos",
+			"350-400 g de azúcar blanquilla",
+			"30 g de harina de trigo o maicena* si eres celíaco"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Precalienta el horno a 200ºC con calor arriba y abajo y mientras forra un molde con papel de horno humedecido -así es más fácil de manejar-, o unta con mantequilla o usa spray desmoldante.",
+			"Pon en el vaso de la Thermomix® todos los ingredientes de la tarta y mezcla 30 segundos en velocidad 5-6. Vierte dentro del molde y hornea 40-50 minutos a 200º-210C con calor arriba y abajo. Vigila el horno en los últimos minutos que cada horno es un mundo :D. Introduce una aguja para comprobar que está bien cocinado, si sale limpio -aunque se mueva la zona central- es que está lista. Deja templar dentro del horno con la puerta entreabierta unos minutos y retira, desmolda y sirve ya a temperatura ambiente con miel, mermelada, o a tu gusto.",
+			"Notas:",
+			"La tarta -pasado el tiempo- puede parecer que está blanda porque se mueve la zona central, pero ya está hecha. En el interior queda como una mousse, así que si al meter un palillo para comprobar que está cocinado, este sale limpio, es que está lista.",
+			"Apaga el horno y deja la puerta entreabierta y espera a que temple antes de retirarla. La zona de arriba deberá estar doradita. Una vez fuera del horno la tarta tienda a bajar, es normal.",
+			"Puedes hacer la mitad de la tarta y usar un molde de 18-20 cm de diámetro.",
+			"Esta receta es para un molde de 24-26 cm de diámetro, si usas uno de 18-20 cm, haz la mitad de la receta.",
+			"TRUCO PARA HACERLA MAS CREMOSA: usa mitad de quesos: Philadelphia con Mascarpone y añade una pizca de sal para potenciar los sabores."
+		]
+	},
+	{
+		"Title": "Bizcocho de zanahoria",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Type": "Postre",
+		"Ingredients": [
+			"200 g zanahorias peladas (cortadas en 2 o 3 trozos)",
+			"160 g azúcar (la receta original lleva 200 gr)",
+			"2 huevos",
+			"120 g aceite de girasol",
+			"1 chorrito vainilla o azúcar vainillado",
+			"120 g harinas de repostería",
+			"1 cucharadita bicarbonato",
+			"1/2 cucharadita canela",
+			"1/2 cucharadita levadura química",
+			"1/2 cucharadita sal",
+			"100 g nueces picadas gruesas",
+			"1 cucharada colmada azúcar glass"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pon en el vaso las zanahorias y programa 5 seg/ vel. 5.",
+			"Agrega el azúcar, los huevos, el aceite y la vainilla. Mezcla 5 seg/ vel. 5.",
+			"Añade la harina, el bicarbonato, la canela, la levadura, la sal y las nueces. Programa 6 seg/ vel. 4. Termina de mezclar con la espátula.",
+			"Engrasa un molde de bizcocho y vierte en el la preparación del vaso.",
+			"Introduce en el horno precalentado a 180 grados con calor arriba y abajo y hornea durante 30 – 35 minutos. Comprueba con una aguja que el centro del bizcocho está bien hecho, si sale seca puedes retirarlo del horno.",
+			"Deja enfriar y espolvorea con el azúcar glass.",
+			"Nota : La receta original, aconseja, que se utilice un molde de 1 litro de capacidad, aproximadamente, yo lo le echo en uno desmontable de 24"
+		]
+	},
+	{
+		"Title": "Cheese Cake sin horno",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Type": "Postre",
+		"Ingredients": [
+			""
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				"150 gr. galletas (De canela, Digestive, María...)",
+				"75 gr. mantequilla fría",
+				"3 hojas gelatina (O 1/2 sobre en polvo)",
+				"350 gr. nata montar (100 gr. + 250 gr.)",
+				"75 gr. azúcar",
+				"350 gr. queso de untar o mascarpone (Yo pongo 250 mascarpone y 100 de untar).",
+				"Cobertura: 2 hojas gelatina  y 200 gr. mermelada (Fresa, frutos rojos....)"
+			]
+		},
+		"Steps": [
+			"Triturar las galletas con golpes de turbo. Añadir la mantequilla en trozos, 3 min. 80º, vel.3. Forrar la base de un molde desmontable, que no exceda de 23 cm., o moldes de emplatar individuales, alisando bien con el anverso de una cuchara. Llevar a la nevera.",
+			"Remojar las 3 láminas de gelatina en agua fría, 5 minutos.",
+			"Sin lavar el vaso, calentar 100 gr. de nata con el azúcar y la gelatina bien escurrida 3 min. 80º, vel.1.",
+			"Añadir el resto de nata (250 gr.) y el queso, mezclar 10 seg. vel.5. Volcar sobre la base y llevar unas 3 horas mínimo a la nevera, hasta que solidifique.",
+			"Remojar 2 láminas en agua fría 5 minutos. Calentar la mermelada en el microondas, añadir la gelatina bien escurrida y mezclar bien. Cubrir la tarta y llevar a la nevera otra hora.",
+			"Sacar de la nevera 10 minutos antes de servir, está más rica."
+		]
+	},
+	{
+		"Title": "Berenjenas parmesana",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"3 berenjenas grandes",
+			"3 bolas de mozzarella fresca",
+			"Queso parmigiano",
+			"400g de salsa de tomate",
+			"20g de albahaca fresca (un manojo)",
+			"Sal",
+			"Pimienta negra recién molida",
+			"Aceite de oliva virgen extra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Lava las berenjenas y córtalas en rodajas.",
+			"Espolvorea las rodajas de berenjena con sal y déjalas reposar apiladas en un plato durante una hora.",
+			"Pica las hojas de albahaca y reserva.",
+			"Corta la mozzarella en láminas o rodajas y reserva.",
+			"Escurre el líquido que hayan soltado las berenjenas y seca cada rodaja con papel de cocina.",
+			"Enciende una plancha o sartén y pon un poco de aceite de oliva. Pasa las berenjenas por la plancha a fuego fuerte varios minutos por cada lado.",
+			"Coloca una capa de berenjenas en el slow cooker, cubre con varias cucharadas de salsa de tomate, pimienta negra, albahaca, rodajas de mozzarella y queso parmigiano rallado. Repite varias veces estas capas hasta acabar con todas las berenjenas. Termina con mozzarella y una buena capa de queso parmigiano rallado.",
+			"Pon un paño de rizo sobre la olla de cocción lenta, coloca la tapa encima y tensa el paño.",
+			"Cocina durante 3 horas en ALTA. Pasado ese tiempo, sigue la cocción sin tapa durante 1 hora más o hasta que gran parte del líquido se haya evaporado."
+		]
+	},
+	{
+		"Title": "as",
 		"Amount": "",
 		"Utility": null,
 		"Type": "",

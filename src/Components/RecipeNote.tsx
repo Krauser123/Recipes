@@ -22,7 +22,7 @@ export class RecipeNote extends Component<RecipeNoteProps, RecipeNoteState> {
         return (
             <div className='recipeNote'>
                 <h3 className='recipeTitle'>{this.props.recipe.Title}</h3>
-                <div>
+                <div className="ingredientsContainer">
                     <h4>{Constants.Ingredientes}</h4>
                     {this.props.recipe.Ingredients.map((element, index) => (
                         <div key={index} className="row">

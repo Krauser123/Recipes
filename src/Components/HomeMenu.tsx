@@ -42,16 +42,30 @@ export class HomeMenu extends Component<HomeProps, HomeState> {
 
     render() {
         let recipeId = this.searchRecipeFromQueryString();
-
-        return (
-            <div>
+        let content: JSX.Element;
+        if (recipeId === -1) {
+            content = <div className="notfoundContainer">
+                <div className="notfound">
+                    <div className="notfound-404">
+                        <h3>Oops! Page not found</h3>
+                        <h1><span>4</span><span>0</span><span>4</span></h1>
+                    </div>
+                    <h2>we are sorry, but the page you requested was not found</h2>
+                </div>
+            </div>;
+        } else {
+            content = <div>
                 <div className='recipesSearch'>
                     <Search recipes={recipes as IRecipe[]}></Search>
                 </div>
                 <div className='recipesView'>
                     <RecipeNote recipe={recipes[recipeId] as IRecipe}></RecipeNote>
                 </div>
-            </div>
+            </div>;
+        }
+
+        return (
+            content
         );
     }
 }
