@@ -42,8 +42,8 @@ body {
 }
 
 .recipesView {
-  float: right;
-  width: 80%;
+  width: 75em;
+  margin-left: 24em;
 }
 
 .recipeTitle {
