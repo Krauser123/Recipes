@@ -1,5 +1,6 @@
 
 export interface IRecipe {
+    Id: number;
     Title: string;
     Amount: string;
     Utility: string | null;

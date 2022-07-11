@@ -1,6 +1,6 @@
 [
 	{
-		"Title": "Salmorejo De Zanahoria De Rodrigo De La Calle",
+		"Title": "Salmorejo De Zanahoria",
 		"Amount": "4",
 		"Utility": null,
 		"Type": null,
@@ -203,25 +203,7 @@
 		]
 	},
 	{
-		"Title": "Quiche lorraine",
-		"Amount": "",
-		"Utility": null,
-		"Type": null,
-		"Ingredients": [
-			""
-		],
-		"Ingredients2": {
-			"TitleIngredients2": null,
-			"Ingredients": [
-				""
-			]
-		},
-		"Steps": [
-			""
-		]
-	},
-	{
-		"Title": "Alubias Blancas con chorizo ",
+		"Title": "Alubias Blancas con chorizo",
 		"Amount": "",
 		"Utility": null,
 		"Type": null,
@@ -289,7 +271,7 @@
 			"2 Cucharadas de Zanahoria",
 			"1/2 Taza Harina Garbanzos",
 			"Orégano, Pimienta y sal al gusto",
-			"Agua"			
+			"Agua"
 		],
 		"Ingredients2": {
 			"TitleIngredients2": null,
@@ -400,8 +382,8 @@
 		"Steps": [
 			"Aunque en la elaboración de la receta os llevará sobre 30 min, debéis de tener en cuenta que en medio del proceso, deberá reposar la masa de un día para otro. Por ejemplo, si la hacemos por la tarde, pues reposará hasta la mañana siguiente.",
 			"Comenzamos separando unos 400 ml. de leche en una taza y vamos añadiendo poco a poco la harina, al mismo tiempo que removemos con una varilla de repostería. Lo hacemos de manera que no nos queden grumos en la mezcla. Podéis usar también mitad harina de trigo (60 gr.) y mitad Maizena (60 gr.), de este modo espesará más rápido. Batimos 2 huevos y los incorporamos a la mezcla anterior.",
-			"Removemos bien con las varillas para que la mezcla quede perfectamente integrada y sin grumos. Lavamos el limón y pelamos finamente la piel, procurando que no lleve la parte interior blanca, que dará amargor a la leche. Ponemos el resto de la leche (600 ml.) a calentar en una cazuela y añadimos la piel de limón. Mi abuela le echa también una pizca de sal. En cuanto comience el primer hervor, bajamos a fuego medio y retiramos la cáscara de limón.", 
-			"Ahora iremos incorporando a la cazuela la mezcla de los primeros pasos de la receta, poco a poco y removiendo sin parar al mismo tiempo con unas varillas. Es importante no parar de remover en ningún momento ya que no queremos que se nos queme o pegue a la cazuela. Nos tiene que resultar una crema con textura espesa, como en la siguiente foto. Toca ahora el turno del azúcar, que añadimos y removemos de nuevo continuadamente como en anteriores pasos.", 
+			"Removemos bien con las varillas para que la mezcla quede perfectamente integrada y sin grumos. Lavamos el limón y pelamos finamente la piel, procurando que no lleve la parte interior blanca, que dará amargor a la leche. Ponemos el resto de la leche (600 ml.) a calentar en una cazuela y añadimos la piel de limón. Mi abuela le echa también una pizca de sal. En cuanto comience el primer hervor, bajamos a fuego medio y retiramos la cáscara de limón.",
+			"Ahora iremos incorporando a la cazuela la mezcla de los primeros pasos de la receta, poco a poco y removiendo sin parar al mismo tiempo con unas varillas. Es importante no parar de remover en ningún momento ya que no queremos que se nos queme o pegue a la cazuela. Nos tiene que resultar una crema con textura espesa, como en la siguiente foto. Toca ahora el turno del azúcar, que añadimos y removemos de nuevo continuadamente como en anteriores pasos.",
 			"Sin parar de mezclar, pasados unos 2-3 minutos el azúcar estará perfectamente integrado. Elegimos una fuente para verter el contenido de la cazuela, que sea bastante amplia ya que nos debe quedar un grosor/altura de unos 2 cm. de crema. Humedecemos la fuente con agua fría, la escurrimos y vertemos la mezcla de la cazuela en ella. Con ese truco del agua (de la abuela) no se pegará la crema a la fuente. Debe de enfriar lo suficiente para que esté bien consistente antes de rebozar y freír. Lo que os recomiendo es prepararla de un día para otro, para que esté en su punto óptimo. Normalmente mi abuela la hace por la tarde y una vez que ha templado a temperatura ambiente, la deja en el frigorífico hasta la mañana siguiente. Por lo tanto, al menos 16-18 horas de reposo en frío.",
 			"Las porciones: con un cuchillo cortamos la crema fría en porciones cuadradas o rectangulares de unos 5-6 cm y las vamos reservando en un plato antes del rebozado.",
 			"El rebozado: vamos a rebozar las porciones en harina y huevo. En una sartén grande y amplia vertemos abundante aceite de girasol (mi abuela usa este porque el de oliva es fuerte y le aporta sabor al postre) y calentamos a fuego alto. Batimos los 3 huevos restantes.",
@@ -539,7 +521,8 @@
 			]
 		},
 		"Steps": [
-			"Poner aceite a calentar y hacer el refrito con las verduras. Luego se añade avecrem, pimentón y una poquita de agua y se muelen para echarlo a las lentejas escurridas junto al laurel, el chorizo"
+			"Poner aceite a calentar y hacer el refrito con las verduras.",
+			"Luego se añade avecrem, pimentón y un poco de agua y se muelen para echarlo a las lentejas escurridas junto al laurel, el chorizo"
 		]
 	},
 	{
@@ -548,21 +531,21 @@
 		"Utility": "Thermomix",
 		"Type": "",
 		"Ingredients": [
-			""
+			"200 g de pechugas de pollo",
+			"100 g de cacahuetes fritos, con sal y sin piel",
+			"70 g de cebolla",
+			"2 dientes de ajo",
+			"1 cucharada sopera de cominos",
+			"25 g de aceite de oliva",
+			"100 g de leche de coco",
+			"100 g de salsa de soja",
+			"1 cucharada sopera de miel (20 g aprox.)",
+			"1 cucharadita (de las de café) de sal"
 		],
 		"Ingredients2": {
 			"TitleIngredients2": null,
 			"Ingredients": [
-				"200 g de pechugas de pollo",
-				"100 g de cacahuetes fritos, con sal y sin piel",
-				"70 g de cebolla",
-				"2 dientes de ajo",
-				"1 cucharada sopera de cominos",
-				"25 g de aceite de oliva",
-				"100 g de leche de coco",
-				"100 g de salsa de soja",
-				"1 cucharada sopera de miel (20 g aprox.)",
-				"1 cucharadita (de las de café) de sal"
+				""
 			]
 		},
 		"Steps": [
@@ -638,7 +621,7 @@
 		},
 		"Steps": [
 			"Ponemos a pochar la cebolla picadita junto con los dientes de ajo y la guindilla limpia de semillas, cuando estén tiernos retiramos del fuego y ponemos en el vaso batidor y le añadimos, el pimentón, unos granitos de pimienta, el comino y el vinagre, batimos bien y pasamos por el chino depositando en un cazo junto con el caldo que pondremos al fuego  suave durante diez minutos, desliamos la cucharadita de harina en un poquito de agua y añadimos al cazo removiendo hasta que espese un poco, y retiramos del fuego.",
-			"Pasamos nuestros filetes por la plancha salpicados con un poco de sal, cuando los tengamos hechos por ambos lados servimos rociados con nuestra picante salsa."
+			"Pasamos nuestros filetes por la plancha salpicados con un poco de sal, cuando los tengamos hechos por ambos lados servimos rociados con nuestra salsa picante."
 		]
 	},
 	{
@@ -1065,8 +1048,12 @@
 		"Utility": null,
 		"Type": "Cocktail",
 		"Ingredients": [
-			"1 parte de Gin",
-			"1 parte de Vermouth seco"
+			"Hielo",
+			"2 Chorritos de Bíter",
+			"½ Parte de Granadina",
+			"1 Parte de Ginebra",
+			"1 Parte de Whisky Escocés",
+			"1 Entero Cereza Al Maraschino"
 		],
 		"Ingredients2": {
 			"TitleIngredients2": null,
@@ -1075,7 +1062,9 @@
 			]
 		},
 		"Steps": [
-			""
+			"Llenar un recipiente de mezcla con hielo.",
+			"Añadir todos los ingredientes. Remover y colar en una copa de cóctel.",
+			"Decorar con una cereza al maraschino."
 		]
 	},
 	{
@@ -1275,24 +1264,6 @@
 			"Coloca una capa de berenjenas en el slow cooker, cubre con varias cucharadas de salsa de tomate, pimienta negra, albahaca, rodajas de mozzarella y queso parmigiano rallado. Repite varias veces estas capas hasta acabar con todas las berenjenas. Termina con mozzarella y una buena capa de queso parmigiano rallado.",
 			"Pon un paño de rizo sobre la olla de cocción lenta, coloca la tapa encima y tensa el paño.",
 			"Cocina durante 3 horas en ALTA. Pasado ese tiempo, sigue la cocción sin tapa durante 1 hora más o hasta que gran parte del líquido se haya evaporado."
-		]
-	},
-	{
-		"Title": "as",
-		"Amount": "",
-		"Utility": null,
-		"Type": "",
-		"Ingredients": [
-			""
-		],
-		"Ingredients2": {
-			"TitleIngredients2": null,
-			"Ingredients": [
-				""
-			]
-		},
-		"Steps": [
-			""
 		]
 	}
 ]

@@ -2,7 +2,11 @@ import React, { Component } from 'react';
 import { RecipeNote } from './RecipeNote';
 import { Search } from './Search';
 import { default as recipes } from "../Data/recipes.json";
-import { IRecipe } from '../Classes/Recipe';
+import { IRecipe } from '../Classes/IRecipe';
+import { NotFound } from './NotFound';
+import { ReactSearchAutocomplete } from 'react-search-autocomplete';
+import { Utils } from '../Classes/Utils';
+import { SearchItem } from '../Classes/SearchItem';
 
 interface HomeProps {
 }
@@ -12,10 +16,16 @@ interface HomeState {
 
 export class HomeMenu extends Component<HomeProps, HomeState> {
     static displayName = HomeMenu.name;
+    searchItems: SearchItem[] = [];
 
     constructor(props: HomeProps) {
         super(props);
         this.state = {};
+
+        for (let i = 0; i < recipes.length; i++) {
+            let item: SearchItem = new SearchItem(i, recipes[i].Title);
+            this.searchItems.push(item);
+        }
     }
 
     searchRecipeFromQueryString(): number {
@@ -31,7 +41,7 @@ export class HomeMenu extends Component<HomeProps, HomeState> {
         return recipeId;
     }
 
-    getParameterByName(name: string, url = window.location.href) {
+    getParameterByName = (name: string, url = window.location.href) => {
         name = name.replace(/[\[\]]/g, '\\$&');
         var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
             results = regex.exec(url);
@@ -40,36 +50,40 @@ export class HomeMenu extends Component<HomeProps, HomeState> {
         return decodeURIComponent(results[2].replace(/\+/g, ' '));
     }
 
+    handleOnSelect = (item: any) => {
+        console.log(item);
+        window.location.href = Utils.getPathFromUrl(window.location.href) + "?Title=" + item.name;
+    }
+
     render() {
         let recipeId = this.searchRecipeFromQueryString();
         let content: JSX.Element;
+        let centralContent: JSX.Element;
+
         if (recipeId === -1) {
-            content = <div className="notfoundContainer">
-                <div className="notfound">
-                    <div className="notfound-404">
-                        <h3>Oops! Page not found</h3>
-                        <h1><span>4</span><span>0</span><span>4</span></h1>
-                    </div>
-                    <h2>we are sorry, but the page you requested was not found</h2>
-                </div>
-            </div>;
+            centralContent = <NotFound></NotFound>;;
         } else {
-            content = <div>
-                <div className='recipesSearch'>
-                    <Search recipes={recipes as IRecipe[]}></Search>
-                </div>
-                <div className='recipesView'>
-                    <RecipeNote recipe={recipes[recipeId] as IRecipe}></RecipeNote>
-                </div>
-            </div>;
+            centralContent = <RecipeNote recipe={recipes[recipeId] as IRecipe}></RecipeNote>
         }
+
+        content = <div>
+            <div className='recipesAutoSearch'>
+                <ReactSearchAutocomplete
+                    items={this.searchItems}
+                    onSelect={this.handleOnSelect}
+                    autoFocus
+                />
+            </div>
+            <div className='recipesSearch'>
+                <Search recipes={recipes as IRecipe[]}></Search>
+            </div>
+            <div className='recipesView'>
+                {centralContent}
+            </div>
+        </div>;
 
         return (
             content
         );
     }
 }
-
-
-
-

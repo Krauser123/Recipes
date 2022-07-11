@@ -1,42 +1,43 @@
-html{
-  background-color: #282C34;  
+html {
+  background-color: #282C34;
 }
 
 body {
   margin: 0;
   color: white !important;
-  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;  
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .App {
   margin-top: 3%;
+  background-color: #282C34;
 }
 
 .recipesSearch {
   color: #e3a21a;
-  float: left;  
+  float: left;
   border-top: 5px solid #1C6EA4;
-  border-right: 5px solid #1C6EA4;  
+  border-right: 5px solid #1C6EA4;
   border-bottom: 5px solid #1C6EA4;
   border-radius: 0px 17px 17px 0px;
+  width: 22em;
 }
 
 .recipeStepsLG .row:first-child {
-border-radius: 5px 5px 0px 0px;
+  border-radius: 5px 5px 0px 0px;
 }
 
 .recipeStepsLG .row:last-child {
   border-radius: 0px 0px 5px 5px;
-  }
+}
 
-.recipesSearch .row
-{
+.recipesSearch .row {
   margin-left: 1%;
 }
 
-.recipeLink{
+.recipeLink {
   cursor: pointer;
 }
 
@@ -54,12 +55,23 @@ border-radius: 5px 5px 0px 0px;
   margin-top: 2%;
 }
 
-.recipeStepsLG {
-  
+.recipesAutoSearch {
+  width: 25%;
+  float: right;
+  margin-right: 2%;
+  margin-top: -4em;
 }
 
+.appTitle {
+  font-size: 4em;
+  color: #FACF5A;
+  margin-top: -1em;
+  font-family: Copperplate,fantasy;
+}
 
-.notfoundContainer{
+/* Not found component */
+
+.notfoundContainer {
   background-color: #282C34;
   text-align: -webkit-center;
 }
@@ -117,19 +129,19 @@ border-radius: 5px 5px 0px 0px;
 }
 
 #notfound .notfound {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .notfound {
-    max-width: 50em;
-    width: 100%;
-    line-height: 1.4;
-    text-align: center;
-    background: transparent;
-    color: #e3a21a;
+  max-width: 50em;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+  background: transparent;
+  color: #e3a21a;
 }
