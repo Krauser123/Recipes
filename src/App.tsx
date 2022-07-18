@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className='appTitle'>🍔 Recipes</div>
+      <div className='appTitle'>🍔 Recetas</div>
       <HomeMenu></HomeMenu>      
     </div>
   );
