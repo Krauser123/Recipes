@@ -1266,5 +1266,501 @@
 			"Pon un paño de rizo sobre la olla de cocción lenta, coloca la tapa encima y tensa el paño.",
 			"Cocina durante 3 horas en ALTA. Pasado ese tiempo, sigue la cocción sin tapa durante 1 hora más o hasta que gran parte del líquido se haya evaporado."
 		]
+	},
+	{
+		"Title": "Gigli capricci con salsa de almendras",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"400 g de pasta gigli capricci",
+			"100 g de almendras",
+			"2 dientes de ajo",
+			"2 vasos de leche",
+			"4 cucharadas de vino blanco",
+			"8 cucharadas de tomate frito",
+			"Un chorrito de aceite de oliva",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En el vaso de la batidora ponemos; los ajos pelados y enteros, las almendras que previamente hemos tostado un poco en la sartén (sin nada) y la leche",
+			"Batimos bien hasta que las almendras estén totalmente picadas, sin dejar de batir añadimos un chorrito de aceite",
+			"Cuando esté bien unido echamos el tomate y seguimos batiendo, por último echamos el vino que en mi caso he utilizado Mistela",
+			"Batimos un poco más y volcamos en una cacerola amplia y ponemos al fuego suave removiendo de vez en cuando.",
+			"Mientras tendremos el agua hirviendo y coceremos nuestra pasta según indiquen las instrucciones del paquete, cuando esté cocida escurrimos bien y volcamos sobre la pasta, removemos un poco y dejamos cocinar un par de minutos."
+		]
+	},
+	{
+		"Title": "Mojo picón",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Type": "Salsa",
+		"Ingredients": [
+			"Miga pan",
+			"Medio vaso aceite",
+			"35 ml vinagre",
+			"Cayena al gusto",
+			"2 ajos",
+			"1 cucharada comino",
+			"1 cucharada pimentón dultece",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Hay que comenzar por pelar los ajos Estos luego se echarán en el vaso de la Thermomix, que se programará a velocidad 5 / 5 segundos.",
+			"Acto seguido, se le añadirá el comino y la guindilla. El robot se programará en este caso a velocidad 7 / 20 segundos.",
+			"Por último, se procederán a añadir los demás ingredientes y la Thermomix se deberá poner a funcionar a velocidad 7 / 20 segundos.",
+			"Si la mezcla no quedase demasiado homogénea, se volverá a darle la misma programación. Y ya está. Ya estará preparado un exquisito mojo picón."
+		]
+	},
+	{
+		"Title": "Pollo cordon bleu",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"Filetes de pollo cortados muy finos (Puede ser empanado)",
+			"Queso variado (Roque, camenber, en lonchas,cheddar, emmental etc...)",
+			"Jamon York o similar",
+			"2 dientes de ajo",
+			"2 Cebollas"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Superponer dos filetes y en medio el jamon york y el queso.",
+			"Cortar las ceboollas en rodajas muy finas. Las pasamos durante dos minutos en la misma sartén donde hemos frito los filetes. Añadimos dos o tres dientes de ajo cortados en finas láminas.",
+			"Removemos otro par de minutos y retiramos del fuego.",
+			"Asegurar con palillos y meter en el horno con un poco de aceite en la parte inferior y una nuez de mantequilla en la superior",
+			"Cambiar unos 15 min cada lado y finalizar con una loncha de queso que se deja gratinar."
+		]
+	},
+	{
+		"Title": "Pulpo marcado al pimentón",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Entrante",
+		"Ingredients": [
+			"1 pulpo pequeño cocido",
+			"3 patatas grandes",
+			"Aceite de oliva",
+			"Agua",
+			"Sal",
+			"Pimienta",
+			"Pimentón dulce"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Necesitamos un pulpo cocido. Los podemos encontrar en las pescaderías, ya cocidos y al dente, para darles una cocción final en casa.",
+			"Lo cortamos en trozos grandes y los marcamos a la plancha con unas gotas de aceite hasta conseguir un bonito dorado. Los reservamos.",
+			"Pelamos las patatas y las cortamos en trozos cuadrados y rectangulares de diferentes tamaños.",
+			"En realidad estamos utilizando los elementos básicos del pulpo a la gallega, pero ordenándolos de otra manera.",
+			"Ponemos a cocer las patatas en abundante agua con sal hasta que estén tiernas pero sin que se deshagan.",
+			"Unos 15 minutos. Las dejamos templar en su agua. Las escurrimos y las ponemos en un bol junto con los trozos de pulpo.",
+			"Lo regamos todo con el aceite en el que hemos diluido el pimentón y lo removemos bien todo para que se mezcle perfectamente.",
+			"Hay que hacerlo con cuidado para no romper la patata. Y el resto es presentación. Colocamos los trozos de pulpo y de patata en cada plato, regamos con un hilillo e aceite de oliva y listo."
+		]
+	},
+	{
+		"Title": "Lasaña mexicana de pollo",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"1 1/2 pechuga de pollo sin piel",
+			"300 g de salsa de tomate",
+			"5 tortillas de trigo mexicanas",
+			"100 ml de nata líquida",
+			"500 g de salsa bechamel",
+			"20 g de queso rallado para gratinar (tipo edam, masdam o similar)",
+			"1 hoja de laurel",
+			"6 granos de pimienta negra",
+			"aceite de oliva suave."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Cocemos las pechugas de pollo en agua hirviendo con sal, junto con la hoja de laurel y los granos de pimienta negra. Trascurridos 10 minutos, apagamos el fuego, tapamos la cacerola, retiramos y dejamos atemperar dentro del mismo líquido. Esto puede llevar unas horas, de modo que recomiendo que lo hagáis a primera hora de la mañana, si preparáis este plato para la comida.",
+			"Una vez atemperado el pollo, lo escurrimos y lo desmigamos con las manos o con ayuda de un tenedor. Este es un proceso muy sencillo pues las hebras de la carne de la pechuga de pollo se separan fácilmente, no hay más que tirar de un extremo para que salga la hebra entera. Mezclamos las hebras de pollo con la salsa de tomate, sazonamos, removemos bien y reservamos.",
+			"Engrasamos una sartén con un poco de aceite de oliva, lo suficiente para cubrir la base. Tostamos ligeramente las tortillas de trigo, una a una, por las dos caras. Es fácil ver cuándo hay que voltearlas porque ellas mismas se abomban un poco, como si cogieran aire por dentro, por efecto del calor.",
+			"Cubrimos la base de una fuente de horno con una capa fina de salsa bechamel. Sobre ella colocamos una tortilla de trigo y, sobre la tortilla de trigo extendemos una capa de la mezcla de pollo y tomate. Regamos con un chorrito de nata líquida. A continuación, colocamos otra tortilla de trigo, otra capa de pollo y tomate y, nuevamente, nata líquida. Repetimos hasta terminar con una tortilla de trigo.",
+			"Cubrimos la lasaña mexicana de pollo con el resto de la salsa bechamel, espolvoreamos con el queso rallado para gratinar e introducimos en el horno, pre-calentado a 200ºC, durante unos 20-30 minutos o hasta que la superficie comience a dorarse. Trascurrido el tiempo de horneado, retiramos la fuente y dejamos reposar cinco minutos antes de servir."
+		]
+	},
+	{
+		"Title": "Pastel de merluza y dátiles con mahonesa de piquillos",
+		"Amount": "4-6",
+		"Utility": null,
+		"Type": "Entrante",
+		"Ingredients": [
+			"2 filetes de merluza",
+			"1 puerro con la parte verde",
+			"1 cebolla",
+			"2-3 dientes de ajo",
+			"3-4 dátiles medjool",
+			"6 huevos",
+			"1 vaso de nata",
+			"1 vaso de tomate frito casero",
+			"aceite de oliva virgen extra",
+			"pimienta",
+			"sal",
+			"ramas de perejil",
+			"ramas de tomillo",
+			"harina para el molde"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Para la salsa de piquillos",
+			"Ingredients": [
+				"1 huevo",
+				"1-2 piquillos",
+				"vinagre de Jerez",
+				"aceite de oliva suave",
+				"sal"
+			]
+		},
+		"Steps": [
+			"Pon abundante agua en una cazuela con una rama de tomillo, una de perejil, el verde de un puerro y un chorrito de aceite de oliva. Introduce la merluza y deja que se cocine a fuego medio durante 5 minutos aproximadamente. Escurre y desmenúzala un poco.",
+			"Pica finamente los ajos, el puerro y la cebolla y pocha todo en una tartera con aceite de oliva. Incorpora la merluza y la salsa de tomate. Sazona y cocina un par de minutos.",
+			"Pon la nata en un bol. Agrega los huevos y salpimienta. Bate. Mezcla todo con la merluza. Añade los dátiles picados y remueve.",
+			"Unta un molde rectangular con aceite y espolvoréalo con harina. Introduce la mezcla y hornea el pastel al baño maría a 170ºC durante 40 minutos. Deja que se temple o se enfríe, depende de cómo lo quieras servir.",
+			"Para la mahonesa de piquillos, pon en el vaso de la batidora un chorro de vinagre. Vierte aceite de oliva suave, una pizca de sal y un huevo. Tritura hasta que ligue. Añade los piquillos y sigue triturando.",
+			"Sirve una ración de pastel de merluza y dátiles con la mahonesa de piquillos."
+		]
+	},
+	{
+		"Title": "Po’ boy",
+		"Amount": "2 bocadillos",
+		"Utility": null,
+		"Type": "Principal",
+		"Ingredients": [
+			"300 gramos de langostinos",
+			"2 piezas de pan para bocadillo",
+			"4 hojas de un cogollo de lechuga bien lavadas",
+			"1 huevo",
+			"4 cucharadas de pan rallado casero",
+			"2 cucharadas de harina de trigo",
+			"1/2 cucharada pequeña de pimentón dulce",
+			"1/2 cucharada pequeña de sal",
+			"1/4 cucharada pequeña de cayena picada",
+			"1/4 de litro de aceite para freír"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Salsa",
+			"Ingredients": [
+				"4 cucharadas de mayonesa",
+				"1 cucharada de mostaza dulce",
+				"1 cucharada pequeña de limón exprimido"
+			]
+		},
+		"Steps": [
+			"Para preparar la salsa de nuestro bocata echa en un cuenco pequeño 4 cucharadas de mayonesa. Añade 1 cucharada de mostaza dulce y una cucharada pequeña de limón exprimido. Mezcla bien y si tienes un biberón mete la salsa en él y reserva en el frigorífico.",
+			"Ahora prepara un plato con 4 cucharadas de pan rallado casero (mira aquí como prepararlo). En otro plato echa 2 cucharadas de harina de trigo, media cucharada pequeña de pimentón dulce, media cucharada pequeña de sal, 1/4 de una cucharada pequeña con cayena picada y mezcla. Echa un huevo en otro plato y bátelo bien.",
+			"Pela 300 gramos de langostinos y luego pásalos por la harina. Después pásalos por el huevo batido. Y por último rebózalos en el pan rallado.",
+			"Pon a calentar un cazo con un cuarto de litro de aceite. Cuando esté caliente, a unos 180ºC, añade algunos langostinos y déjalos en el fuego hasta que se doren bien.",
+			"Luego sácalos y déjalos sobre un plato con papel de cocina para eliminar el exceso de aceite. Repite con los demás langostinos hasta que estén todos fritos.",
+			"Ahora abre a lo largo dos piezas de pan para bocadillos pero sin llegar al final del todo para evitar que los langostinos se salgan. Añade un poco de la salsa que hemos preparado.",
+			"Luego coloca un par de hojas de un cogollo de lechuga. Pon también 3 o 4 rodajas de tomate en cada bocata. Y ahora reparte los langostinos entre los dos bocadillos.",
+			"Por último añade un poco de la salsa por encima de los langostinos y listo"
+		]
+	},
+	{
+		"Title": "Salsa brava",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Salsas",
+		"Ingredients": [
+			"1 Cebolla",
+			"Medio diente de ajo",
+			"Media pastilla avecrem"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En una sartén se hecha un chorrito de aceite y a fuego lento un poco de cebolla y medio diente de ajo.",
+			"Se hecha sal para que la cebolla poche y no pierda el agua. Cuando esté blanda se hecha una cuchara colmada de harina que se mezclara con el aguilla de la cebolla y se cocinará un poquito.",
+			"Echa media cucharadita de pimentón dulce y media de pimentón picante, pero ojo ... tiene que ser necesariamente pimentón de La Vera (Cáceres).",
+			"Se tuesta un poco y vamos añadiendo poco a poco un tazón de agua con media pastilla de caldo de carne.",
+			"Cuando tenga la densidad que queremos se pasa por un colador y se vierte sobre las patatas ya fritas."
+		]
+	},
+	{
+		"Title": "Salsa Española",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Salsas",
+		"Ingredients": [
+			"6 champiñones",
+			"2 cebolletas",
+			"2 dientes de ajo",
+			"2 cucharadas de harina",
+			"3-4 cucharadas de salsa de tomate",
+			"1 vaso de caldo de ave",
+			"1/2 copa de brandy",
+			"1/2 vaso de vino tinto",
+			"1/2 vaso de agua",
+			"aceite de oliva",
+			"sal",
+			"2 ramas de tomillo",
+			"1 rama de romero"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Lamina los dientes de ajo, pica las cebolletas y pon todo a dorar en una cazuela con un chorrito de aceite.",
+			"Añade la grasa del cordero y rehoga a fuego fuerte. Sazona y agrega los champiñones, el romero y el tomillo.",
+			"Incorpora la harina, deja que se tueste y vierte la salsa de tomate. Moja con el brandy, el vino, el caldo y el agua.",
+			"Deja hervir durante 20-25 minutos y retira la espuma. Pasa la salsa por un chino y déjala reducir en un cazo a fuego suave."
+		]
+	},
+	{
+		"Title": "Vinagreta de miel y mostaza",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Salsas",
+		"Ingredients": [
+			"6 cucharadas soperas de aceite de oliva",
+			"2 cucharadas de zumo de limón",
+			"1 cucharada de mostaza de Dijon",
+			"1 cucharada de vinagre",
+			"1 cucharada de miel",
+			"Pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Elaboración de la vinagreta de miel y mostaza",
+			"Pon en un bol la miel y caliéntala unos segundos en el microondas hasta que esté líquida.",
+			"A continuación mezcla la miel con el zumo de limón, el vinagre la mostaza y la pimienta. Por último añade el aceite y mezcla bien con una varilla.",
+			"Colócala en una salsera para servir. Antes de aliñar en el último momento vuelve a ligar la salsa con una cuchara."
+		]
+	},
+	{
+		"Title": "Salsa Curry Rojo",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Salsas",
+		"Ingredients": [],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				"30 gr. de curry en pasta",
+				"60 ml. de nata",
+				"1 diente de ajo",
+				"1 cucharada de harina",
+				"1 vaso de caldo de pescado",
+				"1/2 copa de vino blanco",
+				"aceite de oliva"
+			]
+		},
+		"Steps": [
+			"En una sartén con aceite, pon un diente de ajo picado, una cucharada de harina, el curry, el caldo de pescado y el vino blanco.",
+			"Sazona, añade un chorrito de nata y cocina un par de minutos."
+		]
+	},
+	{
+		"Title": "Salsa de Alemendras",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Salsas",
+		"Ingredients": [
+			"2 huevos",
+			"5 dientes de ajo",
+			"1 zanahoria",
+			"1 puerro",
+			"50 gr. de almendra molida",
+			"agua",
+			"aceite de oliva virgen extra",
+			"pimentón",
+			"sal",
+			"Perejil"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Trocea y cuece la zanahoria y el puerro en una cazuela con agua y unas ramas de perejil. Sazona y deja cocer durante 15 minutos. Cuela el caldo y resérvalo.",
+			"Cuece los huevos en una cazuela con agua y sal durante 10 minutos. Separa las claras de las yemas y reserva las yemas.",
+			"Maja un diente de ajo pelado en el mortero, agrega las yemas y la almendra molida. Sigue majando y añade el caldo. Mezcla bien. Agrega un poco de pimentón. Mezcla. Cuela y deja reducir en un cazo.",
+			"Pon a punto de sal y utiliza la salsa de almendras para el plato elegido."
+		]
+	},
+	{
+		"Title": "Bechamel",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"2 vasos de leche (1/2 l)",
+			"3 cucharadas de mantequilla",
+			"2 cucharadas de harina",
+			"sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pon una cazuela a fuego suave e introduce la mantequilla. Cuando se funda agrega la harina, mezcla bien hasta que quede perfectamente integrada.",
+			"Rehoga un poco y vierte la mitad de la leche (que esté fría) poco a poco, sin dejar de remover con una varilla o cuchara de madera, hasta conseguir una crema homogénea.",
+			"Vierte el resto de la leche en 2 veces, sin dejar de remover. Echa sal a tu gusto y cocina la salsa a fuego suave durante 10-15 minutos. Cuanto más tiempo la cocines, más suave y rica quedará.",
+			"Si no la usas de inmediato pásala a un recipiente y tápala con papel plástico de cocina. Es importante que el plástico esté en contacto con la masa. De esta forma evitarás que le salga costra en la parte superior."
+		]
+	},
+	{
+		"Title": "Salsa Velouté",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"2 zanahorias",
+			"1 cebolla",
+			"2 cucharadas de harina",
+			"1 vaso de caldo de verduras",
+			"aceite de oliva"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pica la cebolla, corta las zanahorias en juliana fina y ponlas a pochar en una sartén con un chorrito de aceite.",
+			"Sazona y deja que se cocinen durante 15 minutos a fuego medio.",
+			"Añade la harina y rehoga. Vierte el caldo de verduras poco a poco, mezcla bien y cocina durante unos 2-3 minutos."
+		]
+	},
+	{
+		"Title": "Ternera en salsa de ostras",
+		"Amount": "",
+		"Utility": null,
+		"Type": "Principal",
+		"Ingredients": [
+			"300 gramos de carne de ternera (si queréis poner solomillo mejor)",
+			"1 pimiento verde",
+			"1 pimiento rojo",
+			"1 pimiento amarillo",
+			"1 zanahoria",
+			"1 cebolleta",
+			"2 ajos",
+			"Jengibre fresco (un toque)",
+			"1 cucharada de salsa de ostras Lee Kum Keeç",
+			"Caldo de ave",
+			"Azúcar moreno (al gusto)",
+			"Salsa de soja",
+			"1 cucharada de harina"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Comenzamos cortando la ternera en tiras y macerandola durante 10 minutos en salsa de soja.",
+			"Cortamos en juliana las verduras y las pochamos en un poco de aceite. Una vez pochadas las retiramos y reservamos.",
+			"En esta misma sartén salteamos 2 minutos a fuego fuerte la ternera. Primeramente la debemos de escurrir bien de la salsa de soja con la ayuda de un colador.",
+			"A los dos minutos retiramos y reservamos junto con las verduras.",
+			"Seguimos en la misma sartén. Ponemos una gota más de aceite y doramos los ajos y el jengibre rayado.",
+			"Una vez dorados los retiramos y lo tiramos porque no lo usaremos en esta receta, simplemente es para darle sabor.",
+			"En el aceite rehogamos la cucharada de harina y seguidamente agregamos la cucharada de salsa de ostras y caldo de ave.",
+			"Iremos poniendole poco a poco hasta conseguir el espesor deseado. En este paso incorporamos un poco de azúcar. Lo vamos probando hasta pillarle el punto.",
+			"Una vez lista la salsa incorporamos la ternera y las verduras y dejamos cocinar unos 10 minutos a fuego lento y listo."
+		]
+	},
+	{
+		"Title": "Atun rojo con teriyaki",
+		"Amount": "2",
+		"Utility": null,
+		"Type": "Principal",
+		"Ingredients": [
+			"2 solomillos de atún rojo",
+			"Salsa teriyaki",
+			"2 cebollas rojas (también podemos usar la normal)",
+			"Sal",
+			"Pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Comenzamos macerando en salsa teriyaki el atún, es decir, impregnamos bien los solomillos para que coja el sabor de la salsa. Dejamos macerar una media hora.",
+			"Cortamos la cebolla en juliana fina y la ponemos a pochar a fuego muy lento, dándole muchas vuelta hasta que quede blanda y transparente.",
+			"Una vez este blanda y transparente agregamos un par de cucharadas soperas de salsa teriyaki y dejamos cocinar a fuego lento durante unos 5 minutos para que se caramelice la cebolla con esta salsa.",
+			"Reservamos la cebolla y la ponemos como cama en un plato. Pasamos por la plancha los solomillos de atún. Intentad que sea como 1 minuto por cada lado a fuego fuerte para que se cree una costra en el atún y quede crudito por dentro."
+		]
+	},
+	{
+		"Title": "Gambas picantes chinas",
+		"Amount": "",
+		"Utility": null,
+		"Type": "",
+		"Ingredients": [
+			"750 gramos de gambones pelados.",
+			"2 guindillas cayenas",
+			"1 pimiento verde",
+			"1 cebolleta",
+			"3 cucharada de salsa de soja",
+			"3 cucharada de vino blanco",
+			"3 cucharada de vinagre de arroz ( si no tenemos vinagre normal)",
+			"2 cucharadas de azúcar",
+			"2 cucharadas de maizena"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Comenzamos pelando los gambones y dorandolos en una sartén. Les damos simplemente un salteado fuerte para que se doren y queden crudos por dentro pero hechos por fuera, luego los terminaremos de hacer con la salsa. Una vez dorados los retiramos y reservamos.",
+			"En la misma sartén salteamos el pimiento y la cebolleta cortados en trozos grandes. En este paso incorporamos las cayenas.",
+			"Una vez hechas las verduras, pasados unos 7 minutos, añadimos la salsa de soja, el vinagre, el vino, el azúcar y la maizena removiendo muy bien para que la maizena se cocine y no nos quede un sabor a crudo.",
+			"La harina será para espesar así que si queremos la salsa menos espesa pondremos solo una cucharada. Incorporamos los gambones y lo dejamos cocer con la salsa durante 3 minutos más."
+		]
 	}
 ]
