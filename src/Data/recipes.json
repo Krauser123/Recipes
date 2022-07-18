@@ -813,7 +813,10 @@
 			]
 		},
 		"Steps": [
-			""
+			"Comenzamos con la receta: en un vaso añade un el terrón de azúcar y un chorrito de Angostura, deja reposar 2 minutos.",
+			"Llenar el vaso de soda o sifón, dependiendo el tamaño del vaso unos 150 ml aproximadamente.",
+			"Añade el whisky y remueve para disolver el azúcar.",
+			"Decorar con las cortezas de cítricos."
 		]
 	},
 	{
@@ -835,7 +838,8 @@
 			]
 		},
 		"Steps": [
-			"Verter la cantidad de Jack Daniel’s que dicta la receta en un vaso cóctel resistente al calor. Añadir una cucharada de miel, el jugo de limón y unas pocas ramas de canela. Cubrir con el agua hervida caliente y revolver el contenido."
+			"Verter la cantidad de Jack Daniel’s que dicta la receta en un vaso cóctel resistente al calor.",
+			"Añadir una cucharada de miel, el jugo de limón y unas pocas ramas de canela. Cubrir con el agua hervida caliente y revolver el contenido."
 		]
 	},
 	{
@@ -856,7 +860,8 @@
 			]
 		},
 		"Steps": [
-			""
+			"Mezclar todo",
+			"Añadir hielo"
 		]
 	},
 	{
