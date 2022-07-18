@@ -27,19 +27,67 @@ body {
   font-family: Copperplate, fantasy;
 }
 
+.recipesAutoSearch li {
+  cursor: pointer;
+}
+
+.ingredientsContainer .form-check input,
+label {
+  cursor: pointer;
+}
+
+.recipeStepsLG .row:first-child {
+  border-radius: 5px 5px 0px 0px;
+}
+
+.recipeStepsLG .row:last-child {
+  border-radius: 0px 0px 5px 5px;
+}
+
+.recipeStepsLG .row:first-child:last-child {
+  border-radius: 5px 5px 5px 5px;
+}
+
+.recipeTags {
+  margin-top: 1em;
+}
+
+.tag {
+  margin-right: 0.5em;
+}
+
 /*Mobile*/
+@media only screen and (max-width: 760px) {
+  .appTitle {
+    text-align: center;
+  }
 
-.recipesSearch {
-  visibility: collapse;
-  display: none;
+  h4 {
+    margin-top: 1em !important;
+  }
+
+  .recipesSearch {
+    visibility: collapse;
+    display: none;
+  }
+
+  .recipeTags {
+    text-align: center;
+  }
+
+  .recipesView {
+    margin-top: 2em;
+    padding: 1em;
+  }
+
+  .recipesAutoSearch {
+    padding-right: 1em;
+    padding-left: 1em;
+  }
 }
 
-.recipesView{
-  margin-top: 2em;
-}
-
+/* For desktop: */
 @media only screen and (min-width: 768px) {
-  /* For desktop: */
 
   .recipesSearch {
     color: #e3a21a;
@@ -49,14 +97,11 @@ body {
     border-bottom: 5px solid #1C6EA4;
     border-radius: 0px 17px 17px 0px;
     width: 22em;
-  }
-
-  .recipeStepsLG .row:first-child {
-    border-radius: 5px 5px 0px 0px;
-  }
-
-  .recipeStepsLG .row:last-child {
-    border-radius: 0px 0px 5px 5px;
+    height: 65em;
+    overflow-y: auto;
+    overflow-x: hidden;
+    visibility: visible;
+    display: initial;
   }
 
   .recipesSearch .row {
@@ -87,83 +132,82 @@ body {
     margin-right: 2%;
     margin-top: -4em;
   }
+}
 
-  
 
-  /* Not found component */
+/* Not found component */
 
-  .notfoundContainer {
-    background-color: #282C34;
-    text-align: -webkit-center;
-  }
+.notfoundContainer {
+  background-color: #282C34;
+  text-align: -webkit-center;
+}
 
-  #notfound {
-    position: relative;
-    height: 100vh;
-  }
+#notfound {
+  position: relative;
+  height: 100vh;
+}
 
-  #notfound .notfound {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-  }
+#notfound .notfound {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
 
-  .notfound .notfound-404 {
-    position: relative;
-    height: 240px;
-  }
+.notfound .notfound-404 {
+  position: relative;
+  height: 240px;
+}
 
-  .notfound .notfound-404 h3 {
-    font-family: 'Cabin', sans-serif;
-    position: relative;
-    font-size: 16px;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #e3a21a;
-    margin: 0px;
-    letter-spacing: 3px;
-    padding-left: 6px;
-  }
+.notfound .notfound-404 h3 {
+  font-family: 'Cabin', sans-serif;
+  position: relative;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #e3a21a;
+  margin: 0px;
+  letter-spacing: 3px;
+  padding-left: 6px;
+}
 
-  .notfound .notfound-404 h1 {
-    font-family: 'Montserrat', sans-serif;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    font-size: 252px;
-    font-weight: 900;
-    margin: 0px;
-    color: #e3a21a;
-    text-transform: uppercase;
-    letter-spacing: -40px;
-    margin-left: -20px;
-  }
+.notfound .notfound-404 h1 {
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 252px;
+  font-weight: 900;
+  margin: 0px;
+  color: #e3a21a;
+  text-transform: uppercase;
+  letter-spacing: -40px;
+  margin-left: -20px;
+}
 
-  .notfound .notfound-404 h1>span {
-    text-shadow: -8px 0px 0px #fff;
-  }
+.notfound .notfound-404 h1>span {
+  text-shadow: -8px 0px 0px #fff;
+}
 
-  #notfound .notfound {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-  }
+#notfound .notfound {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
 
-  .notfound {
-    max-width: 50em;
-    width: 100%;
-    line-height: 1.4;
-    text-align: center;
-    background: transparent;
-    color: #e3a21a;
-  }
+.notfound {
+  max-width: 50em;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+  background: transparent;
+  color: #e3a21a;
 }

@@ -4,6 +4,7 @@ export interface IRecipe {
     Title: string;
     Amount: string;
     Utility: string | null;
+    Tags: string[];
     Type: string | null;
     Ingredients: string[];
     Ingredients2: Ingredients2;

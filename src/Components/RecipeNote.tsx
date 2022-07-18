@@ -13,11 +13,14 @@ interface RecipeNoteState {
 export class RecipeNote extends Component<RecipeNoteProps, RecipeNoteState> {
     static displayName = RecipeNote.name;
 
-
     render() {
 
         let contentIngredients2: JSX.Element = <div></div>;
+        let tagsContent: JSX.Element[] = [];
+        let colorForTag: string[] = ["amber", "aqua", "blue", "light-blue", "brown", "blue-grey", "green", "light-green", "indigo", "khaki",
+            "lime", "orange", "deep-orange", "pink", "purple", "deep-purple", "red", "sand", "teal", "yellow", "grey"];
 
+        //Build additional ingredients
         if (this.props.recipe.Ingredients2.TitleIngredients2 !== null) {
             contentIngredients2 = <div className="ingredientsContainer">
                 <h4>{this.props.recipe.Ingredients2.TitleIngredients2}</h4>
@@ -33,6 +36,22 @@ export class RecipeNote extends Component<RecipeNoteProps, RecipeNoteState> {
                     </div>
                 ))}
             </div>
+        }
+
+        //Build tags
+        if (this.props.recipe.Tags != null) {
+            for (let i = 0; i < this.props.recipe.Tags.length; i++) {
+
+                //Get random number
+                let rnd = Math.floor(Math.random() * (colorForTag.length));
+
+                //Build and push tag
+                let colorTagWithCss = "tag w3-tag w3-padding w3-round-large w3-center w3-" + colorForTag[rnd];
+                tagsContent.push(<span className={colorTagWithCss}>{this.props.recipe.Tags[i]}</span>);
+
+                //Remove color from list
+                colorForTag.splice(rnd,1);
+            }
         }
 
         return (
@@ -54,6 +73,10 @@ export class RecipeNote extends Component<RecipeNoteProps, RecipeNoteState> {
                 </div>
 
                 {contentIngredients2}
+
+                <div className='recipeTags'>
+                    {tagsContent}
+                </div>
 
                 <div className='recipeSteps'>
                     <h4>{Constants.Prepracion}</h4>

@@ -72,6 +72,7 @@ export class HomeMenu extends Component<HomeProps, HomeState> {
                     items={this.searchItems}
                     onSelect={this.handleOnSelect}
                     autoFocus
+                    placeholder='Buscar recetas'
                 />
             </div>
             <div className='recipesSearch'>
