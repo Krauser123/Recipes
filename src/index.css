@@ -106,6 +106,10 @@ label {
   .menuCategories .recipeLink{
     margin-left: 1em;
   }
+
+  .menuItemParent {
+    text-align: center;
+  }
 }
 
 /* For desktop: */

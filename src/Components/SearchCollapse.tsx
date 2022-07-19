@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Collapse } from 'react-collapse';
 import { IRecipe } from '../Classes/IRecipe';
 import { Utils } from '../Classes/Utils';
 import { SearchCollapseItem } from './SearchCollapseItem';
@@ -8,6 +9,7 @@ interface SearchCollapseProps {
 }
 
 interface SearchCollapseState {
+    isOpened: boolean;
 }
 
 export class SearchCollapse extends Component<SearchCollapseProps, SearchCollapseState> {
@@ -16,7 +18,7 @@ export class SearchCollapse extends Component<SearchCollapseProps, SearchCollaps
 
     constructor(props: SearchCollapseProps) {
         super(props);
-        this.state = {};
+        this.state = { isOpened: false };
         this.onChange = this.onChange.bind(this);
     }
 
@@ -30,6 +32,10 @@ export class SearchCollapse extends Component<SearchCollapseProps, SearchCollaps
         return grouped;
     }
 
+    onClickCollapse() {
+        this.setState({ isOpened: !this.state.isOpened });
+    }
+
     onChange(recipeTitle: string) {
         window.location.href = Utils.getPathFromUrl(window.location.href) + "?Title=" + recipeTitle;
     }
@@ -38,10 +44,13 @@ export class SearchCollapse extends Component<SearchCollapseProps, SearchCollaps
         let recipesPerCategories = this.groupByCategory(this.props.recipes, 'Type');
 
         return (
-            <div className="menuCategories">                
+            <div className="menuCategories">
+                <div className='menuItemParent' onClick={() => this.onClickCollapse()}>Menu</div>
+                <Collapse isOpened={this.state.isOpened}>
                     {Object.keys(recipesPerCategories).map((category: string, index) => (
                         <SearchCollapseItem recipesPerCategories={recipesPerCategories} category={category}></SearchCollapseItem>
                     ))}
+                </Collapse>
             </div>
         );
     }
