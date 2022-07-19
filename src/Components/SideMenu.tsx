@@ -2,18 +2,18 @@ import React, { Component } from 'react';
 import { IRecipe } from '../Classes/IRecipe';
 import { Utils } from '../Classes/Utils';
 
-interface SearchProps {
+interface SideMenuProps {
     recipes: IRecipe[];
 }
 
-interface SearchState {
+interface SideMenuState {
 }
 
-export class Search extends Component<SearchProps, SearchState> {
-    static displayName = Search.name;
+export class SideMenu extends Component<SideMenuProps, SideMenuState> {
+    static displayName = SideMenu.name;
 
 
-    constructor(props: SearchProps) {
+    constructor(props: SideMenuProps) {
         super(props);
         this.state = {};
         this.onChange = this.onChange.bind(this);

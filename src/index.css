@@ -56,6 +56,11 @@ label {
   margin-right: 0.5em;
 }
 
+.recipesSearchCollapse{
+  color: #e3a21a;
+  text-align: left;
+}
+
 /*Mobile*/
 @media only screen and (max-width: 760px) {
   .appTitle {
@@ -84,10 +89,32 @@ label {
     padding-right: 1em;
     padding-left: 1em;
   }
+
+  .recipesSearchCollapse{
+    margin-top: 1em;
+    visibility: visible;
+    display: initial;
+  }
+
+  .menuCategories{
+    border: 5px groove #1C6EA4;
+    border-radius: 15px;
+    margin: 1em;
+    margin-bottom: -2em;
+  }
+
+  .menuCategories .recipeLink{
+    margin-left: 1em;
+  }
 }
 
 /* For desktop: */
 @media only screen and (min-width: 768px) {
+
+  .recipesSearchCollapse{
+    visibility: collapse;
+    display: none;
+  }
 
   .recipesSearch {
     color: #e3a21a;

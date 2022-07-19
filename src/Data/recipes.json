@@ -40,7 +40,7 @@
 		"Tags": [
 			"Thermomix"
 		],
-		"Type": null,
+		"Type": "Entrantes",
 		"Ingredients": [
 			"3 latas de atún en aceite de oliva",
 			"80g. de cebolla.",
@@ -77,7 +77,7 @@
 			"Carne",
 			"Principal"
 		],
-		"Type": null,
+		"Type": "Principal",
 		"Ingredients": [
 			"6 chuletas de cerdo",
 			"1 barra de mantequilla",
@@ -109,7 +109,7 @@
 			"Carne",
 			"Principal"
 		],
-		"Type": null,
+		"Type": "Principal",
 		"Ingredients": [
 			"2 solomillos de cerdo",
 			"1 Cebolla",
@@ -126,7 +126,7 @@
 			"Trocear el solomillo en filetes/medallones de tamaño mediano",
 			"Cortamos la cebolla en juliana, y la ponemos en la sartén con un poco de aceite de oliva virgen extra. En cuanto los pedazos se ponen transparentes, bajamos al fuego al mínimo y dejamos que se hagan poco a poco, hasta que toman color.",
 			"Añadimos entonces los trozos del solomillo de cerdo y los marcamos un poco por ambas caras, mientras la cebolla sigue haciéndose y oscureciéndose. Es el momento de incorporar el vino de Jerez oloroso.",
-			"Tras un par de minutos a fuego vivo, bajamos el fuego y añadimos el caldo de carne y dejamos que la carne se cocine a fuego lento otros dos o tres minutos por cada lado, mientras la salsa se va evaporando y concentrando.", 
+			"Tras un par de minutos a fuego vivo, bajamos el fuego y añadimos el caldo de carne y dejamos que la carne se cocine a fuego lento otros dos o tres minutos por cada lado, mientras la salsa se va evaporando y concentrando.",
 			"El plato estará listo cuando prácticamente no quede salsa, tras unos seis o siete minutos desde que añadimos el caldo."
 		]
 	},
@@ -137,7 +137,7 @@
 		"Tags": [
 			"Entrante"
 		],
-		"Type": null,
+		"Type": "Entrante",
 		"Ingredients": [
 			"150gr Roquefort",
 			"Nata cocinar",
@@ -165,7 +165,7 @@
 			"Carne",
 			"Principal"
 		],
-		"Type": null,
+		"Type": "Principal",
 		"Ingredients": [
 			"8 Salchichas frescas",
 			"1 cebolla mediana (unos 200 gramos)",
@@ -204,7 +204,7 @@
 			"Mexicana",
 			"Entrante"
 		],
-		"Type": null,
+		"Type": "Entrante",
 		"Ingredients": [
 			" 400 gr de carne picada de ternera",
 			"10 patatas medianas",
@@ -236,7 +236,7 @@
 			"Cuchara",
 			"Principal"
 		],
-		"Type": null,
+		"Type": "Principal",
 		"Ingredients": [
 			"500 gr. de alubia blanca (a remojo con sal al menos 12h)",
 			"3 chorizos frescos",
@@ -275,8 +275,11 @@
 		"Title": "Chili",
 		"Amount": "",
 		"Utility": null,
-		"Tags": ["Mexicana"],
-		"Type": null,
+		"Tags": [
+			"Mexicana",
+			"Principal"
+		],
+		"Type": "Principal",
 		"Ingredients": [
 			"300 gr de carne picada",
 			"250 gr de frijoles o alubias cocidas",
@@ -512,7 +515,7 @@
 			"Cuchara",
 			"Principal"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"1 cebolla",
 			"4 dientes de ajo",
@@ -542,7 +545,7 @@
 			"Cuchara",
 			"Principal"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"400 gramos garbanzos",
 			"150 gramos cebolla",
@@ -582,7 +585,7 @@
 			"Cuchara",
 			"Principal"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"Lentejas",
 			"Chorizo",
@@ -614,7 +617,7 @@
 		"Tags": [
 			"Thermomix"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"200 g de pechugas de pollo",
 			"100 g de cacahuetes fritos, con sal y sin piel",
@@ -690,7 +693,7 @@
 			"Carne",
 			"Principal"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"750gr filetes lomo",
 			"1 cebolla mediana",
@@ -723,7 +726,7 @@
 		"Tags": [
 			"Salsas"
 		],
-		"Type": "",
+		"Type": "Salsas",
 		"Ingredients": [
 			"Tomates enteros",
 			"Albahaca",
@@ -788,7 +791,7 @@
 			"Carne",
 			"Principal"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"900 gramos de escalopes de ternera",
 			"Dos cebollas grandes",
@@ -1288,7 +1291,7 @@
 			"Asiática",
 			"Carne"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"2-3 gotas de tabasco",
 			"1 chorrito de caramelo líquido",
@@ -1423,7 +1426,7 @@
 		"Tags": [
 			"Italiana"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"3 berenjenas grandes",
 			"3 bolas de mozzarella fresca",
@@ -1492,7 +1495,7 @@
 		"Tags": [
 			"Salsas"
 		],
-		"Type": "Salsa",
+		"Type": "Salsas",
 		"Ingredients": [
 			"Miga pan",
 			"Medio vaso aceite",
@@ -1586,7 +1589,7 @@
 		"Tags": [
 			"Mexicana"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"1 1/2 pechuga de pollo sin piel",
 			"300 g de salsa de tomate",
@@ -1975,7 +1978,7 @@
 		"Tags": [
 			"Asiática"
 		],
-		"Type": "",
+		"Type": "Principal",
 		"Ingredients": [
 			"750 gramos de gambones pelados.",
 			"2 guindillas cayenas",

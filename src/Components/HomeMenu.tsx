@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { RecipeNote } from './RecipeNote';
-import { Search } from './Search';
+import { SideMenu } from './SideMenu';
+import { SearchCollapse } from './SearchCollapse';
 import { default as recipes } from "../Data/recipes.json";
 import { IRecipe } from '../Classes/IRecipe';
 import { NotFound } from './NotFound';
@@ -76,7 +77,10 @@ export class HomeMenu extends Component<HomeProps, HomeState> {
                 />
             </div>
             <div className='recipesSearch'>
-                <Search recipes={recipes as IRecipe[]}></Search>
+                <SideMenu recipes={recipes as IRecipe[]}></SideMenu>
+            </div>
+            <div className='recipesSearchCollapse'>
+                <SearchCollapse recipes={recipes as IRecipe[]}></SearchCollapse>
             </div>
             <div className='recipesView'>
                 {centralContent}
