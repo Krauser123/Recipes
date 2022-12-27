@@ -40,7 +40,7 @@
 		"Tags": [
 			"Thermomix"
 		],
-		"Type": "Entrantes",
+		"Type": "Entrante",
 		"Ingredients": [
 			"3 latas de atún en aceite de oliva",
 			"80g. de cebolla.",
@@ -2002,5 +2002,1662 @@
 			"Una vez hechas las verduras, pasados unos 7 minutos, añadimos la salsa de soja, el vinagre, el vino, el azúcar y la maizena removiendo muy bien para que la maizena se cocine y no nos quede un sabor a crudo.",
 			"La harina será para espesar así que si queremos la salsa menos espesa pondremos solo una cucharada. Incorporamos los gambones y lo dejamos cocer con la salsa durante 3 minutos más."
 		]
+	},
+	{
+		"Title": "Chili con carne",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Tex-Mex"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"200g de alubias negras o rojas",
+			"400g de carne picada",
+			"1 pimiento verde italiano",
+			"½ pimiento amarillo",
+			"¼ pimiento rojo",
+			"1 cebolla pequeña",
+			"1 ramita de apio",
+			"200g de pulpa de tomate",
+			"1 chile",
+			"1 diente de ajo",
+			"1 rama de canela",
+			"1 cucharadita de orégano seco",
+			"1 cucharadita de comino molido",
+			"1 cucharadita de pimentón",
+			"1 cucharada de salsa Worcestershire",
+			"Sal",
+			"Pimienta negra recién molida",
+			"Aceite de oliva virgen extra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pon las alubias a remojo durante 8 horas.",
+			"Desecha el agua de remojo y hierve las alubias en agua nueva durante 10 minutos. Deja que se temple y reserva.",
+			"Corta los pimientos, la cebolla y el apio en trozos pequeños.",
+			"Rompe de un golpe el diente de ajo y elimina la piel.",
+			"Pon a calentar una sartén con dos cucharadas de aceite de oliva. Cuando esté caliente, deja que el ajo se fría ligeramente, sin que se dore. Incorpora las verduras y saltea a fuego fuerte durante unos pocos minutos.",
+			"Añade las especias y el chile a las verduras y mueve para que se mezclen. Vierte las verduras en el recipiente del slow cooker. Incorpora la salsa Worcestershire, la rama de canela y la pulpa de tomate.",
+			"Agrega las alubias escaldadas con su agua de cocción a la crock pot. Añade un poco de sal, cúbrelas con agua (2cm por encima) y mezcla con suavidad.",
+			"Cocina durante 7 horas en BAJA o hasta que las alubias estén tiernas.",
+			"Cuando las alubias ya estén cocinadas, prepara una sartén con dos cucharadas de aceite de oliva y caliéntala. Salpimienta la carne picada y saltéala a fuego fuerte hasta que cambie de color.",
+			" Mezcla la carne con las alubias ya cocinadas. Deja que la carne repose durante 30 minutos en el guiso caliente. Prueba y rectifica el punto de líquido, de sal, de picante y de especias si es necesario para adaptar el guiso a tu gusto."
+		]
+	},
+	{
+		"Title": "Papas con bacalao",
+		"Amount": "4",
+		"Utility": null,
+		"Tags": [
+			""
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"800g de patatas monalisa o similar",
+			"500g de bacalao desalado",
+			"1 cebolla",
+			"2 dientes de ajo",
+			"½ pimiento verde",
+			"Pimienta blanca recién molida",
+			"Aceite de oliva virgen extra",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pela los ajos y la cebolla. Pica la cebolla en trozos muy finos. Corta el pimiento en tiras o aros. Da un golpe a los ajos para que queden enteros pero magullados.",
+			"Pela las patatas, lávalas y córtalas en trozos haciendo un corte incompleto y chascando.",
+			"Prepara una sartén con aceite de oliva, ponla al fuego y deja que los ajos se vayan cocinando sin que se doren. Incorpora el pimiento verde y la cebolla picada y cocina unos minutos hasta que ésta empiece a estar transparente.",
+			"Vacía el contenido de la sartén en el slow cooker, añade las patatas troceadas, un poco de sal y pimienta blanca recién molida. Añade agua sin que llegue a cubrir las patatas por completo.",
+			"Cocina entre 3 y 4 horas en ALTA. El tiempo es orientativo y depende de la calidad de la patata. Comprueba el punto de las patatas a las tres horas, si aún no están tiernas continua la cocción comprobando cada media hora.",
+			"Una vez terminada la cocción y con el guiso muy caliente, apaga la Crock Pot, incorpora el bacalao desalado y deja que se cocine con el calor residual.",
+			"Pasados 15 minutos mueve la olla extraíble con movimientos suaves para que el bacalao integre sus sabores. Prueba y rectifica de sal y pimienta si es necesario.",
+			"Deja que reposen durante al menos media hora antes de comer."
+		]
+	},
+	{
+		"Title": "Bacalao confitado",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Pescado"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"4 tajadas de lomo de bacalao desalado (180-200 g cada una)",
+			"Aceite de oliva virgen extra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Cubre el fondo del recipiente con aceite de oliva.",
+			"Pon los lomos de bacalao desalados en el recipiente del sow cooker y añade más aceite. No es necesario que cubras el bacalao por completo.",
+			"Cocina durante una hora en ALTA con la tapa puesta.",
+			"Comprueba el punto del pescado. Debe estar tierno y jugoso. Si aún está un poco crudo, prolonga la cocción alrededor de media hora.",
+			"Saca los lomos del recipiente. Vierte el líquido que queda en un vaso de batidora y tritura hasta formar una crema ligada de color amarillo.",
+			"Sirve las tajadas de bacalao sobre una cama de patatas panadera acompañadas de la salsa."
+		]
+	},
+	{
+		"Title": "Chocolate rubio",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Postre",
+			"Chocolate"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"Chocolate blanco de cobertura en gotas o trozos"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Coloca el chocolate blanco de cobertura en un bote grande de vidrio con cierre hermético.",
+			"Pon el bote cerrado en el slow cooker y añade agua al recipiente sin que cubra el cuello del bote.",
+			"Tapa y deja que se cocine durante unas 7 horas en ALTA o hasta que haya tomado color caramelo. Revisa el nivel del agua durante la cocción y añade si se evapora.",
+			"Pasadas dos horas, saca el bote un momento con cuidado de no quemarte y muévelo suavemente para que el chocolate se haga por igual.",
+			"Pasado el tiempo de cocción, saca el bote con cuidado, sécalo y ábrelo con ayuda de un paño para no quemarte.",
+			"Remueve el chocolate rubio con una cucharilla hasta que empiece a estar brillante. Al principio tendrá una textura terrosa y dura, pero removiendo con energía, poco a poco irá tomando una textura cremosa y brillante fácil de trabajar. Es importante que tomes este paso en serio y no lo dejes antes de tiempo, es clave para el éxito de esta receta.",
+			"Para conservarlo y tenerlo listo para usar, extiéndelo con una espátula de cocina sobre una superficie de silicona (tipo Silpat) hasta formar una lámina gruesa. Coloca la lámina sobre una superficie rígida (una bandeja, por ejemplo) y refrigera hasta que se endurezca por completo.",
+			"Una vez que esté solidificado, rompe el chocolate en trozos y guárdalo en un recipiente en un ambiente seco y a temperatura ambiente. También puedes colocarlo en pequeños moldes de silicona, como los de bombón."
+		]
+	},
+	{
+		"Title": "Papas a la riojana",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Cuchara"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"1,5 kg de patatas",
+			"1 cebolla",
+			"3 dientes de ajo",
+			"3 pimientos choriceros",
+			"1 chorizo (400 g)",
+			"Aceite de oliva virgen extra",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pela los ajos y cháfalos con un golpe.",
+			"Pela la cebolla y pícala fina.",
+			"Corta el chorizo en rodajas de 1 cm",
+			"Calienta una sartén con un chorro de aceite de oliva y pocha los ajos durante dos minutos.",
+			"Añade la cebolla picada y deja pochar durante cinco minutos a fuego medio.",
+			"Incorpora el chorizo y saltéalo con la cebolla y el ajo durante cinco minutos más.",
+			"Vierte el contenido de la sartén en la olla de cocción lenta.",
+			"Pela las patatas, lávalas y trocéalas en cachelos chascándolas con un cuchillo. No hay que cortar la patata por completo sino iniciar el corte y dejar que se parta haciendo un poco de presión.",
+			"Añade la patatas a la olla, pon también los pimientos choriceros y un poco de sal, y cubre con agua.",
+			"Programa 3 horas en ALTA.",
+			"Cuando pase el tiempo de cocción, saca los pimientos choriceros, ábrelos, rasca el interior con una cucharilla para sacar la carne (elimina las semillas) y ponla en el guiso. Mueve el recipiente para que se mezcle el guiso y rectifica de sal si es necesario.",
+			"Las patatas deben quedar tiernas y rodeadas de un caldo meloso y un poco espeso."
+		]
+	},
+	{
+		"Title": "Pollo escabeche",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Carne"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"4 pechugas de pollo de corral",
+			"200 ml de aceite de oliva virgen extra",
+			"150 ml de vinagre de manzana",
+			"250 ml de agua",
+			"1 cebolla grande",
+			"2 pak choi",
+			"2 zanahorias",
+			"1 rama de apio",
+			"1 hoja de laurel",
+			"1 rama de tomillo",
+			"10 granos de pimienta",
+			"Pimienta negra recién molida",
+			"Aceite de oliva virgen extra para cocinar las verduras y las pechugas",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Corta la cebolla en aros o juliana fina. Pela las zanahorias y córtalas en rodajas finas. Lava el pak choi y córtalo a lo largo en varios trozos. Corta el apio en rodajas. Coloca las verduras en el recipiente del slow cooker con un chorro de aceite de oliva y cocina durante 3 horas en ALTA.",
+			"Añade el vinagre, 200 ml de aceite de oliva, el agua, la pimienta negra, el laurel y el tomillo y cocina durante 1 hora más.",
+			"Salpimienta las pechugas, prepara una plancha con un poco de aceite y caliéntala al máximo.",
+			"Pasa las pechugas por la plancha durante 30 segundos por cada lado y colócalas en el escabeche caliente.",
+			"Cocina 30 minutos en ALTA, apaga el slow cooker, saca el recipiente de la carcasa y deja que se enfríe.",
+			"Guarda las pechugas en escabeche en un recipiente cerrado y consérvalo en el frigorífico.",
+			"Deja reposar durante 4 días y sirve las pechugas frías o templadas, fileteadas y acompañadas por las verduras y la salsa.",
+			"Si quieres que las pechugas tengan más sabor a escabeche, puedes cortarlas en trozos de unos 3 cm a lo ancho y guardarlas cubiertas con la salsa y las verduras en un recipiente cerrado."
+		]
+	},
+	{
+		"Title": "Flan con leche condensada",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"370g de leche condensada",
+			"500ml de leche",
+			"4 huevos",
+			"Azúcar para hacer caramelo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"1. Pon una cucharada rasa de azúcar en cada molde de flan y acércalos al fuego para que el azúcar se disuelva y se convierta en caramelo.",
+			"2. Toma los moldes con unas pinzas o un paño, teniendo cuidado de no quemarte con el caramelo. Mueve los moldes para que el caramelo se distribuya por el fondo. Reserva y deja que se templen.",
+			"3. Bate la leche condensada, la leche y los huevos hasta que queden mezclados por completo. Si utilizas una batidora eléctrica, usa la velocidad más baja, para evitar que salgan burbujas.",
+			"4. Cuela la mezcla y reserva.",
+			"5. Distribuye la mezcla de flan en cada molde.",
+			"6. Tapa los moldes con papel de cocina metálico.",
+			"7. Pon los moldes en el slow cooker y vierte agua en el fondo del recipiente de la crock pot hasta cubrir dos dedos aproximadamente.",
+			"8. Pon la tapa y cocina 2 horas en ALTA.",
+			"9. Comprueba el punto de cuajado a la hora y media; el flan deberá estar cremoso y no duro y terminará de tomar su textura final al enfriarse. Si aún está líquido, continua la cocción durante 30 minutos más.",
+			"10. Saca los moldes del slow cooker con cuidado y guárdalos en el frigorífico cuando se hayan enfriado."
+		]
+	},
+	{
+		"Title": "Carrilleras al oporto",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Carne"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"8 carrilleras de cerdo (900 g)",
+			"2 puerros",
+			"1 cabeza de ajos",
+			"2 zanahorias",
+			"Perejil fresco picado",
+			"100 ml de Oporto",
+			"1 bouquet garní",
+			"Harina",
+			"Sal",
+			"Pimienta",
+			"2 o 3 cucharadas de aceite de oliva"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Quita la grasa sobrante de las carrilleras. No hace falta emplearse muy a fondo, tan solo elimina con un cuchillo afilado esos colgajos de grasa que sobran.",
+			"Salpimienta y enharina las carrilleras, deja que salga la harina sobrante y dóralas en una sartén a fuego fuerte por los dos lados durante unos minutos. Reserva.",
+			"Pica el puerro muy fino y las zanahorias en rodajas.",
+			"Saltea el puerro picado y las zanahorias en la misma sartén en la que has dorado las carrilleras durante 5 minutos.",
+			"Coloca las verduras formando una cama en la olla lenta. Pon encima las carrilleras, el bouquet garní y una cabeza de ajos partida por la mitad. Si la carne ha soltado algún líquido mientras reposaba, añádelo a la olla.",
+			"Riega con el vino de Oporto.",
+			"Cocina durante 8 horas en BAJA.",
+			"Una vez pasado el tiempo de cocción, desecha el bouquet garní, saca las carrilleras y las zanahorias a un plato, y tritura lo que queda en la olla (el puerro pochado, los ajos estofados sin la piel y los jugos de la carne).",
+			"Coloca de nuevo las carrilleras y las zanahorias en la crock pot, pon la salsa por encima, calienta en ALTA hasta que tenga la temperatura adecuada, espolvorea con perejil fresco picado y sirve."
+		]
+	},
+	{
+		"Title": "Papas revolcones",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Cuchara",
+			"Carne"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"750g de patatas",
+			"250g de panceta",
+			"1 hoja de laurel",
+			"2 dientes de ajo",
+			"Pimentón dulce (2 cucharaditas)",
+			"Pimentón picante (1/2 cucharadita)",
+			"Agua o caldo de ave o de jamón",
+			"Aceite de oliva para freír",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pela las patatas, lávalas y sécalas.",
+			"Trocea las patatas y ponlas en la olla extraíble junto con un ajo machacado. Cúbrelas con agua o caldo. Añade sal si el caldo va flojo de sazón o utilizas agua.",
+			"Cocina durante 3 horas en ALTA.",
+			"Corta la panceta en tiras gruesas (vamos a hacer torreznos) y reserva.",
+			"Media hora antes de que las patatas estén hechas, prepara un cazo con aceite y ponlo a fuego vivo. Fríe los trozos de panceta hasta que queden dorados y crujientes. Retira sobre papel de cocina para que escurran el aceite.",
+			"Haz un sofrito con parte del aceite de la fritura y un ajo picado hasta que el ajo cambie ligeramente de color. Añade el pimentón, retira del fuego y remueve.",
+			"Cumplida la cocción de las patatas, o cuando estén tiernas y se deshagan, retira de la olla el líquido y resérvalo. Puedes utilizar una pipeta o jeringa de salsear, para que resulte más fácil, o un cacillo.",
+			"Machaca las patatas con un aplastapatatas, incorpora el sofrito y ve añadiendo el caldo reservado hasta que tengan una textura cremosa.",
+			"Mantén la Crock Pot encendida en ALTA para que conserve el calor.",
+			" Sirve muy caliente acompañando con los torreznos."
+		]
+	},
+	{
+		"Title": "Potaje de chicharos",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Cuchara"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"Alubias blancas, 200 g",
+			"Morcilla, 1",
+			"Chorizo, 1",
+			"Tocino, 1",
+			"Hoja de laurel, 1",
+			"Tomate triturado, 2 cdas",
+			"Pimentón de la Vera, 1 cdta",
+			"Agua",
+			"Sal, al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Volcamos las alubias en un recipiente. Lo llenamos de agua, que cubra bien. 12-16 horas en remojo, según fabricante. Pasadas las horas, ponemos agua a hervir, añadimos las alubias, esperamos a que rompa de nuevo a hervir, las dejamos 10 minutos, las escurrimos y desechamos ese agua. Siempre que se cocinen alubias en olla lenta, se debe realizar este paso para eliminar una toxina que se destruye con facilidad llevando las alubias a ebullición, algo que no se puede garantizar en todas los modelos de ollas.",
+			"En el caso de las alubias blancas, la cantidad de toxina es mucho menor que en el de otro tipo de alubias como las rojas o negras, por eso hay quien se salta ese paso. Pero eso ya, que sea elección de cada uno.",
+			"Añadimos las alubias bien escurridas y luego el compango asturiano. Sobre los embutidos dejamos caer el tomate triturado, la pasta de tomate concentrado y la carne del pimiento choricero. Lo coronamos todo con el pimentón de la Vera y la hoja de laurel. Salpimentamos al gusto.",
+			"Todo hecho una torre de ahumados tesoros, vertemos agua hasta que cubra. No os ponemos cantidad porque vuestra olla puede poseer una capacidad diferente. Este es el truco: que cubra. Si os pasáis de esta medida, tendréis demasiado caldo.",
+			"Tapamos y programamos 8 horas en temperatura baja —el modo que hemos elegido en nuestra receta— o unos 4-5 horas en temperatura alta, según el tiempo que dispongáis.",
+			"Dejar reposar unas 4 horas (opcional)."
+		]
+	},
+	{
+		"Title": "Arranque roteño",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Aperitivo"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"50g de pimientos verdes",
+			"1 diente de ajo",
+			"500g de tomates rojos",
+			"1 cucharadita de sal",
+			"200g de migas de pan campero",
+			"100g de aceite de oliva"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Introducimos en el vaso los pimientos verdes, el diente de ajo, los tomates y la sal, y programamos 2 segundos a velocidad 5 y 6 segundos a velocidad 10.",
+			"Bajamos lo que quede en las paredes e incorporamos el pan y el aceite, y programamos 5 segundos a velocidad 5 y 5 segundos a velocidad 10.",
+			"Servimos frío en una cazuela de barro y lo decoramos con tiras de pimientos, de pan o de rábanos, los cuales nos servirán de cuchara."
+		]
+	},
+	{
+		"Title": "Cachuela",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Entrante",
+			"Desayuno"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"500 g de hígado de cerdo ibérico (en trozos)",
+			"2 cucharaditas de sal",
+			"2 - 3 pellizcos de pimienta molida",
+			"1 pellizco de nuez moscada molida",
+			"4 dientes de ajo",
+			"2 - 3 clavos",
+			"½ cucharadita de comino en grano",
+			"2 hojas de laurel secas",
+			"400 g de manteca de cerdo ibérica",
+			"1 cucharada de pimentón dulce de La Vera",
+			"1 - 2 pellizcos de pimentón picante (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponga el hígado en un bol grande y espolvoree con la sal, la pimienta y la nuez moscada.",
+			"Ponga en el vaso el ajo, el clavo y el comino. Triture 5 seg/vel 10. Vierta sobre el hígado. Añada al bol las hojas de laurel, mezcle con la espátula y deje macerar durante 3-4 horas.",
+			"Ponga en el vaso 60 g de manteca y caliente 5 min/120°C/vel 1.",
+			"Retire las hojas de laurel del bol y añada en el vaso el hígado macerado. Triture 7 seg/vel 5. Retire a un bol y reserve.",
+			"Ponga en el vaso 340 g de manteca y programe 5 min/120°C/vel 1.",
+			"Incorpore el hígado triturado reservado y programe 10 min/100°C/Giro inverso/vel 1.",
+			"Añada el pimentón dulce y el pimentón picante y programe 1 min 30 seg/100°C/vel 1. Vierta en un recipiente hermético y reserve en el frigorífico (mínimo 1 hora)."
+		]
+	},
+	{
+		"Title": "Arroz con pinchitos",
+		"Amount": "5",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"600g de pechuga de pollo cortada en trocitos",
+			"2 cucharaditas de especias de pinchitos (8 g aprox)",
+			"1 cucharadita de sal",
+			"azafrán o colorante",
+			"300 g de arroz redondo",
+			"800 g de agua",
+			"SOFRITO:",
+			"1 pimiento",
+			"1 ajo",
+			"1 cebolla",
+			"1 tomate maduro",
+			"2 zanahorias",
+			"50 g de aceite de oliva"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponemos en el vaso todos los ingredientes del sofrito, troceamos 4 segundos/velocidad 5. Programamos 8 minutos/120º(TM5) o varoma(TM31)/velocidad 1.",
+			"Una vez hecho el sofrito, podemos triturarlo o no según el gusto de cada familia. Trituraríamos 30 segundos/velocidad 10.",
+			"Añadimos el pollo y rehogamos 5 minutos/100º/giro inverso/velocidad cuchara.",
+			"Añadimos el agua, la especia, la sal, el azafrán y el arroz. Movemos con la espátula y programamos 15 minutos/temperatura varoma/giro inverso/velocidad cuchara.",
+			"Servir inmediatamente.",
+			"",
+			"SUGERENCIAS: En el caso de usar arroz vaporizado, el agua que necesitará sera menor, 650g y el tiempo de cocción del arroz será de 17 minutos."
+		]
+	},
+	{
+		"Title": "Mojo Picon",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Salsas"
+		],
+		"Type": "Salsas",
+		"Ingredients": [
+			"3 dientes ajo",
+			"100 g aceite",
+			"10 g vinagre",
+			"1 guindilla pequeña",
+			"1 cdts comino en grano",
+			"1 pizca sal",
+			"1 cdts pimentón dulce",
+			"Miga de pan (para espesar)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponemos los ajos, la guindilla y el comino en el vaso de la thermomix y trituramos 20 segundos, velocidad 7. Bajamos los restos de las paredes, con la espátula.",
+			"Agregamos la sal, el aceite, el vinagre y el pimentón y mezclamos 30 segundos, velocidad 5.",
+			"Para terminar de ligar la salsa, programamos 2 minutos, velocidad 10.",
+			"Si nos gusta más espesa, añadimos la miga de pan en el paso 1, para que se triture bien con los ajos, la guindilla y el comino."
+		]
+	},
+	{
+		"Title": "Bravas auténticas",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Entrante",
+			"Aperitivo"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"Media cebolla.",
+			"30 gr. de aceite de oliva virgen",
+			"25 gr. de harina corriente",
+			"3 cucharaditas de pimentón dulce La Chinata",
+			"1 cucharadita de pimentón picante La Chinata",
+			"250 gr. de caldo casero de cocido"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Introducimos en el vaso de la thermomix la media cebolla y el aceite y programamos 3 minutos, temperatura varoma, velocidad 4.",
+			"Añadimos en el vaso de la thermomix la harina. Programamos temperatura varoma, 3 minutos, velocidad 3. Veremos que la harina se ha tostado y debe haber perdido el sabor a crudo.",
+			"Con la thermomix parada, añadimos el pimentón dulce y picante y programamos 1 minuto, temperatura varoma, velocidad 3.",
+			"Incorporamos el caldo previamente calentado y programamos 8 minutos, temperatura 100º, velocidad 3, sin el cubilete puesto para que evapore y la salsa se espese."
+		]
+	},
+	{
+		"Title": "Trufas",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"100 gr. nata liquida",
+			"300 gr. chocolate fondant",
+			"25 gr coñac"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponemos en el vaso la nata, programamos 4 minutos, 90º, velocidad 2.",
+			"Añadimos el chocolate troceado y programamos velocidad 6, hasta que quede bien triturado.",
+			"Bajamos con la espátula el chocolate que ha quedado en las paredes y la tapa del vaso.",
+			"Incorporamos el coñac y batimos durante 30 segundos a velocidad 6.",
+			"Ponemos la crema de chocolate en un recipiente y lo metemos en el congelador. Cuando la crema se haya solidificado, formamos bolitas con la ayudad de dos cucharillas y las pasamos por fideos de chocolate o por cacao en polvo. Las ponemos en capsulas de papel. Después de echas las mantenemos en el frigorífico, en la parte que más enfría, hasta el momento de servirlas."
+		]
+	},
+	{
+		"Title": "Bocadillo de higos, jamón serrano y queso curado",
+		"Amount": "1",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"2 rebanadas de pan",
+			"2 lonchas de jamón serrano",
+			"2 higos pelados y cortados en gajos",
+			"4 ó 5 lonchas finas de queso curado",
+			"Un puñado de canónigos",
+			"2 cucharadas de aceite de oliva virgen extra",
+			"1 cucharadita de vinagre de Módena "
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Tostamos el pan en una parrilla o en una tostadora convencional. Hacemos un aliño con el aceite y el vinagre y pintamos el pan con él.",
+			"A continuación montamos el sándwich empezando por el jamón y el queso, seguidos por los higos y, por último, los canónigos."
+		]
+	},
+	{
+		"Title": "Pollo, bacon y rúcula (con miel y mostaza)",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"2 rebanadas de pan",
+			"2 filetes de pechuga de pollo",
+			"3 ó 4 lonchas de bacon",
+			"Un puñado de rúcula",
+			"1 cucharada de mostaza en grano",
+			"1 cucharada de mostaza de Dijon",
+			"2 cucharadas de miel"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Cocinamos los filetes de pollo a la plancha con un poquito de aceite de oliva.",
+			"A continuación freímos el bacon a fuego fuerte para que quede crujiente (sin aceite, con la propia grasa que va soltando).",
+			"Mezclamos la miel y las mostazas para hacer un aliño con el que pintaremos el pan (previamente tostado). Colocamos el pollo y el bacon sobre el pan y cubrimos con la rúcula y la otra rebanada de pan."
+		]
+	},
+	{
+		"Title": "Grilled Cheese con Guacamole",
+		"Amount": "1",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"2 rebanadas de pan",
+			"6 ó 7 rodajas de pepino muy finas",
+			"1 ó 2 rodajas de cebolla morada",
+			"3 rodajas de aguacate",
+			"2 ó 3 rodajas de tomate",
+			"Un poco de queso feta",
+			"50 gr. de aceitunas negras sin hueso",
+			"Aceite de oliva virgen extra",
+			"Una cucharadita de zumo de limón "
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Primero tostamos el pan. A continuación, trituramos las aceitunas negras junto con el aceite y el limón, y untamos con la mezcla una de las rebanadas de pan.",
+			"Ponemos encima las rodajas de pepino cortadas muy finas (para que no le quite protagonismo al resto de ingredientes), la cebolla morada, un poco de queso feta deshecho en migas, el aguacate y el tomate en rodajas. Cerramos con la otra rebanada de pan tostado."
+		]
+	},
+	{
+		"Title": "Bocadillo de lomo y pimientos",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"Pan chapata si puede ser se tuesta un poco antes de usarlo",
+			"3 filetes de lomo adobado",
+			"Lonchas de Queso",
+			"Pimientos del piquillo",
+			"Un poco de orégano y pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Tuesta el pan y mo nta los ingredientes"
+		]
+	},
+	{
+		"Title": "Tosta de Albaricoque y queso azul",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"Pan tostas",
+			"Albaricoque seco",
+			"Queso azul"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Calienta el pan",
+			"Extiende el queso",
+			"Monta los albaricoques"
+		]
+	},
+	{
+		"Title": "Salmón con salsa tártara",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"Salmón ahumado",
+			"1 tomate",
+			"Anchoas en aceite",
+			"Lechugas variadas",
+			"200 gr. de mayonesa",
+			"1 huevo",
+			"25 gr. de alcaparras",
+			"25 gr. de pepinillo",
+			"50 gr. de cebolla",
+			"mostaza y perejil picado.",
+			"Tu pan preferido."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponemos a cocer el huevo. Cuando esté listo, dejamos que se enfríe y pelamos. Picamos las alcaparras y los pepinillos y los mezclamos con la cebolla picada y el huevo picado. Mezclamos estos ingredientes con la mayonesa y agregamos una cucharada de mostaza y un poco de perejil picado.",
+			"Cortamos el pan por la mitad para hacer los bocadillos. Colocamos una cama de lechugas y encima el tomate cortado en rodajas. Escurrimos las anchoas y las colocamos.",
+			"Por último, ponemos el salmón ahumado. Cubrimos el conjunto con la salsa tártara y la otra mitad del pan."
+		]
+	},
+	{
+		"Title": "Bocadillo de berenjenas con pollo y mostaza",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"200 gr. de pechuga de pollo fileteada",
+			"dos baguettes",
+			"1 berenjena",
+			"beicon en lonchas",
+			"mostaza de Dijon, mayonesa",
+			"aceite de oliva y sal."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Comenzamos preparando las berenjenas: las cortamos en rodajas y las salamos. Pasamos por una sartén con abundante aceite de oliva. Retiramos y colocamos sobre papel absorbente para retirarles el exceso de grasa. Salamos al gusto los filetes de pollo y los pasamos también por una sartén con unas gotas de aceite.",
+			"Una vez fritos, los cortamos en trozos más pequeños. En un bol mezclamos una cucharada de mostaza con dos de mayonesa. Untamos con esta salsa el pan partido por la mitad. Rellenamos los panes con las berenjenas, el pollo y las lonchas de beicon"
+		]
+	},
+	{
+		"Title": "Bocadillo genoves",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"Atun",
+			"Aceitunas en rodajas",
+			"Cebolla muy fina",
+			"Pimiento",
+			"Alioli (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			""
+		]
+	},
+	{
+		"Title": "Bocadillo con gambas atún y piquilos",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Bocadillo",
+		"Ingredients": [
+			"Pan de bocadillo",
+			"300 gr. de lomo de atún",
+			"100 gr. de gambas peladas",
+			"pimientos del piquillo",
+			"mayonesa",
+			"aceite de oliva",
+			"sal, pimienta y 1 diente de ajo."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En una sartén con aceite de oliva, sofreímos el ajo picado. Cuando se dore, añadimos las gambas peladas. Salpimentamos al gusto y dejamos que se hagan un poco.",
+			"Retiramos y en esa misma sartén hacemos los lomos de atún salpimentándolos al gusto. Retiramos. Partimos el pan por la mitad y colocamos dentro los pimientos del piquillo.",
+			"Encima, el atún. Repartimos las gambas por el bocadillo y completamos con mayonesa al gusto.",
+			"Se puede añadir tomate en rodajas"
+		]
+	},
+	{
+		"Title": "Salsa brava “Original”",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Salsas"
+		],
+		"Type": "Salsas",
+		"Ingredients": [
+			"1 cebolla",
+			"1 diente de ajo",
+			"2 tomates naturales",
+			"1/2 Cayena",
+			"1 cucharadita de pimentón picante/dulce",
+			"1 cucharadita de colorante",
+			"1 cucharadita de azúcar",
+			"1 chorro vinagre",
+			"Colorante",
+			"Aceite",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pochar la cebolla en trozos grande y el ajo en el aceite a fuego muy lento, con cuidado de no quemarlos",
+			"Incorporar la cayena y seguidamente el colorante, el pimentón dulce y y el pimentón picante, la cantidad depende de como os guste de picante.",
+			"Después añadimos el tomate triturado crudo natural, sazonamos y ponemos un poco de azúcar y dejamos cocinar unos 10 minutos.",
+			"Una vez frito el tomate, echamos el chorrito de vinagre, pasamos por la batidora y listo."
+		]
+	},
+	{
+		"Title": "Salsa de cacahuete para carne",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Salsas",
+			"Asiática"
+		],
+		"Type": "Salsas",
+		"Ingredients": [
+			"1 cebolleta",
+			"1 cucharada de harina",
+			"1 cucharada de pasta de cacahuete",
+			"200 ml de leche de soja",
+			"aceite de oliva",
+			"sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pica la cebolleta e introdúcela en una sartén con un chorrito de aceite. Sazona.",
+			"Añade una cucharada de harina, una cucharada de pasta de cacahuete y la leche de soja."
+		]
+	},
+	{
+		"Title": "Tataki de salmón",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Entrante",
+			"Aperitivo"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"1 taco de salmón",
+			"Sésamo negro",
+			"Sesamo normal",
+			"Salsa de soja",
+			"Vinagre de arroz",
+			"Unas gotas de tabasco"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Comenzaremos sellando el lomo de salmón fresco por los 4 lados. Muy rápidamente y a fuego fuerte para que no se haga por dentro. Una vez sellado lo dejamos enfríar.",
+			"Mezclamos los dos tipos de sésamo y rebozamos nuestro salmón. Lo dejamos enfriar en la nevera para posteriormente cortarlo más facilmente.",
+			"Lo cortamos en laminas de unos 0,5 cm, bueno esto a gusto de cada uno. Acompañamos de una salsa que la haremos mezclando salsa de soja, vinagre de arroz y unas gotas de tabasco para darle ese toque picante que le va tan bien al tataki. Si os gusta el jengibre perfecto también"
+		]
+	},
+	{
+		"Title": "Pollo al curry",
+		"Amount": "4",
+		"Utility": null,
+		"Tags": [
+			""
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"2 contramuslos de pollo en trozos",
+			"150 gramos de arroz",
+			"1 pimiento",
+			"1 cebolleta",
+			"1 cucharada sopera de curry",
+			"Caldo de pollo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Ponemos a pochar la cebolleta y el pimiento partido muy fino. Cuando este medio pochado salpimentamos el pollo y añadimos. Mientras se está dorando el pollo y las verduras ponemos a calentar el caldo de pollo con la cucharada sopera de curry, porque al arroz hay que añadirle siempre el agua o el caldo cociendo.",
+			"Cuando estén listas las verduras pochadas junto al pollo añadimos el arroz y rehogamos un minuto, pasado ese minuto añadimos el caldo de pollo con el curry, siempre tened en cuenta que teneis que añadir 2 medidas de caldo por cada una de arroz, lo añadimos cociendo.",
+			"Dejamos cocinar unos 12 minutos y dejamos reposar otros 10."
+		]
+	},
+	{
+		"Title": "Ternera con cebolla",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Asiática"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"100 gr/Persona Ternera magro",
+			"3 cebollas",
+			"Aceite  de oliva.",
+			"Sal .",
+			"Pimienta.",
+			"Salsa de soja.",
+			"Un poco de vino blanco"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Preparamos la carne previamente como acostumbremos( lavar, golpear, quitar los filitos de grasa , para que no se encoja y se ponga más tierna).",
+			"Cortar la cebolla en tiritas.",
+			"Ponemos el aceite a calentar en una sartén, cuando esté en su punto añadimos la cebolla cortada y dejamos hacer ligeramente, ponemos en la sartén los filetes  enteros y dejamos hacer un poco, les damos la vuelta para que cambien de color por ambos lados y con unas tijeras los cortamos en tiritas, añadimos la sal , la pimienta y el vino, tapamos y dejamos cocer hasta que la carne esté  casi tierna, añadimos la salsa de soja(un vasito de los de vino), y dejamos hacer hasta que la carne esté bien tierna.La salsa quedará bien gordita, preparad mucho pan mojar."
+		]
+	},
+	{
+		"Title": "Tallarines fritos con ternera",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Asiática"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"100 gr. de tallarines por persona",
+			"1 o 2 zanahorias",
+			"1 o 2 pimientos",
+			"1 cebolla grande",
+			"1 filete de ternera grande o 2 medianos",
+			"Salsa de soja",
+			"1 pastilla de caldo",
+			"Aceite de oliva"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Cortamos toda la verdura en juliana (tiritas) y echamos en la sartén cubierta con aceite (sólo cubrir la superficie, no llenar).",
+			"Dejamos que vaya pochando a fuego lento-medio.",
+			"Mientras cocemos la pasta y la escurrimos bajo el grifo.",
+			"Cuando la verdura esté blandita, echamos el filete cortado en tiras y la pastilla de caldo. Cocinamos hasta que la carne esté hecha. Añadimos la pasta y mezclamos bien, echamos un chorreón de salsa de soja y una pizca de sal.",
+			"Dejamos por lo menos 10 minutos a fuego lento para que la salsa de soja reduzca y la pasta absorba todos los sabores."
+		]
+	},
+	{
+		"Title": "Pescado con leche de coco",
+		"Amount": "2",
+		"Utility": null,
+		"Tags": [
+			"Asiática"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"2 Filetes de pescado fresco",
+			"Media taza de leche de coco",
+			"½ Pimentón",
+			"1 ají dulce o picante, o ambos",
+			"1 tallo de cebollín",
+			"2 Dientes de ajo",
+			"Sal",
+			"Pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Marina durante media hora el pescado con una mezcla de sal, pimienta, aceite de oliva y los dientes de ajo machacados.",
+			"Calienta una sartén grande, coloca los filetes de pescado con un chorro de aceite y dóralos por ambos lados rápidamente.",
+			"Agrega los ajíes/pimentones y la parte blanca del cebollín. Deja cocinar por un par de minutos.",
+			"Agrega la leche de coco. Baja el fuego y cocina hasta que reduzca a la mitad. Corrige sal y pimienta si lo consideras necesario.",
+			"Cuando el líquido haya reducido (aproximadamente 10 minutos), apaga el fuego y agrega un poco de la parte verde del cebollín y algunas hojas de cilantro.",
+			"Sirve acompañado con arroz blanco y alguna ensalada bien verde."
+		]
+	},
+	{
+		"Title": "Pollo crujiente General Tso",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Asiática"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"400g de pechuga de pollo en dados",
+			"1 taza de harina",
+			"2 huevos",
+			"4 tazas de copos de maiz",
+			"sal y pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Salsa",
+			"Ingredients": [
+				"250ml de agua (1 vaso)",
+				"75ml de salsa hoisin",
+				"50ml de vinagre de arroz",
+				"2 cucharadas de salsa de soja",
+				"2 cucharadas de almidón de maíz (tipo Maizena)",
+				"2 cucharadas de azúcar moreno"
+			]
+		},
+		"Steps": [
+			"Empezamos salpimentando el pollo, que habremos cortado en dados. Luego disponemos tres cuencos, el primero con la harina, el segundo con el huevo batido y el tercero con los copos de maíz machacados. Pasamos cada trozo de pollo primero por la harina, luego por el huevo y finalmente por los copos de maíz. Vamos colocándolos en una bandeja con papel de hornear.",
+			"Horneamos el pollo 15 minutos a 225ºC, hasta que se haga bien y los copos de maíz empiecen a dorarse. Mientras tanto, preparamos la salsa. En una sartén mezclamos todos los ingredientes, removiendo bien, llevamos a ebullición, bajamos el fuego y dejamos que se espese sin dejar de remover, para que se incorpore bien el almidón de maíz y no queden grumos.",
+			"Finalmente, añadimos a la salsa el pollo, embadurnándolo bien por todas partes. Servimos caliente sobre un poco de arroz blanco y decorando con cebollino, perejil o cilantro, según prefiráis."
+		]
+	},
+	{
+		"Title": "Cerdo al curry phaenang",
+		"Amount": "4",
+		"Utility": null,
+		"Tags": [
+			"Asiática"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"400 cerdo",
+			"250 ml Leche de coco",
+			"4 cucharadas curry rojo",
+			"Orégano",
+			"Cebolla",
+			"Ajo",
+			"zanahoria"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Doramos un poco los ajos, y le añadimos una chucharada y media de curry rojo y un chorrito de leche de coco.",
+			"La carne la harinamos un poco y la sofreímos con cebolla y zanahoria. Luego la mezclamos con el curry y mas leche de coco",
+			"añadimos media cucharada de azucar, sal y si se quiere aceite de pescado, cocinamos durante unos minutos mas dejando que se rebaje el coco."
+		]
+	},
+	{
+		"Title": "Huevos a la florentina",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Desayuno",
+			"Aperitivo"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"4 Huevos",
+			"500 g de espinacas",
+			"1 Cebolla pequeña",
+			"75 g de gruyere rallado",
+			"40 g de parmesano rallado",
+			"50 g de mantequilla",
+			"35 g de harina",
+			"500 ml de leche",
+			"1 cucharada de mostaza de Dijon",
+			"Pimienta blanca",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"En primer lugar, derretimos mantequilla en una cazuela y sofreímos la cebolla rallada a fuego bajo durante cinco minutos.",
+			"Cuando haya tomado un poco de color, añadimos la harina y removemos durante un minuto más.",
+			"A continuación, apartamos la cazuela del fuego y agregamos poco a poco la leche.",
+			"Volvemos a poner la cazuela al fuego y cocinamos a fuego lento sin dejar de remover, hasta que obtengamos una salsa espesa y sin grumos.",
+			"Después, añadimos el queso gruyere, el parmesano, una cucharadita de mostaza, sal y pimienta.",
+			"Seguidamente, salteamos las espinacas en una sartén con mantequilla y colocamos las espinacas en cuatro platos individuales para horno.",
+			"Cubrimos las espinacas con la salsa y echamos un huevo en cada plato.",
+			"Por último, horneamos a 200º C, hasta que los huevos estén cuajados."
+		]
+	},
+	{
+		"Title": "Hamburguesa Atún",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			"Bocadillos"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"3 lata de atún en aceite (si posible, de oliva)",
+			"½ taza de pan rallado",
+			"1 huevo",
+			"1 cucharada (sopera) de perejil picado",
+			"1 cucharadita de un diente de ajo picado",
+			"½ cebolla pequeña rallada",
+			"½ zanahoria rallada muy finamente",
+			"Aceite",
+			"Sal y pimienta a gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Escurrir bien el atún del aceite y desmenuzarlo con los dedos en un bol.",
+			"Añadir el ajo picado, el perejil, la zanahoria y la cebolla rallada.",
+			"Agregar el huevo, la sal y la pimienta, y triturar todo con un tenedor, para se mezcle muy bien.",
+			"Añadir el pan rallado y amasar con las manos hasta que la mezcla se quede como una masa compacta y que nos permita moldearla.",
+			"Formar las hamburguesas, pasarlas por el pan rallado y freírlas en aceite caliente. Dorarlas por ambos lados."
+		]
+	},
+	{
+		"Title": "CusCus con verduras",
+		"Amount": "",
+		"Utility": null,
+		"Tags": [
+			""
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"200 gr. de cuscús",
+			"1 cebolla",
+			"1 calabacín",
+			"1 zanahoria",
+			"1 remolacha",
+			"1 tomate",
+			"comino",
+			"unas hojas de acelga",
+			"aceite y sal al gusto."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Pon agua a hervir. Aliña mientras el cuscús con una pizca de comino y sal.",
+			"Cuando el agua hierva, añade el cuscús y déjalo cocer a fuego lento hasta que se absorba todo el agua.",
+			"En una sartén, salteamos con un poco de aceite la cebolla partida en cuadraditos. Cuando esté pocha, agrega las hojas de acelga, el calabacín en rodajas, el tomate en gajos y la remolacha y la zanahoria peladas y ralladas. Sal al gusto.En un plato coloca el cuscús en el centro y rodéalo con las verduras.",
+			"Para que el cuscús quede suelto, no debe removerse durante la cocción. Pueden añadirse todas las verduras que se quiera, como pimiento, cebolleta, etc."
+		]
+	},
+	{
+		"Title": "Patatas gajo",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Aperitivo",
+			"Entrante"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"600 g de patatas nuevas o monalisa de calibre mediano",
+			"Mezcla de finas hierbas secas: romero, tomillo, etc.",
+			"Sazonador picante",
+			"1 ajo",
+			"Sal gorda",
+			"50 ml de aceite de oliva virgen extra",
+			"Papel de horno"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Lava las patatas con un cepillo y sécalas bien.",
+			"Corta las patatas en gajos siguiendo este esquema. Corta a lo largo por la mitad cada patata, corta esas mitades en dos mitades y a su vez, esas mitades en dos mitades. Obtendrás 8 gajos de cada patata.",
+			"Seca las patatas con papel de cocina para eliminar la humedad.",
+			"Pon el aceite en un bol, añade una cucharada de mezcla de finas hierbas (o algo más, según tu gusto), el sazonador picante, el ajo triturado y sal gorda. Añade las patatas y mezcla bien. Si tienes un bol con tapa, te resultará muy fácil mezclarlas poniendo la tapa y moviendo el bol.",
+			"Cubre el recipiente con una lámina de papel de horno. Coloca las patatas encima y cubre el recipiente con un paño de cocina limpio. Pon la tapa encima y cocina durante 3 horas en ALTA.",
+			"Si lo deseas, a mitad de cocción puedes mover ligeramente el papel para que las patatas se distribuyan de nuevo y las que están más lejos de las paredes se doren también.",
+			"Sirve las patatas recién hechas como guarnición."
+		]
+	},
+	{
+		"Title": "Tocino de cielo",
+		"Amount": "6",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"12 yemas de huevo",
+			"250 ml de agua",
+			"350 g de azúcar",
+			"1 rama de vainilla (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Caramelo",
+			"Ingredients": [
+				"75 g de azúcar",
+				"40 ml de agua"
+			]
+		},
+		"Steps": [
+			"1. Vierte agua en el slow cooker y precaliéntalo en ALTA mientras preparas los ingredientes. La medida de agua debe cubrir a la mitad el molde que utilizarás para hacer el tocino de cielo.",
+			"2. Pon el azúcar, el agua y la rama de vainilla abierta longitudinalmente (si decides usarla) en una cazuela al fuego. Cocina durante 15 minutos a fuego medio hasta que se forme un almíbar ligero. Deja que se temple.",
+			"3. Bate las yemas ligeramente con un batidor manual hasta que se rompan y quede una masa homogénea.",
+			"4. Incorpora el almíbar templado al huevo poco a poco, dejando caer un hilo de liquido y batiendo constantemente. Reserva.",
+			"5. Coloca el azúcar y el agua necesarios para hacer el caramelo en un cazo al fuego. Cocina a fuego medio-fuerte hasta que el azúcar tome color caramelo. Cuida que no se queme ni ennegrezca porque quedaría amargo.",
+			"6. Cuando el caramelo esté listo, vierte poco a poco en el molde hasta que cubra el fondo con una capa muy fina y deja enfriar.",
+			"7. Vierte la mezcla de huevo y almíbar en el molde, tápalo con papel metálico de cocina y colócalo en el slow cooker bien nivelado.",
+			"8. Cocina entre 2 y 3 horas hasta que el tocino de cielo esté cuajado. Empieza a controlar el resultado a las 2 horas de cocción y añade tramos de tiempo de 30 minutos hasta que esté cocinado.",
+			"9. Deja templar fuera del recipiente y desmolda en frío."
+		]
+	},
+	{
+		"Title": "Macarrones con chorizo",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Italiana"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"1200 ml de pulpa de tomate o tomate triturado",
+			"280 g de macarrones o pasta corta",
+			"30 g de mantequilla",
+			"180 g de chorizo",
+			"100 g de jamón en tacos",
+			"Sal",
+			"Pimienta",
+			"Una ramita de hierbas frescas (albahaca o tomillo) u orégano seco"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Vierte la pulpa de tomate en el slow cooker, añade la mantequilla, las hierbas escogidas, el chorizo y el jamón. Agrega 100 ml de agua. Añade pimienta y un poco de sal.",
+			"Cocina durante 3 horas en ALTA.",
+			"Remueve para que se mezcle bien, prueba y rectifica de sal y pimienta si es necesario.",
+			"Incorpora la pasta a la salsa de tomate, que debe estar muy caliente y haciendo un chup chup fuerte.",
+			"Cocina la pasta durante 30 minutos o hasta que esté al dente, removiendo con rapidez dos veces a lo largo de esta cocción para que se haga de manera uniforme.",
+			"Sirve los macarrones con chorizo recién hechos y espolvoreados con queso rallado."
+		]
+	},
+	{
+		"Title": "Estofado de ternera",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Carne"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"Estofado de ternera ",
+			"500 g de carne de ternera cortada en cubos (morcillo, ossobuco, aleta, morrillo, pescuezo, falda, pecho, costillar, carrilleras o rabo de vacuno)",
+			"1 cucharada de mostaza*",
+			"2-3 zanahorias medianas",
+			"100 g de calabaza",
+			"1 cebolla morada",
+			"1 rama de apio",
+			"Tomillo fresco en rama",
+			"225 ml de cerveza tostada",
+			"5-10 granos de pimienta de Jamaica (o común)",
+			"Aceite de oliva",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				"Sala la ternera y embadúrnala con la mostaza.",
+				"Enharina la carne y elimina el exceso de harina con ayuda de un colador.",
+				"Prepara una sartén con aceite de oliva muy caliente y fríe la carne a fuego máximo lo justo para que se dore el exterior. Saca la carne de la sartén y ponla en el slow cooker.",
+				"Pela las zanahorias, la calabaza, la cebolla y el apio. Trocea las zanahorias en rodajas, la calabaza en dados, la cebolla en trozos grandes y el apio en trozos pequeños. Incorpóralos a la olla lenta y mezcla con la carne.",
+				"Añade la cerveza, la pimienta en grano y espolvorea con un poco de sal.",
+				"Coloca una rama de hojas de apio y unas ramitas de tomillo en la superficie.",
+				"Cocina entre 5 y 7 horas en BAJA –dependiendo de la carne que uses– o atendiendo a esta tabla de tiempos y este artículo según el tipo de carne que cocines.",
+				"La carne debe estar suave, jugosa y deshacerse fácilmente a la presión de un tenedor."
+			]
+		},
+		"Steps": []
+	},
+	{
+		"Title": "Castañas asadas",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"Castañas"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Haz un corte en cada castaña a lo largo en una sola cara (corta en sentido horizontal como si trazaras un línea entre el pico y la base). Si quieres que las castañas se abran con facilidad, da otro corte más pequeño formando una cruz.",
+			"Pon las castañas en el slow cooker, coloca un paño debajo de la tapa y cocina entre 1 hora y media y 2 horas en alta. Da una vuelta a las castañas a la mitad del tiempo de cocción.",
+			"Cuando las castañas se abran y estén tiernas, estarán listas para comer.",
+			"Sírvelas en cucuruchos de papel y consúmelas calientes y recién hechas."
+		]
+	},
+	{
+		"Title": "Patatas con costillas",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Cuchara",
+			"Carne"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"750 g de patatas nuevas o para guisar",
+			"500 g de costillas de cerdo (frescas o adobadas) o ternera troceadas",
+			"3 dientes de ajo",
+			"½ cebolla",
+			"1 pimiento choricero",
+			"Caldo de carne, ave, verdura o agua",
+			"Aceite de oliva",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Sala las costillas. Si usas costillas de cerdo adobadas, sáltate este paso.",
+			"Pela las patatas, lávalas y trocéalas haciendo un corte incompleto y chascando la patata. Sálalas ligeramente.",
+			"Pela la cebolla y trocéala.",
+			"Coloca las patatas en el slow cooker junto con las costillas, la cebolla, el pimiento choricero entero, 1 cucharada de aceite de oliva y los ajos aplastados y con su piel.",
+			"Añade caldo o agua sin cubrir por completo los sólidos.",
+			"Cocina durante 4 horas en ALTA o hasta que las patatas estén tiernas, el caldo espeso y las costillas estén tiernas y la carne se desprenda del hueso.",
+			"Saca el pimiento choricero del slow cooker, ábrelo, retira las pepitas, rasca la pulpa y devuélvela al guiso.",
+			"Mueve la olla lenta para que se mezcle con suavidad; prueba, rectifica de sal y sirve."
+		]
+	},
+	{
+		"Title": "Pescado al curry",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Pescado"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 kg de pescado blanco de carne firme, como rape, congrio",
+			"800 ml de leche de coco cremosa (+70% coco)",
+			"¼ pimiento rojo",
+			"50 g de pasta de curry amarilla",
+			"1 hoja de lima kaffir",
+			"1 rama de citronela",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Corta el pescado en trozos medianos eliminando la espina central y la piel.",
+			"Sala el pescado ligeramente.",
+			"Corta el pimiento en tiras.",
+			"Vierte la leche de coco en el sow cooker, añade la pasta de curry y mezcla por completo con ayuda de una varilla de cocina.",
+			"Incorpora el pescado, el pimiento troceado, la lima kaffir y la citronela.",
+			"Cocina durante 1 hora en ALTA.",
+			"Sirve recién hecho acompañado de arroz blanco."
+		]
+	},
+	{
+		"Title": "Patatas a la crema queso",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Aperitivo",
+			"Cuchara"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"2 o 3 patatas medianas",
+			"1 diente de ajo",
+			"300 ml de nata líquida",
+			"Mantequilla a temperatura ambiente",
+			"Queso emmental rallado",
+			"Pimienta blanca recién molida",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pela las patatas, lávalas, sécalas y córtalas en rodajas finas.",
+			"Parte el ajo y unta con él el interior del slow cooker.",
+			"Pincela el interior de la olla de cocción lenta con mantequilla a temperatura ambiente.",
+			"Coloca las patatas en capas siguiendo este orden: capa de patatas, pimienta blanca, sal y queso emmental rallado. Monta tres capas siguiendo ese orden.",
+			"Añade la nata bañando las patatas e impregnando la capa superior, y ralla un poco más de queso encima.",
+			"Coloca un paño de rizo sobre el slow cooker, pon la tapa encima y ténsalo.",
+			"Cocina durante 4 horas en temperatura alta o hasta que las patatas estén tiernas y se traspasen con una brocheta fácilmente."
+		]
+	},
+	{
+		"Title": "Patatas importancia",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 kg de patatas",
+			"1 cebolla",
+			"3 dientes de ajo",
+			"Perejil fresco picado",
+			"Unas 20 hebras de azafrán",
+			"2 o 3 huevos",
+			"Harina",
+			"750 ml de caldo de verduras",
+			"Sal y pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pela las patatas, lávalas, córtalas en rodajas de 1,5 cm y salpimiéntalas.",
+			"Bate dos huevos. Si se acaba el huevo batido antes que las patatas, ataca con el tercero. Enharina las patatas y pásalas por huevo para rebozarlas eliminando el sobrante de harina para que el rebozado quede ligero.",
+			"Fríe las patatas por ambos lados en una sartén con aceite muy caliente. El rebozado debe quedar ligeramente dorado. Saca las patatas a un plato para que se escurra el aceite sobrante.",
+			"Pica la cebolla muy fina y póchala en una sartén con aceite nuevo y caliente. Cuando la cebolla esté pochada, añade una cucharada generosa de harina, remueve y deja que se cocine durante cinco minutos.",
+			"Machaca los dientes de ajo, pica el perejil muy fino y mezcla ambos con el azafrán. Añade este majado a la cebolla pochada e incorpora de inmediato el caldo de verduras.",
+			"Coloca las patatas en el recipiente de la crock pot disponiéndolas ordenadas y en varios pisos. Vierte encima el contenido de la sartén y programa entre 2 y 3 horas en ALTA.",
+			"Apaga el slow cooker, desenchufa y deja reposar durante 30 minutos antes de servir."
+		]
+	},
+	{
+		"Title": "Panceta crujiente",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Aperitivo",
+			"Carne"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"1 pieza de panceta fresca de 750 g entera y con piel",
+			"2-3 hojas de laurel",
+			"15 granos de pimienta negra o blanca",
+			"25 g de sal",
+			"1 rama de romero",
+			"1 litro de agua"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Mezcla en un recipiente el agua, la sal, las hierbas y la pimienta machacada.",
+			"Sumerge la pieza de panceta durante 12 horas y guárdala en el frigorífico.",
+			"Saca la carne, escúrrela y sécala.",
+			"Envuelve la carne con una lámina de papel de horno y sella los bordes con varias dobleces.",
+			"Coloca el paquete en el slow cooker y cocina durante 5 horas en BAJA o hasta que la grasa esté tierna y la carne jugosa (el tiempo es orientativo y depende de la potencia de cada olla lenta).",
+			"Saca la panceta del paquete y colócala en un plato con la piel hacia arriba. Haz unos agujeros con un tenedor para facilitar que quede crujiente.",
+			"A partir de aquí, puedes refrigerarla durante varios días (guárdala con la piel hacia abajo para que quede lisa) o hacerla al momento.",
+			"Pon un poco de aceite en una sartén antiadherente. Caliéntala al máximo, coloca la panceta con la piel hacia abajo y baja el fuego a la mitad de su potencia (con una potencia de 9, en mi inducción lo cociné entre el 5 y el 6). Deja que se vaya tostando muy lentamente a una potencia media. Así te aseguras de que se forme una costra crujiente y dorada sin que se queme. Para evitar que se pegue, puedes cocinarla sobre una lámina de papel de horno cortado a un tamaño similar al de la pieza.",
+			"Deja que se vaya tostando muy lentamente, durante unos 45 minutos, para que quede crujiente, dorada y no se queme.",
+			"Al final, mueve la pieza con una espátula para tostar todas las caras de la panceta.",
+			"Corta la panceta en porciones con un cuchillo afilado. Puede que la corteza se resista, en ese caso, da un corte a la capa crujiente con una tijera de cocina y corta el resto con cuchillo."
+		]
+	},
+	{
+		"Title": "Salmón confitado eneldo",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Pescado"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"4 lomos de salmón de 200 g cada uno",
+			"Aceite de oliva virgen extra",
+			"Eneldo fresco",
+			"Pimienta negra y blanca en grano",
+			"3 dientes de ajo",
+			"Flor de sal o sal maldon (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Seca los lomos de salmón con papel de cocina.",
+			"Colócalos en el slow cooker de manera que entren bien y no se monten unos encima de otros. Yo los he puesto apoyados en un lado para que entren los 4 en un slow cooker de 3,5 litros.",
+			"Da un golpe a los ajos para romperlos, elimina la piel y ponlos en el recipiente.",
+			"Coloca ramas de eneldo fresco entre los lomos de salmón.",
+			"Añade 10 granos de pimienta negra y blanca enteros.",
+			"Vierte aceite sin que cubra por completo el pescado: al calentarse terminará por cubrirlo.",
+			"Cocina en ALTA entre 45 minutos y una hora o hasta que el salmón esté cocinado pero tierno. Cuando empiece a salir jugo blanco del interior del pescado, estará listo de sobra, no dejes que se coagule.",
+			"Saca los lomos y sirve de inmediato.",
+			"Reserva el aceite y cuélalo*."
+		]
+	},
+	{
+		"Title": "Flan de cafe",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"4 huevos",
+			"200 g de leche entera",
+			"400 g de leche condensada",
+			"200 ml de café",
+			"100 g de azúcar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Coloca el azúcar en una sartén y ponla al fuego. Vigila la sartén durante todo el proceso para evitar que el azúcar se queme. El azúcar irá fundiéndose hasta alcanzar un color caramelo.",
+			"Mueve con suavidad la sartén para que el azúcar y el caramelo se vayan mezclando. Cuando empiece a burbujear, vierte pequeñas cantidades en cada molde de flan. Ten mucho cuidado de no tocar el caramelo en ningún momento con las manos ni ayudarte con algún utensilio de cocina. Mueve cada molde para que el caramelo se distribuya un poco por las paredes.",
+			"Bate los huevos a mano hasta que la clara y la yema estén ligadas.",
+			"Añade la leche condensada y remueve hasta mezclar por completo.",
+			"Incorpora la leche y el café, y mezcla.",
+			"Cuela la mezcla para eliminar posibles restos sólidos y distribúyela en los moldes de flan.",
+			"Coloca sobre cada molde una lámina de papel metálico de cocina y forma una tapa con el papel.",
+			"Pon dos dedos de agua cubriendo el fondo del slow cooker.",
+			"Coloca las flaneras en el recipiente de la olla lenta, pon la tapa y cocina durante 2 horas y 30 minutos en temperatura alta.",
+			" Abre la tapa y comprueba el punto de cocción de los flanes. Deben estar cuajados y, al atravesarlos con una brocheta, ésta debe salir limpia.",
+			" Saca los flanes de la crock pot, deja que se templen y conserva en frío antes de servir."
+		]
+	},
+	{
+		"Title": "Bufalo Wings",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Aperitivo",
+			"Americana"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"1,5 kg de alitas de pollo",
+			"100 g de mantequilla",
+			"150 g de salsa picante",
+			"½ cucharadita de postre de espesante de fécula",
+			"3 gotas de salsa Worcestershire",
+			"1 ajo triturado",
+			"Yogur, suero de yogur o buttermilk",
+			"Pimienta negra",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Elimina los restos de plumas de las alitas con ayuda de un soplete. Elimina la punta cada alita y trocéalas en dos separándolas por la unión del hueso.",
+			"Salpimienta las alitas y colócalas en una bolsa de zip. Añade un par de cucharadas de yogur, suero de yogur o buttermilk, cierra la bolsa eliminando la mayor parte de aire que sea posible. Deja reposar las alitas durante una noche o unas 8 horas en el frigorífico.",
+			"Saca las alitas de la bolsa, desecha el líquido que puedan llevar, deja que se escurran y sécalas con papel de cocina.",
+			"Prepara la salsa: derrite la mantequilla en un cazo al fuego, añade la salsa picante, las gotas de salsa Worcestershire, el ajo triturado y el espesante. Remueve hasta mezclar por completo y cocina a fuego medio entre 5 y 10 minutos o hasta que esté algo espesa.",
+			"Coloca las alitas en el slow cooker solapadas unas con otras para que se hagan por igual.",
+			"Pincela las alitas con un tercio de la salsa y reserva el resto.",
+			"Cocina durante 3 horas en ALTA.",
+			"Sirve las alitas calientes cubiertas con el resto de la salsa.",
+			"Si lo deseas, puedes dar el acabado a las alitas en el horno. Precalienta el grill del horno. Saca las alitas del slow cooker y colócalas en una bandeja para horno. Gratina durante unos minutos hasta que la piel de las alitas estén doradas. Cubre con la salsa caliente."
+		]
+	},
+	{
+		"Title": "Tarta de queso japonesa",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"6 huevos",
+			"250 g de queso crema",
+			"50 g de mantequilla a temperatura ambiente",
+			"100 g de leche",
+			"60 g de harina de trigo",
+			"60 g de Maicena o harina fina de maíz",
+			"130 g de azúcar",
+			"30 ml de zumo de limón",
+			"1 g de cremor tártaro",
+			"1 pizca de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Precalienta el slow cooker en ALTA mientras preparas los ingredientes.",
+			"Separa las claras de las yemas y reserva ambas.",
+			"Pon las claras en un bol con el crémor tártaro. Monta las claras a punto de nieve con una batidora eléctrica de varillas. Ve añadiendo el azúcar poco a poco a medida que las claras se van montando.",
+			"En otro bol, mezcla el queso crema, la mantequilla a temperatura ambiente, la sal y la leche, y bate.",
+			"Incorpora las yemas y el zumo de limón a la mezcla y sigue batiendo.",
+			"Agrega las harinas tamizadas y mezcla a mano con suavidad.",
+			"Vierte las claras a punto de nieve sobre la masa incorporándolas a mano con movimientos suaves –con la ayuda de una espátula– hasta que queden perfectamente mezcladas.",
+			"Engrasa un molde, coloca una banda de papel de horno rodeando la pared del molde, vierte la masa en él y colócalo en el slow cooker. Pon un paño de rizo sobre la olla y coloca la tapa encima.",
+			"Cocina durante 1 hora y 30 minutos en ALTA."
+		]
+	},
+	{
+		"Title": "",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [],
+		"Type": "Principal",
+		"Ingredients": [],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": []
 	}
 ]
