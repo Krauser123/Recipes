@@ -3648,16 +3648,1205 @@
 		]
 	},
 	{
-		"Title": "",
+		"Title": "Cookies Chocolate blanco y cacahuetes",
 		"Amount": "",
-		"Utility": "Crockpot",
+		"Utility": "",
 		"Tags": [],
-		"Type": "Principal",
-		"Ingredients": [],
+		"Type": "Postres",
+		"Ingredients": [
+			"1 tableta chocolate blanco",
+			"50gr cacahuetes",
+			"150gr azúcar blanco",
+			"150gr azúcar moreno",
+			"330gr harina",
+			"1 cucharada levadura",
+			"2 cucharadas canela",
+			"2 huevos",
+			"130gr mantequilla"
+		],
 		"Ingredients2": {
 			"TitleIngredients2": null,
 			"Ingredients": []
 		},
-		"Steps": []
+		"Steps": [
+			"Mezclamos los dos azucares con la mantequilla derretida y dos huevos.",
+			"Añadimos a la harina (a la que previamente hemos hechado la canela y la levadura) y no dejamos de mezclar mientras vamos agregando poco a poco el chocolate y los cacahuetes.",
+			"En el horno 160º durante unos 15/20 min, que queden doradas por arriba, se endurecen al enfriarse."
+		]
+	},
+	{
+		"Title": "Cuajada de chocolate blanco",
+		"Amount": "5",
+		"Utility": "",
+		"Tags": [],
+		"Type": "Postres",
+		"Ingredients": [
+			"100 grs. de chocolate blanco",
+			"50 grs. de azúcar",
+			"500 ml. de leche",
+			"1 sobre de cuajada"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Separamos 250 ml. de leche y disolvemos el contenido del sobre de cuajada.",
+			"Reservamos.Troceamos el chocolate y lo ponemos en un cazo al fuego con 250 ml. de leche y el azúcar, y lo revolvemos hasta que se deshaga el chocolate por completo y empiece a hervir.",
+			"Apartamos del fuego unos segundos mientras añadimos el preparado de la leche con el sobre de cuajada y volvemos a poner al fuego removiendo de continuo hasta que vuelva a hervír otra vez.",
+			"Servir frío y por lo menos con un par de horas de reposo"
+		]
+	},
+	{
+		"Title": "Crema de caramelo y galleta",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [],
+		"Type": "Postres",
+		"Ingredients": [
+			"120 g de galletas maría",
+			"100 g de azúcar",
+			"30 g de caramelo líquido",
+			"500 g de nata líquida",
+			"500 g de leche",
+			"3/4 de un sobre de cuajada",
+			"8 galletas más para decorar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Hacemos la cuajada como indique el fabricante",
+			"Añadimos el resto de ingredientes excepto el caramelo",
+			"Con el caramelo pintamos los moldes y vertemos la mezcla",
+			"Refrigeramos durante un par de horas"
+		]
+	},
+	{
+		"Title": "Pulled Pork",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Americana",
+			"Carne",
+			"Bocadillos"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"475 g de aguja de cerdo",
+			"30 g de azúcar moreno",
+			"15 ml de vinagre de manzana",
+			"40 ml de ketchup",
+			"15 ml de soja",
+			"15 ml de aceite",
+			"250 ml de agua",
+			"1 cebolla",
+			"2 ajos",
+			"1 guindillas",
+			"1 hoja de laurel",
+			"1 cucharadas de mostaza dijón",
+			"1 cucharadita de pimentón dulce"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Introducimos el azúcar, el vinagre, el kétchup, la soja, el aceite, el agua, la cebolla, el ajo, la guindilla, la mostaza y el pimentón, trituramos a velocidad 8 durante 1 minuto.",
+			"Añadimos la carne en tacos grandes y e laurel, programamos 90ºC, potencia de calor 5, velocidad 0 durante 5 horas.",
+			"Pasado este tiempo, retiramos la carne y programamos 110ºC, potencia de calor 7, velocidad 1 durante 15 minutos para reducir la salsa.",
+			"Mientras tanto, deshilachamos la carne con ayuda de dos tenedores. Cuando la salsa esté reducida mezclamos con la carne deshilachada.",
+			"Servimos con pan de hamburguesa, cebolla morada encurtida, pepinillos agridulces y lechuga con mayonesa cortada finamente."
+		]
+	},
+	{
+		"Title": "Almejas a la marinera",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [],
+		"Type": "Principal",
+		"Ingredients": [
+			"750 g de almejas",
+			"70 g de aceite de oliva",
+			"100 g de cebolla",
+			"30 g de ajos",
+			"1 cucharada de pan rallado",
+			"100 g de vino blanco",
+			"100 g de agua",
+			"El zumo de medio limón",
+			"Sal",
+			"Medio cubilete de hojas de perejil"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponga las almejas en agua y sal un mínimo de media hora, para que suelten la tierra. Frote unas contra otras y enjuáguelas bien bajo el chorro de agua fría. Colóquelas en el cestillo y reserve",
+			"Vierta en el vaso el aceite, la cebolla y los ajos para hacer el sofrito, y programe 7 minutos, temperatura Varoma, velocidad 3.",
+			"Seguidamente, añada el pan rallado, el vino, el agua, el zumo de limón y la sal, introduzca el cestillo con las almejas espolvoreadas con un poco de perejil troceado, sazone y programe 15 minutos, temperatura Varoma, velocidad 2.",
+			"Compruebe que se han abierto las almejas, de no ser así, programe unos minutos más.",
+			"Retire el cestillo y vierta el contenido en una fuente de servir. Rectifique el punto de sal, vierta la salsa sobre las almejas y sírvalas muy calientes, adornándolas con el resto de perejil troceado.",
+			"Para hace más cantidad de almejas a la marinera con la Thermomix, ponga éstas en el recipiente Varoma, y haga el resto de la receta igual, teniendo en cuenta que debe dejar espacio para cuando se abran las almejas. Vierta la salsa, una vez hecha sobre las almejas."
+		]
+	},
+	{
+		"Title": "Cerdo en salsa picante",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 Kilo de paleta de cerdo cortada en cubos de 1 pulgada",
+			"4 dientes de ajo machacados",
+			"2 papas grandes peladas y cortadas en cubos",
+			"2 pimientos morrones cortados en trozos grandes",
+			"2 calabacines grandes cortados en trozos de 1/2 pulgada",
+			"500gr de tomates",
+			"1 taza de jugo v8",
+			"Salsa picante al gusto",
+			"1 taza de caldo de pollo",
+			"Sal y pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Trabajando en lotes pequeños, dore la paleta de cerdo y agréguela a la olla de cocción lenta.",
+			"Saltee el ajo durante 1 minuto y agréguelo a la olla.",
+			"Agregue papas, tomates enlatados, jugo v8, salsa picante y mejor que el caldo a la olla.",
+			"Cocine a fuego lento durante 7-8 horas o a fuego alto durante 5-6 horas.",
+			"Agregue los pimientos y el calabacín durante los últimos 45 minutos a una hora de cocción. Los quieres cocidos pero aún un poco firmes para una variedad de textura.",
+			"Sazone con sal y pimienta"
+		]
+	},
+	{
+		"Title": "Bacalao dorado",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Pescado",
+			"Portuguesa"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"250 g de patatas paja y fritas en aceite de oliva virgen extra",
+			"100 g de aceite de oliva",
+			"400 g de cebolla cortada en juliana (2 cebollas hermosas)",
+			"400 g de bacalao desalado y desmigado",
+			"4 huevos",
+			"50 g de nata",
+			"80 g de aceitunas negras sin hueso",
+			"pimienta negra recién molida y sal (opcional)",
+			"Perejil fresco"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Lo primero que haremos será cortar las patatas en paja y freirlas en abundante aceite caliente. Una vez fritas reserva en un plato con papel de cocina que absorberá el exceso de aceite y sal.",
+			"Corta las cebolla en mitades y con un cuchillo ve cortándo la juliana. Con dos cebollas será suficiente. Reserva",
+			"Pon en el vaso de la Thermomix® la mariposa, vierte el aceite de oliva y calienta 3 minutos, varoma, velocidad 1.",
+			"Una vez el aceite está caliente, vierte la cebolla reservada y programa 12 minutos, temperatura varoma y velocidad 1.",
+			"Añade el bacalao al vaso y programa 3 minutos, Varoma, giro a la izquierda y velocidad 1.",
+			"Incorpora al vaso la patatas paja y programa 3 minutos, Varoma, giro a la izquierda y velocidad 1.",
+			"Pon una sartén grande al fuego y cuando esté caliente, vierte toda la mezcla del vaso.",
+			"En el vaso sin lavar y sin mariposa, pon los 4 huevos y la nata y mezcla 10 segundos en velocidad 3. Échalos en la sartén y ve cuajando.",
+			"Solo falta que eches las aceitunas negras, la pimienta y espolvorees con perejil"
+		]
+	},
+	{
+		"Title": "Pisto",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Aperitivo",
+			"Entrante"
+		],
+		"Type": "Verdura",
+		"Ingredients": [
+			"150 gr de pimiento rojo en trozos",
+			"150 gr de pimiento verde en trozos",
+			"300 gr de cebolla cortada en cuartos",
+			"300 gr de calabacin sin pelar, lavado y en trozos medianos",
+			"60 gr de aceite de oliva virgen extra",
+			"500 gr de tomate triturado",
+			"1 cucharadita sal",
+			"1 pizca de azucar",
+			"1 pizca de pimienta negra molida"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos en el vaso los pimientos y la cebolla y programamos 4 segundos, velocidad 4. Reservamos todo en el cestillo.",
+			"Troceamos el calabacín programando 2 segundos, velocidad 4.",
+			"Añadimos el aceite y las verduras reservadas. Programamos 15 minutos, temperatura Varoma, giro a la izquierda, velocidad cuchara.",
+			"Incorporamos el tomate, la sal y la pimienta y la pizca de azucar y programamos 20 minutos, temperatura Varoma, giro a la izquierda, velocidad cuchara."
+		]
+	},
+	{
+		"Title": "Pancakes",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 huevo",
+			"120 g (1 taza) harina de trigo",
+			"200 ml (entre 3/4-1 taza) de leche entera (quieres una consistencia gruesa pero no imposible de verter!)",
+			"30 ml (2 cucharas) de aceite vegetal (o de girasol)",
+			"20 g (1,5 cucharas) de azúcar",
+			"15 g (3 cucharitas) de levadura en polvo",
+			"2,5 g (1/2 cucharita) de sal",
+			"5 g (1 cucharita) de canela molida"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Mezcla primero los ingredientes secos.",
+			"Después, añade los ingredientes húmedos.",
+			"Mezcla bien, hasta que quede sin grumos.",
+			"Verte pequeñas cantidades en una sartén engrasada con mantequilla",
+			"Girala cuando veas burbujas."
+		]
+	},
+	{
+		"Title": "Crujiente de manzana",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"6 manzanas grandes",
+			"200 g (1 taza) de azúcar",
+			"90 g (3/4 taza) de harina",
+			"80 g (1/3 taza) mantequilla",
+			"60 ml (1/4 taza) de agua",
+			"5 ml (1 cucharita) de canela",
+			"2,5 ml (1/2 cucharita) de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Precalienta el horno a 180°C",
+			"Pela las manzanas y córtalas en trozos medianos.",
+			"Coloca los trozos en la bandeja del horno",
+			"Comprueba el punto de cocción, ni crudos ni echos pure.",
+			"En un bol pequeño mezcla la harina y azúcar. Añade la mantequilla y machaca con un tenedor hasta que quedé más o menos hecho una pasta pero con muchas migas también.",
+			"Distribuye la mezcla por encima de las manzanas. Hornea por unos 40 minutos, hasta que las manzanas se estén caramelizando y esté totalmente dorada encima."
+		]
+	},
+	{
+		"Title": "Ratafía",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			"Cocktail",
+			"Bebida"
+		],
+		"Type": "Cocktail",
+		"Ingredients": [
+			"250 gr. de nueces tiernas, a ser posible recolectadas la noche de San Juan",
+			"10 gr. de tomillo",
+			"5 gr. de canela en rama",
+			"2 l. aguardiente anisado",
+			"½ l. jarabe ( agua y azúcar en partes iguales)",
+			"4 Membrillos, solo el zumo "
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Machacar las nueces y dejarlas en maceración  con el resto de ingredientes durante 50 días.",
+			"Pasados estos días filtraremos, el liquido, que quedara listo para su consumo"
+		]
+	},
+	{
+		"Title": "Limonchelo",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			"Bebida",
+			"Cocktail"
+		],
+		"Type": "Cocktail",
+		"Ingredients": [
+			"Cáscaras de 6 limones amarillos",
+			"1/2 litro de alcohol refinado",
+			"1/2 litro de agua",
+			"1/2 kilo de azúcar blanca"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Quitar la cáscara amarrilla de los limones, con cuidado que no contengan la parte blanca.",
+			"Colocarla en un frasco limpio, y cubrirla con el alcohol.",
+			"Dejarla macerar en un lugar oscuro y fresco durante 4 semanas. Una vez pasado este tiempo, filtrar el alcohol y reservar.",
+			"Preparar un almíbar liviano con el agua y el azúcar, dejar enfriar bien e incorporar el alcohol filtrado, que debe ya tener el color y sabor de los limones."
+		]
+	},
+	{
+		"Title": "Licor café",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			"Cocktail",
+			"Bebida"
+		],
+		"Type": "Cocktail",
+		"Ingredients": [
+			"300ml de café, molido, de la mejor calidad",
+			"1 - 1/2 tazas de agua hirviendo",
+			"3/4 taza de azúcar granulada",
+			"1/4 taza de azúcar morena",
+			"1/2 cucharadita de extracto de vainilla",
+			"1 - 1/2 tazas de vodka"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Mezclar el café molido con el agua hirviendo, dejar reposar por 2 minutos.",
+			"Colarlo en un colador para café y ponerlo en una ollita a fuego bajo.",
+			"Agregar el azúcar y cocinar revolviendo hasta que empiece a salir vapor (como 5 minutos), teniendo cuidado de no hervir la mezcla.",
+			"Remover del fuego y dejar enfriar. Agregar la vainilla y el vodka. Poner en una botella limpia, desinfectada, y dejar madurar los sabores por 3-4 días antes de servir."
+		]
+	},
+	{
+		"Title": "Champiñones crema",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Aperitivo"
+		],
+		"Type": "Entrante",
+		"Ingredients": [
+			"800 g de champiñones Portobello",
+			"1 cucharada de mantequilla",
+			"100 ml de caldo de verduras, ave o agua",
+			"50 ml de brandy",
+			"1 cucharada rasa de Maizena",
+			"150 ml de nata líquida",
+			"Perejil fresco picado",
+			"Pimienta blanca",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon el brandy en un cazo al fuego y deja que hierva hasta que reduzca a la mitad.",
+			" Añade la mantequilla, disuelve e incorpora la Maizena, removiendo hasta que quede ligada.",
+			" Agrega el caldo o el agua, remueve hasta mezclar y cocina durante unos minutos hasta que quede como una crema.",
+			" Elimina la base de los champiñones (puedes aprovecharlos para hacer una crema de champiñones) y límpialos con un paño de microfibra húmedo.",
+			" Corta los champiñones en cuatros u octavos (depende del tamaño que tengan).",
+			" Pon los champiñones en el slow cooker, espolvorea con un poco de sal, añade la crema que has cocinado antes y mezcla bien.",
+			" Cocina durante 3 horas en ALTA. Si finalizando la cocción los champiñones tienen un exceso de líquido, deja que reduzca con la tapa entreabierta.",
+			" Añade la nata, mezcla y deja que se cocine 30 minutos más o hasta que la salsa quede cremosa. Espolvorea pimienta a tu gusto, añade perejil picado y rectifica de sal si es necesario."
+		]
+	},
+	{
+		"Title": "Garbanzos melosos",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Cuchara"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"400 g de garbanzos",
+			"1 pata de ternera limpia y troceada",
+			"½ morro de ternera limpio y troceado",
+			"1 oreja de cerdo limpia y troceada",
+			"250 g de chorizo fresco",
+			"2 dientes de ajo",
+			"150 g de tocino con veta",
+			"150 g de jamón",
+			"1 cebolla",
+			"Laurel",
+			"Perejil fresco",
+			"1 cucharada de pimentón",
+			"1 cucharadita de comino en polvo",
+			"Aceite de oliva virgen extra",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Remoja los garbanzos durante 10 horas en agua templada con un poco de sal.",
+			"Enjuaga el morro y la pata en agua fresca.",
+			"Lava la oreja de cerdo y hiérvela durante 10 minutos para una limpieza exhaustiva. Si lo deseas, puedes hacer lo mismo con la pata y el morro.",
+			"Trocea el tocino y el jamón en tacos.",
+			"Corta la cebolla muy fina y los ajos en trozos grandes.",
+			"Pon en el slow cooker el morro, la pata, la oreja y los garbanzos escurridos, el chorizo entero, el jamón y el tocino. Añade pimentón, comino, la cebolla, el ajo, una rama de perejil, una hoja de laurel, 3 cucharadas de aceite de oliva y un poco de sal.",
+			"Añade agua hasta que cubra los sólidos.",
+			"Cocina durante 12 horas en ALTA o hasta que los callos y los garbanzos estén tiernos. Esta receta puede llevar hasta 24 horas de cocción en función del punto de melosidad de los cárnicos que se quiera conseguir.",
+			"Prueba y rectifica el punto de sal al final si es necesario."
+		]
+	},
+	{
+		"Title": "",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Carne",
+			"Aperitivo"
+		],
+		"Type": "Aperitivo",
+		"Ingredients": [
+			"700 g de salchichas frescas (butifarra, chorizo criollo, longaniza o salchicha de Toulouse)",
+			"600 g de grasa de pato, manteca de cerdo o una mezcla de ambas",
+			"Romero y tomillo fresco",
+			"1 hoja de laurel",
+			"Pimienta negra y blanca en grano",
+			"4 dientes de ajo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Coloca las salchichas en el slow cooker. Añade la grasa escogida, unas ramitas de romero y tomillo frescas, el laurel y unos 10 o 15 granos de pimienta negra y blanca enteros.",
+			"Da un golpe a los ajos para romperlos. Elimina la piel y colócalos en el recipiente.",
+			"Cocina durante 3 horas en ALTA.",
+			"Saca las salchichas y guárdalas en un recipiente o táper de vidrio con cierre hermético cubiertas por completo por la grasa y con las hierbas y los ajos cocinados. Conserva en el frigorífico y consume en dos o tres semanas.",
+			"Lava y esteriliza los botes de vidrio con cierre hermético hirviéndolos durante 10 minutos a fuego fuerte. Deja que se sequen por completo.",
+			"Introduce las salchichas en el bote y rellena con la grasa y el resto de ingredientes, repartiendo todo en tantos tarros como sea necesario.",
+			"Añade grasa con generosidad: una vez cocinadas, la grasa debe cubrir las salchichas.",
+			"Cierra los botes y colócalos en el slow cooker. Añade agua al recipiente hasta cubrir la mitad de la altura de los botes.",
+			"Cocina durante 3 horas en ALTA.",
+			"Saca los botes con cuidado y deja que se enfríen sin abrirlos bajo ningún concepto, ya que el contenido podría salir violentamente y producir quemaduras si se abre en caliente.",
+			"Conserva en frío y consume en el plazo de unas dos o tres semanas."
+		]
+	},
+	{
+		"Title": "Quesada pasiega",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"500 g de queso quark",
+			"4 huevos",
+			"100 g de mantequilla fundida",
+			"250 g de azúcar",
+			"100 g de harina",
+			"0,5 g (1/2 cucharadita) de canela en polvo",
+			"1 limón",
+			"Una pizca de sal",
+			"Azúcar glass para espolvorear"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Coloca papel de horno en el slow cooker forrando con él el fondo y las paredes. Haz pequeños pliegues para que se adapte a la forma de la olla extraíble.",
+			"Enciende el slow cooker en temperatura alta para que se precaliente mientras preparas la masa.",
+			"Bate los huevos a mano con la mantequilla fundida y el azúcar hasta que la mezcla esté bien integrada.",
+			"Añade el queso quark, la sal, la ralladura de medio limón y la canela, y mezcla de nuevo.",
+			"Tamiza la harina e incorpórala a la masa en tres veces, mezclando a mano y con suavidad cada vez hasta que la masa sea homogénea.",
+			"Vierte la masa en el slow cooker y espolvorea un poco de azúcar encima.",
+			"Coloca un paño de rizo encima de la olla de cocción lenta y pon la tapa sobre el paño. Tensa un poco la tela estirando las esquinas.",
+			"Cocina durante 2 horas y media en ALTA o hasta que la masa esté bien cuajada.",
+			"Cuando la quesada esté hecha, destapa y deja que se temple un poco antes de sacarla del slow cooker."
+		]
+	},
+	{
+		"Title": "Pollo al ajillo",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Carne",
+			"Principal"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 kg de pollo de corral troceado",
+			"1 cabeza de ajos grande",
+			"75 ml de vino blanco",
+			"Aceite de oliva",
+			"Pimienta negra",
+			"Sal",
+			"1 ramita de tomillo fresco o romero (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Precalienta el slow cooker en ALTA, añadiendo el aceite justo para que cubra el fondo de la olla.",
+			"Corta la cabeza de ajos por la mitad, pela los ajos y ponlos a freír en una sartén a temperatura media. Con este paso conseguirás aromatizar el aceite y que los ajos se cocinen. Cuando empiecen a dorarse, sácalos con una espumadera, añádelos a la crock pot y cierra la tapa.",
+			"Salpimienta el pollo troceado y fríelo en la sartén a fuego fuerte sin cambiar el aceite.",
+			"Cuando el pollo esté dorado, resérvalo en un plato. Cuando hayas frito todas las tandas, ponlo en la olla de cocción lenta junto con los ajos y una parte del aceite en el que has frito el pollo.",
+			"Retira todo el aceite de la sartén y vierte el vino blanco. Deja que se cocine durante un minuto para que pierda el alcohol y añádelo a la crock pot. Remueve bien para que se mezcle.",
+			"Puedes aromatizar el pollo al ajillo añadiendo una ramita de tomillo fresco o romero en este momento.",
+			"Pon el slow cooker en BAJA y cocina durante 3 horas."
+		]
+	},
+	{
+		"Title": "Salsa Española",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Salsas"
+		],
+		"Type": "Salsas",
+		"Ingredients": [
+			"150 gr. cebolla",
+			"2 dientes ajo",
+			"30 gr. aceite",
+			"1 cta. postre harina",
+			"65 gr. tomate frito",
+			"100 gr. vino blanco",
+			"350-400 gr. agua",
+			"1 cta. de Bovril o 1/2 pastilla caldo carne",
+			"nuez moscada"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Picar cebolla y ajos, 2 seg. vel.5. Bajar restos, añadir el aceite y pochar 10 min. Varoma. vel. cuchara, sin cubilete.",
+			"Harina, tomate y vino blanco 5 min. Varoma, vel.1., sin cubilete, para favorecer la evaporación del alcohol.",
+			"A continuación, agua, concentrado carne, sal y nuez moscada, 20 min. 100º, vel.2. Sin cubilete, colocar el cestillo en su lugar para evitar salpicaduras. Después triturar 10 seg.,  vel. 10.",
+			"Volcar la salsa sobre las albóndigas y cocer unos 10-15 minutos."
+		]
+	},
+	{
+		"Title": "Potaje garbanzos bacalao",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Principal",
+			"Cuchara"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"250g de garbanzos",
+			"300g de bacalao desmigado",
+			"3 huevos",
+			"150g de espinacas frescas",
+			"1 cabeza de ajo entera",
+			"2 dientes de ajo",
+			"1 hoja de laurel",
+			"1 cebolla",
+			"1 cucharadita colmada de pimentón dulce",
+			"1 cucharada de perejil fresco picado",
+			"Aceite de oliva virgen extra",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Desala el bacalao poniéndolo en remojo durante 24 horas. Cambia tres veces el agua (cada 8 horas).",
+			"Pon los garbanzos en remojo con agua tibia durante 12 horas. Pasado ese tiempo, escurre y elimina el agua de remojo.",
+			"Cuece los huevos. Pon a calentar un cazo con agua y sal. Cuando rompa a hervir, desliza los huevos en el agua con una cuchara (para que no se rompan ni te salpique el agua caliente) y cuece durante 15 minutos a fuego vivo. Escurre, deja enfriar por completo y reserva.",
+			"Pon los garbanzos remojados, la cabeza de ajos entera cortada por la mitad, dos cucharadas de aceite de oliva, un poco de sal y una hoja de laurel en la olla. Cubre con agua (2cm por encima de los garbanzos) y cocina durante 10 horas en ALTA sin abrir la olla en ningún momento.",
+			"Una vez cocidos los garbanzos, agrega las espinacas a la olla caliente, tapa y deja que se cocinen durante 30 minutos en ALTA.",
+			"Pica la cebolla y los dos dientes de ajo en trozos muy finos.",
+			"Prepara una sartén con dos cucharadas de aceite y ponla al fuego. Pocha el ajo picado durante dos minutos, añade la cebolla y deja que se cocine hasta que esté transparente.",
+			"Incorpora el pimentón, retira del fuego y remueve bien. Vuelca este sofrito en la olla.",
+			"Pica los huevos duros y reserva.",
+			"Añade el bacalao y apaga la olla. Tapa y deja que se cocine con el calor residual durante 10 minutos. Pasado ese tiempo, prueba y rectifica de sal.",
+			"Incorpora el huevo picado y el perejil. Mueve la olla o remueve suavemente con un cucharón hasta que se mezcle. Deja que asiente durante 15 minutos antes de servir."
+		]
+	},
+	{
+		"Title": "Champiñones guisados",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Cuchara",
+			"Aperitivo"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"700g de champiñones",
+			"2 cebollas",
+			"3 dientes de ajo",
+			"150ml de vino blanco",
+			"1 cucharadita de harina",
+			"Aceite de oliva",
+			"2 aros de guindilla o 1 cayena",
+			"Perejil fresco",
+			"Sal",
+			"Pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Enciende la Crock Pot en ALTA.",
+			"Limpia los champiñones y trocéalos en medios o cuartos.",
+			"Pica la cebolla en trozos finos, trocea los ajos y pon todo a pochar en una sartén con aceite de oliva junto a los dos aros de guindilla o la cayena.",
+			"Cuando la cebolla empiece a perder dureza, añade una cucharadita de harina, remueve y deja que se cocine durante dos minutos.",
+			"Añade el vino blanco, deja que reduzca un poco y remueve bien al fuego.",
+			"Incorpora los champiñones a la sartén, añade un poco de sal, saltea para que se mezcle todo bien y pásalo a la Crock Pot.",
+			"Cocina durante 3 horas en ALTA (comprueba el punto de cocción).",
+			"Cuando los champiñones estén hechos,prueba y rectifica de sal y pimienta, espolvorea con perejil picado y sirve."
+		]
+	},
+	{
+		"Title": "Salchichas al vino",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Principal",
+			"Carne"
+		],
+		"Type": "Principal",
+		"Ingredients": [],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				"4 butifarras de 200g (aproximadamente) cada una",
+				"1 cebolla",
+				"3 dientes de ajo",
+				"50ml de vino blanco",
+				"100ml de aceite de oliva virgen extra",
+				"Sal"
+			]
+		},
+		"Steps": [
+			"Pela la cebolla y córtala en juliana fina.",
+			"Pela los dientes de ajo y rómpelos con una maza o la hoja de un cuchillo.",
+			"Pon el aceite en la olla y añade la cebolla troceada.",
+			"Coloca la cebolla y los ajos en la olla, añade un poco de sal y remueve bien para que se impregne de aceite.",
+			"Calienta una plancha, pincela la superficie con un poco de aceite y marca las butifarras por los dos lados hasta que tomen color.",
+			"Coloca las butifarras encima de la cama de cebolla, riega con el vino blanco, tapa la olla y programa 3 horas en ALTA.",
+			"Retira las butifarras de la olla y reserva.",
+			"Tritura la cebolla junto con los jugos con una batidora de mano hasta que quede una salsa fina. Pruébala y rectifica de sal si es necesario.",
+			"Vuelve a poner la salsa en la olla y sumerge en ella las butifarras.",
+			" Mantén caliente hasta la hora de servir."
+		]
+	},
+	{
+		"Title": "Lomo de orza",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Carne",
+			"Aperitivo"
+		],
+		"Type": "Aperitivo",
+		"Ingredients": [
+			"750g de lomo de cerdo fresco o adobado",
+			"Aceite de oliva virgen extra",
+			"3 ajos",
+			"2 hojas de laurel",
+			"1 chile rojo",
+			"10 granos de pimienta negra",
+			"Tomillo en rama",
+			"¼ de limón encurtido en sal o piel de limón normal",
+			"1 rama de canela",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Corta la pieza de lomo en filetes gruesos de unos 4 cm (aproximadamente tres dedos).",
+			"Pon el lomo en la olla, añade los ajos, la canela, el chile, los granos de pimenta, el tomillo y la piel de limón, el laurel y un poco de sal.",
+			"Cubre la carne por completo con aceite de oliva virgen extra.",
+			"Tapa la olla y programa 2 horas en temperatura ALTA o 3 horas y media en BAJA.",
+			"Pon la carne en un bote grande y añade la grasa en la que se ha confitado cuidando que la cubra por completo.",
+			"Guarda el bote en frío y deja que repose durante 15 días antes de consumirlo."
+		]
+	},
+	{
+		"Title": "Guisantes con jamon",
+		"Amount": "",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Principal"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 Cebolla",
+			"1 puerro",
+			"Aceite de oliva virgen extra",
+			"4 anchoas (en aceite)",
+			"1 bote de tomate natural troceado (400 gramos)",
+			"500 gramos de guisantes",
+			"150 gramos de jamón serrano en tacos",
+			"4 huevos (1 por persona)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"En una sartén calentamos un poco de aceite y sofreímos la cebolla y el puerro, picados, hasta que esté transparente. Añadimos las anchoas y las deshacemos con el sofrito. Tienen que quedar deshechas y mezcladas con el sofrito de verdura.",
+			"En la olla lenta ponemos, en este orden, los guisantes, el sofrito de cebolla y anchoas, el tomate troceado y el jamón. Poner los ingredientes en capas no revueltos. Tapamos la CrockPot y cocinamos durante 4 horas en temperatura ALTA. La última hora de cocción destapamos la olla para que se evapore el líquido del guiso.",
+			"Comprobamos cuando haya terminado el tiempo la cocción de los guisantes y mezclamos en la olla, con ayuda de una lengua o cuchara, todos los ingredientes.",
+			"Probamos el punto de sal de la comida y rectificamos si hace falta. La sal no la echamos hasta el final del guiso.",
+			"Escalfamos (o freímos) los huevos, y servimos en los platos los guisantes, con el huevo encima."
+		]
+	},
+	{
+		"Title": "Arroz con sofrito",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Cuchara"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"130 gr de aceite de oliva virgen",
+			"4 dientes de ajo",
+			"1/2 cebolla",
+			"1 tomate",
+			"30 gramos de pimiento verde",
+			"100 gr vino blanco",
+			"750 gr de agua",
+			"1 pastilla de caldo",
+			"sal, especias de pinchitos y pimienta negra al gusto",
+			"3 cubiletes de arroz",
+			"colorante"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner todos los ingredientes del sofrito en el vaso (ajos, cebolla, pimiento, tomate, aceite). Trocearlos 4 segs a velocidad 5.",
+			"Programar 8 minutos a temperatura varoma, velocidad 2.",
+			"Triturar todo el sofrito unos segundos a velocidad 10.",
+			"Añadir el vino blanco. Programar 2 minutos, temperatura varoma, velocidad cuchara, giro a la izquierda.",
+			"Incorporar el laurel, pastilla de caldo, el agua y un poco de colorante. Programar 20 minutos, 100 grados, velocidad cuchara, giro a la izquierda.",
+			"Incorporar el arroz por el cubilete y programar 15 minutos, 100 grados, velocidad cuchara y giro a la izquierda.",
+			"Dejar reposar 4 ó 5 minutos."
+		]
+	},
+	{
+		"Title": "Croquetas cocido",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Aperitivo",
+			"Entrante"
+		],
+		"Type": "Aperitivo",
+		"Ingredients": [
+			"250 g. de carne y jamon del cocido aproximadamente.",
+			"40 g. de cebolla",
+			"150 de aceite de oliva",
+			"200 g. de harina",
+			"1 litro de leche entera",
+			"nuez moscada al gusto",
+			"sal,pan rallado , harina y huevo para rebozar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Picar la carne y el jamon 10 segundos , velocidad 6 y reservar",
+			"Picar la cebolla 3 segundos, velocidad 6",
+			"Añadir aceite y programar 5 minutos , tem. Varoma, velocidad 1",
+			"Añadir carne y jamon y programar 3 minutos ,tem. Varoma , velocidad 1",
+			"Echar harina, mezclar 3 seg. velocidad 6. Bajar restos con la espàtula. Programar 3 minutos, tem. 100º velocidad 1",
+			"Poner leche, nuez moscada y sal, 7 minutos , tem. Varoma, velocidad 4.",
+			"Parar un poco antes de que acabe y probar , añadir sal si es necesario y continuar.",
+			"Cuando termine poner en una fuente y dejar enfriar. Yo las rebozo en harina, huevo y pan rallado.Se pueden hacer de cualquier otra cosa pero siempre manteniendo la cantidad de leche y harina. Salen 50-60 croquetas, segun tamaño. Yo las pongo en una babdeja y las congelo , luego las meto en una bolsa."
+		]
+	},
+	{
+		"Title": "Chicharos con chorizo",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 cebolla mediana. ( 150 gramos ).",
+			"100 gramos de pimiento rojo.",
+			"2 dientes de ajo.",
+			"1 zanahoria en trozos.",
+			"50 gramos de aceite de oliva.",
+			"2 chorizos en rodajas.",
+			"1 trozo pequeño de tocino.",
+			"100 gramos de jamón en taquitos.",
+			" botes de judias blancas cocidas y escurridas. ( 800 gramos ).",
+			"500 gramos de caldo.",
+			"1 hoja de laurel.",
+			"1 cucharadita de sal."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso la cebolla, pimiento rojo, los ajos, la zanahoria y el aceite. Trocea 4 seg/ vel. 4. Baja con la espatula los restos hacia en fondo del vaso.",
+			"Sofrie 10 minu/ varoma/ vel. 1.",
+			"Añade el chorizo, el tocino, el jamón, 3 cucharadas de alubias, el caldo, el laurel y la sal. Programa 20 minu/ 100 grados/ giro a la izquierda/ vel. cuchara.",
+			"Agrega el resto de las alubias y programa 3 minu/ 100 grados/ giro a la izquierda/ vel. cuchara. Vierte en una fuente y sirve."
+		]
+	},
+	{
+		"Title": "Salsa Ranchera",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Salsas"
+		],
+		"Type": "Salsas",
+		"Ingredients": [
+			"200 g. de nata para cocinar",
+			"200 g. de mayonesa",
+			"1 cucharadita de ajo en polvo",
+			"1 cucharadita de cebolla frita",
+			"2 pellizcos de pimienta molida",
+			"1 cucharadita de perejil seco",
+			"5 ramitas de cebollino fresco picado",
+			"½ cucharadita de sal",
+			"1 cucharada de zumo de limón"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos todos los ingredientes de la salsa en el vaso de la Thermomix y programamos 10 segundos, a velocidad 6. Con la espátula, bajamos la mezcla hacia el fondo del vaso y programamos otros 10 segundos, a velocidad 6.",
+			"Vertemos la salsa en un tarro y reservamos en el frigorífico hasta el momento de servir."
+		]
+	},
+	{
+		"Title": "Macarrones con chorizo",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Principal",
+			"Pasta"
+		],
+		"Type": "Principal",
+		"Ingredients": [],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				"250 g. de macarrones",
+				"450 g. de agua",
+				"300 g. de tomate frito",
+				"20 g. de aceite de oliva",
+				"1 cucharadita de sal",
+				"1 o ½ cucharadita rasa de pimentón dulce (opcional y según gustos, yo echo ½ cucharadita)",
+				"1 cucharadita de orégano",
+				"1 pellizco de ajo en polvo (opcional)",
+				"150 g. de chorizo en taquitos o en rodajas",
+				"Queso para gratinar al gusto"
+			]
+		},
+		"Steps": [
+			"Echamos todos los ingredientes en el vaso de la Thermomix (excepto el queso rallado) y programamos 15 minutos, temperatura 100º, giro a la izquierda y velocidad cuchara."
+		]
+	},
+	{
+		"Title": "Salchichas al vino",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Principal",
+			"Carne"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"400 gr cebolla",
+			"70 gr aceite de oliva",
+			"12 salchichas frescas",
+			"125 gr vino blanco",
+			"1 hoja laurel",
+			"Al gusto Sal",
+			"pimienta blanca"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Echa la cebolla en el vaso, cortada a cuartos y cierra el vaso.",
+			"Ahora programa para picar la cebolla 5 seg/ vel. 5. Abre la tapa y con la espátula , echa hacia el fondo del vaso la cebolla picada.",
+			"Echa el aceite al vaso, junto con la cebolla. Cierra la tapa, y sofríe 12 min/ varoma/ giro a la izquierda/ vel. cuchara.",
+			"Ahora añade las salchichas, y programa 3 min/ varoma/ giro a la izquierda/ vel. cuchara.",
+			"Ahora añade, el vino blanco, la hoja de laurel, la pimienta y la sal. Programa 12 min/ 100 grados/ giro a la izquierda/ vel. cuchara."
+		]
+	},
+	{
+		"Title": "Bizcocho zanahoria",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"150 g de nueces",
+			"80 g de azúcar de caña",
+			"Un trozo de piel de limón (solo la parte amarilla)",
+			"150 g de zanahorias",
+			"2 huevos",
+			"40 g de harina",
+			"½ sobre de levadura",
+			"1 pizca de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos en el vaso las nueces y programamos 10 segundos, velocidad 5. Reservamos.",
+			"Ponemos ahora en el vaso el azúcar y programamos 10 segundos, velocidad 10. Añadimos la piel de limón y programamos 40 segundos, velocidad 10.",
+			"Incorporamos las zanahorias peladas y programamos 10 segundos, velocidad 5.",
+			"Añadimos los huevos, la harina, la levadura, la sal y las nueces que hemos triturado al principio. Programamos 10 segundos, velocidad 1½.",
+			"Acabamos de integrar todo con la espátula.",
+			"Ponemos la mezcla en un molde de plum cake, engrasado previamente.",
+			"Horneamos a 170º -horno precalentado- durante 45 minutos aproximadamente."
+		]
+	},
+	{
+		"Title": "Patatas  a la riojana",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Cuchara",
+			"Principal"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 pimiento choricero",
+			"½ pimiento verde italiano",
+			"130 g de cebolla",
+			"2 dientes de ajo",
+			"25 g de aceite",
+			"70 g de chorizo",
+			"1 guindilla seca",
+			"1 hoja de laurel",
+			"300 g de patata",
+			"150 g de agua"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Comenzaremos la preparación poniendo en agua caliente el pimiento choricero para hidratarlo.",
+			"Mientras, lavamos y secamos el pimiento verde. Pelamos la cebolla y picamos ambos durante 3 segundos, velocidad 5. Añadimos el aceite y los ajos pelados. Programamos 5 minutos, 100º, velocidad 2, giro a la izquierda.",
+			"Cortamos el chorizo en rodajas y las incorporamos al vaso y también la guindilla seca sin semillas. Programamos 2 minutos, 100º, velocidad 1, giro a la izquierda.",
+			"Mientras pelamos, lavamos y troceamos las patatas chascándolas. Las agregamos a la preparación con el agua y la hoja de laurel. Programamos 18 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+			"Con el filo del cuchillo raspamos el interior del pimiento choricero para sacarle la pulpa. La agregamos al vaso y prolongamos la cocción durante 2 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+			"Terminado el tiempo comprobamos que las patatas están tiernas y servimos."
+		]
+	},
+	{
+		"Title": "Macarrones Carbonara",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Pasta"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"60 gr de cebolla",
+			"20 gr de aceite de oliva virgen extra",
+			"100 gr de bacon en tiras (2 tarrinitas)",
+			"100 gr de nata para cocinar",
+			"240 gr de agua para cocer la pasta",
+			"Sal al gusto",
+			"120 gr de macarrones",
+			"1 yema de huevo batida",
+			"Queso parmesano para espolvorear por encima",
+			"Perejil fresco para adornar y dar sabor",
+			"Pasos a seguir"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso la cebolla y el aceite y trocea 4 segundos en velocidad 5.",
+			"Agrega el bacon en tiras y sofríe todo 8 minutos, varoma, giro a la izquierda y velocidad cuchara.",
+			"Añade la nata y el agua junto con la pasta y la sal y cocina 10 minutos, 100ºC, giro a la izquierda y velocidad cuchara, para que se vayan soltando todos los sabores.",
+			"Incorpora la sal, el huevo batido y cocina 2 minutos más a 100ºC, giro a la izquierda y velocidad cuchara.",
+			"Sirve en una fuente, espolvorea con el parmesano, si lo deseas, puedes gratinar en el horno y terminar con el perejil fresco picado."
+		]
+	},
+	{
+		"Title": "Patatas para guarnición",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Entrante"
+		],
+		"Type": "Aperitivo",
+		"Ingredients": [
+			"100 gramos de aceite de oliva virgen",
+			"2 dientes de ajo laminados 0 120 gramos de cebolla en tiras",
+			"600 gramos de patatas para freír en rodajas de 3-4 mm",
+			"100 gramos de agua",
+			"1 cucharada de sal",
+			"10 ramos de perejil picado",
+			"1 cucharadita de vinagre"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Coloca la mariposa en las cucharillas y pon en el vaso el aceite y el ajo (o cebolla) y sofríe 4 minutos a 120 ªc , giro inverso, velocidad cuchara guarnición de patatas con thermomix",
+			"Añade las patatas cortadas como para tortilla, el agua, la sal y el perejil. Rehogamos durante 14 minutos a 120ºC velocidad inversa y velocidad cuchara",
+			"Añadimos el vinagre y mezclamos con la espátula. Volcamos las patatas en una fuente y servivmos."
+		]
+	},
+	{
+		"Title": "Arroz amarillo con pollo",
+		"Amount": "6",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Principal"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"100 g de aceite de oliva",
+			"2 dientes de ajo",
+			"500 g de pechuga o contramuslos de pollo, cortados en dados",
+			"70 g de zanahoria, pelada y cortada en trocitos pequeños",
+			"140 g de pimiento verde, cortado en trocitos pequeños",
+			"140 g de pimiento rojo, cortado en trocitos pequeños",
+			"850 g de caldo de ave",
+			"sal",
+			"1 pellizco de pimentón",
+			"¼ cucharadita de colorante alimentario",
+			"350 g de arroz de grano corto",
+			"100 g de guisantes (en conserva) al natural, escurridos"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos el aceite y los ajos en el vaso de la Thermomix. Troceamos durante 5 segundos, a velocidad 6. Seguidamente, programamos 3 minutos, temperatura varoma y velocidad 1.",
+			"Añadimos el pollo en dados y programamos 5 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Incorporamos la zanahoria y los pimientos y programamos 6 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Agregamos el caldo, el pimentón, el colorante y un puñadito de sal. Programamos 9 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Echamos el arroz por el bocal y programamos 14 minutos, temperatura 100º, giro a la izquierda y velocidad cuchara.",
+			"Cuando falten 3 minutos para el final, agregamos los guisantes por el bocal.",
+			"Volcamos en una fuente, dejamos reposar durante 3 minutos y servimos."
+		]
+	},
+	{
+		"Title": "Alitas de pollo soja y miel",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Entrante",
+			"Asiática",
+			"Carne"
+		],
+		"Type": "Aperitivo",
+		"Ingredients": [
+			"5 dientes de ajo",
+			"40 g de zumo de limón",
+			"60 g de miel",
+			"60 g de salsa de soja (contiene gluten) *Tamari libre de gluten en herboristerías",
+			"40 g de aceite de oliva virgen extra",
+			"½ cucharadita de jengibre en polvo",
+			"pimienta negra",
+			"½ cucharadita de Tabasco® chipotle -opcional el toque picante-",
+			"1 kg de alitas de pollo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso los ajos y trocea 4 segundos en velocidad 5.",
+			"Agrega todos los ingredientes de la receta, excepto las alitas de pollo y mezcla 10 segundos en velocidad 5.",
+			"Introduce las alitas en un bol o fuente con la salsa del vaso, empápalas y deja marinar como mínimo 30 minutos.",
+			"Vierte las alitas con la salsa en el vaso de la Thermomix® y programa 25 minutos, 100º, giro a la izquierda y velocidad cuchara. Retira el cubilete y programa 15 minutos, Varoma, velocidad cuchara y giro a la izquierda para reducir la salsa."
+		]
+	},
+	{
+		"Title": "Salmon con salsa de queso",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Pescado"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"250 g de queso curado",
+			"350 g de leche entera",
+			"500 g de patatas en trozos o rodajas.",
+			"Espárragos  verdes (un manojo). También pueden ser congelados.",
+			"1 chorrito de aceite",
+			"Dos lomos de salmón  fresco sin piel (700 g) salpimentados.",
+			"1 pellizco de eneldo."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponga el queso en el vaso y ralle 10 seg/ vel 10.",
+			"Añada la leche e introduzca el cestillo en el vaso con las patatas. Sitúe  el recipiente  varoma en su posición  y coloque los espárragos.  Tape el varoma y programe 10 min/ Varoma/ vel 3. Mientras tanto, unte la bandeja Varoma con aceite y coloque los lomos de salmón.",
+			"Destape el Varoma y coloque la bandeja Varoma. Tape de nuevo y programe 20 min/ varoma/ vel 3. Retire el varoma y con la  mueca de la espátula retire el cestillo. Coloque las patatas en una fuente y ponga encima el salmón y riegue con la salsa del vaso. Espolvoree  con el eneldo y sirva acompañado de los espárragos."
+		]
+	},
+	{
+		"Title": "Croquetas de Echaurren",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Aperitivo",
+			"Entrante"
+		],
+		"Type": "Aperitivo",
+		"Ingredients": [
+			"80 gr de mantequilla",
+			"50 gr de jamón",
+			"50 gr de pechuga de pollo",
+			"1 huevos cocidos",
+			"105 gr de harina",
+			"1 l de leche",
+			"10 gr de caldo de carne (pastilla)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Introducimos en el vaso de la Thermomix el pollo y el jamón, programamos 3 segundos velocidad 5 para picarlo. Reservamos",
+			"Añadimos al vaso la mantequilla y programamos temperatura varoma, 3 minutos, velocidad 1.",
+			"En Thermomix, incluimos de nuevo jamón y pollo y sofreímos con la mantequilla durante 3 minutos, temperatura varoma, velocidad 1.",
+			"Reservamos el jamón y el pollo si queremos que queden más tropezones y mantenemos la mantequilla en el vaso.",
+			"Añadimos la harina y programamos 3 minutos, 100º, velocidad 1. Finalizado el tiempo incorporamos la leche, el concentrado de carne y mezclamos programando 10 segundos, velocidad 7. A continuación, programamos 30 minutos, 100º y velocidad 4.",
+			"Añadimos el jamón y el pollo si lo hemos retirado y el huevo cocido muy picado e incorporamos en la masa",
+			"Dejamos enfriar la masa en un recipiente plano o en manga de croquetas, según vayamos a hacer luego. Con la masa fría, formamos las croquetas intentando que no queden muy grandes y con forma ovalada y las rebozamos al gusto, en nuestro caso en pan rallado - huevo - pan rallado.",
+			"Freímos en tandas pequeñas en aceite caliente"
+		]
 	}
 ]
