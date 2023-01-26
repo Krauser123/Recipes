@@ -4848,5 +4848,63 @@
 			"Dejamos enfriar la masa en un recipiente plano o en manga de croquetas, según vayamos a hacer luego. Con la masa fría, formamos las croquetas intentando que no queden muy grandes y con forma ovalada y las rebozamos al gusto, en nuestro caso en pan rallado - huevo - pan rallado.",
 			"Freímos en tandas pequeñas en aceite caliente"
 		]
+	},
+	{
+		"Title": "Sopa castellana",
+		"Amount": "2",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Principal",
+			"Cuchara"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"4 Diente de ajo",
+			"8 rebanadas de pan",
+			"1 cucharada de pimentón dulce cucharada",
+			"Chorizo fresco",
+			"75g Jamón ibérico picado",
+			"1 cucharada de pimentón picante",
+			"500ml Caldo de carne",
+			"2 Huevo",
+			"Aceite de oliva virgen extra",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Freír el pan en aceite hasta que este dorado. En la misma cazuela sofreír el chorizo desmigado y el jamón picado.",
+			"Laminar el ajo y sofreírlo a fuego suave 2-3 min. Agregar las carnes y el pimentón, sofreír 30 segundos e incorporar el agua o caldo.",
+			"Añadir el pan frito y cocer a fuego bajo unos 10 minutos hasta que se hidrate completamente. Poner a punto de sal.",
+			"Freir los 2 huevos y servir muy caliente."
+		]
+	},
+	{
+		"Title": "Jamón batido",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Aperitivo",
+			"Entrante"
+		],
+		"Type": "Aperitivo",
+		"Ingredients": [
+			"Jamón",
+			"Mayonesa",
+			"Queso crema",
+			"Rebanadas de pan"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Picamos el jamón en tiritas o taquitos",
+			"Mezclamos la mayonesa con el queso crema; por cada cucharada de queso crema ponemos dos cucharadas de mayonesa. Batimos hasta obtener una fina crema.",
+			"Añadimos el jamón a la crema, en cantidad suficiente para que quede con aspecto jugoso. Removemos.",			
+			"Tostamos unas rebanadas de pan y colocamos dos o tres cucharadas de la masa."			
+		]
 	}
 ]
