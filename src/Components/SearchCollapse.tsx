@@ -48,7 +48,7 @@ export class SearchCollapse extends Component<SearchCollapseProps, SearchCollaps
                 <div className='menuItemParent' onClick={() => this.onClickCollapse()}>Menu</div>
                 <Collapse isOpened={this.state.isOpened}>
                     {Object.keys(recipesPerCategories).map((category: string, index) => (
-                        <SearchCollapseItem recipesPerCategories={recipesPerCategories} category={category}></SearchCollapseItem>
+                        <SearchCollapseItem key={index} recipesPerCategories={recipesPerCategories} category={category}></SearchCollapseItem>
                     ))}
                 </Collapse>
             </div>

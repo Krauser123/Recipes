@@ -1,5 +1,25 @@
 /* All Layouts */
 
+/* width */
+::-webkit-scrollbar {
+  width: 0.8em;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
 html {
   background-color: #282C34;
 }
@@ -37,15 +57,15 @@ label {
 }
 
 .recipeStepsLG .row:first-child {
-  border-radius: 5px 5px 0px 0px;
+  border-radius: 0.4em 0.4em 0em 0em;
 }
 
 .recipeStepsLG .row:last-child {
-  border-radius: 0px 0px 5px 5px;
+  border-radius: 0em 0em 0.4em 0.4em;
 }
 
 .recipeStepsLG .row:first-child:last-child {
-  border-radius: 5px 5px 5px 5px;
+  border-radius: 0.4em 0.4em 0.4em 0.4em;
 }
 
 .recipeTags {
@@ -98,8 +118,8 @@ label {
   }
 
   .menuCategories{
-    border: 5px groove #1C6EA4;
-    border-radius: 15px;
+    border: 0.4em groove #1C6EA4;
+    border-radius: 1em;
     margin: 1em;
     margin-bottom: -2em;
   }
@@ -124,10 +144,10 @@ label {
   .recipesSearch {
     color: #e3a21a;
     float: left;
-    border-top: 5px solid #1C6EA4;
-    border-right: 5px solid #1C6EA4;
-    border-bottom: 5px solid #1C6EA4;
-    border-radius: 0px 17px 17px 0px;
+    border-top: 0.4em solid #1C6EA4;
+    border-right: 0.4em solid #1C6EA4;
+    border-bottom: 0.4em solid #1C6EA4;
+    border-radius: 0em 1em 1em 0em;
     width: 22em;
     height: 65em;
     overflow-y: auto;
@@ -166,7 +186,6 @@ label {
   }
 }
 
-
 /* Not found component */
 
 .notfoundContainer {
@@ -190,19 +209,19 @@ label {
 
 .notfound .notfound-404 {
   position: relative;
-  height: 240px;
+  height: 20em;
 }
 
 .notfound .notfound-404 h3 {
   font-family: 'Cabin', sans-serif;
   position: relative;
-  font-size: 16px;
+  font-size: 2em;
   font-weight: 700;
   text-transform: uppercase;
   color: #e3a21a;
-  margin: 0px;
-  letter-spacing: 3px;
-  padding-left: 6px;
+  margin: 0em;
+  letter-spacing: 0.3em;
+  padding-left: 2em;
 }
 
 .notfound .notfound-404 h1 {
@@ -213,17 +232,15 @@ label {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  font-size: 252px;
+  font-size: 20em;
   font-weight: 900;
-  margin: 0px;
+  margin: 0em;
   color: #e3a21a;
-  text-transform: uppercase;
-  letter-spacing: -40px;
-  margin-left: -20px;
+  text-transform: uppercase;  
 }
 
 .notfound .notfound-404 h1>span {
-  text-shadow: -8px 0px 0px #fff;
+  text-shadow: -0.05em 0em 0em #fff;
 }
 
 #notfound .notfound {

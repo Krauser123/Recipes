@@ -24,11 +24,10 @@ export class SideMenu extends Component<SideMenuProps, SideMenuState> {
     }
 
     render() {
-
-        return (
+            var orderRecipes=this.props.recipes.sort((a, b) => -b.Title.localeCompare(a.Title));
+        return (            
             <div className="sidemenu">
-
-                {this.props.recipes.map((element, index) => (
+                {orderRecipes.map((element, index) => (
                     <div key={index} className="row">
                         <div className="col-sm">
                             <div className='recipeLink' onClick={() => this.onChange(element.Title)} >{element.Title}</div>
