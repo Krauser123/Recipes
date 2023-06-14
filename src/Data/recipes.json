@@ -433,8 +433,8 @@
 		"Type": "Postre",
 		"Ingredients": [
 			"1 litro de leche entera",
-			"2 huevos 120 gr. de harina de trigo (6 cucharadas según la abuela)",
-			" 120 gr. de azúcar (6 cucharadas según la abuela)",
+			"2 huevos 120 gr. de harina de trigo",
+			" 120 gr. de azúcar",
 			"Aceite de girasol",
 			"Cáscara de limón",
 			"Sal",
@@ -455,7 +455,6 @@
 			"Las porciones: con un cuchillo cortamos la crema fría en porciones cuadradas o rectangulares de unos 5-6 cm y las vamos reservando en un plato antes del rebozado.",
 			"El rebozado: vamos a rebozar las porciones en harina y huevo. En una sartén grande y amplia vertemos abundante aceite de girasol (mi abuela usa este porque el de oliva es fuerte y le aporta sabor al postre) y calentamos a fuego alto. Batimos los 3 huevos restantes.",
 			"Pasamos las porciones por harina, sacudimos un poquito para que no lleven demasiado, mojamos en el huevo y freímos en la sartén cuando el aceite esté bien caliente. Para comprobar la temperatura podéis echar un trocito de pan y cuando esté dorado nos ponemos en marcha. Freímos con el aceite bastante caliente. Un minuto por cada lado es suficiente para que esté doradita y lista. Retiráis las porciones y reserváis en una fuente con papel absorbente de cocina, para que escurra bien el aceite.",
-			"Escogemos una bonita fuente (o un plato) donde presentaremos la leche frita en la mesa.",
 			"Espolvoreamos la base con azúcar blanco, colocamos las porciones y volvemos a echarles azúcar por la parte superior. Una vez templada podríamos consumirla pero en nuestro caso la dejamos en el frigorífico hasta la hora de comer/cenar, un par de horas por lo menos. Esto va en el gusto de cada uno. Otra opción es echar también un poco de canela por encima además del azúcar."
 		]
 	},
@@ -4903,8 +4902,74 @@
 		"Steps": [
 			"Picamos el jamón en tiritas o taquitos",
 			"Mezclamos la mayonesa con el queso crema; por cada cucharada de queso crema ponemos dos cucharadas de mayonesa. Batimos hasta obtener una fina crema.",
-			"Añadimos el jamón a la crema, en cantidad suficiente para que quede con aspecto jugoso. Removemos.",			
-			"Tostamos unas rebanadas de pan y colocamos dos o tres cucharadas de la masa."			
+			"Añadimos el jamón a la crema, en cantidad suficiente para que quede con aspecto jugoso. Removemos.",
+			"Tostamos unas rebanadas de pan y colocamos dos o tres cucharadas de la masa."
+		]
+	},
+	{
+		"Title": "Leche frita",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"1l Leche",
+			"120 gr Azúcar",
+			"120 gr Maicena",
+			"2 cáscaras de naranja (sin parte blanca)",
+			"2 cáscaras de limón (sin parte blanca)",
+			"½ rama de canela",
+			"1 cta de vainilla",
+			"Para el rebozado:",
+			"3 Huevos",
+			"50 gr Harina",
+			"Aceite para freír",
+			"Azúcar",
+			"Canela en polvo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Aparta un vaso de leche y añádele la maicena, mezcla bien hasta que se disuelva. Calienta el resto de la leche con las cáscaras de naranja y limón, la rama de canela, el azúcar y la vainilla, hierve 5 minutos a fuego bajo.",
+			"Retira las cáscaras y la rama de canela de la infusión de leche, si lo ves necesario, cuela la leche. Añade la mezcla de la leche con maicena y remueve sin parar hasta que espese. Tiene que quedar una textura cremosa.",
+			"Colócala en una bandeja tapada con film en contacto para que no forme costra y deja enfriar y endurecer primero a temperatura ambiente y luego en la nevera 6 horas o toda la noche.",
+			"Corta la leche en porciones, calienta una sartén con abundante aceite pero no te pases. Reboza las porciones primero por harina y luego por huevo y fríe hasta que cojan un bonito color dorado. Déjalas en un plato con papel absorbente.",
+			"Mezcla azúcar con un poco de canela y pasa los trozos rebozados por ésta mezcla, le dará a tu leche frita un sabor extraordinario."
+		]
+	},
+	{
+		"Title": "Salsa de tomate picante:",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Salsas"
+		],
+		"Type": "Salsas",
+		"Ingredients": [
+			"5 Guindillas",
+			"2 dientes ajos",
+			"1 Cebolla grande",
+			"1/2 calabacín",
+			"400gr tomate triturado",
+			"Guindilla picada",
+			"Aceite"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"En un fondo de aceite dorar 4-5 guindillas (enteras pero con una rajita)",
+			"Retirar las guindillas y refreir 2 dientes de ajo y una cebolla grande cortada/picada (nivel medio 5/9)",
+			"Añadir medio calabacín grandecito (o 3/4 si mediano) cortado en daditos pequeños e ir salpimentando al gusto",
+			"Añadir 400gr de tomate triturado natural ",
+			"Añadir las guindillas retiradas y 2 frescas más, todas picadas",
+			"Subir el fuego (7/9) y ir removiendo mientras se fríe todo",
+			"Cuando alcance el espesor que quieras se bate todo y se añade guindilla picada"
 		]
 	}
 ]
