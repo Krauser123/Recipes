@@ -4971,5 +4971,1911 @@
 			"Subir el fuego (7/9) y ir removiendo mientras se fríe todo",
 			"Cuando alcance el espesor que quieras se bate todo y se añade guindilla picada"
 		]
+	},
+	{
+		"Title": "Tarta de lima y pistacho",
+		"Amount": "6",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Postres"
+		],
+		"Type": "Postres",
+		"Ingredients": [
+			"80 g de galletitas saladas tipo Ritz",
+			"80 g de pistachos + 25 g para adornar",
+			"80 g de mantequilla",
+			"250 g de queso crema",
+			"250 g de leche condensada",
+			"150 ml de nata para montar",
+			"150 ml de zumo de lima",
+			"Ralladura de dos limas",
+			"1 cucharada rasa de azúcar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Triturar las galletas saladas con los pistachos, la mantequilla y una cucharada de azúcar.",
+			"Cubrir el fondo de un molde de tarta de unos 16 cm de diámetro con la mezcla y aplastar para que quede compacto y bien repartido. Meter el molde en la nevera.",
+			"Batir la leche condensada y el queso crema unos 5 minutos hasta conseguir una crema ligera.",
+			"Añadir el zumo de lima y la ralladura de una lima, y seguir batiendo un par de minutoso más.",
+			"En otro bol, batir la nata hasta que quede bien montada.",
+			"Incorporar la nata a la mezcla de queso suavemente, haciendo movimientos envolventes con una espátula.",
+			"Saca la base de la tarta de la nevera y verter el relleno encima con cuidado. Meterla en la nevera, taparla y dejar que repose de un día para otro.",
+			"Desmoldar y servir con pistachos picados por encima, más ralladura, y unas rodajas de lima para decorar."
+		]
+	},
+	{
+		"Title": "Carne a la suegra",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"800 g de cabecero de lomo o magro de cerdo2 cucharadas de condimento para pinchitos (o una mezcla de orégano, cúrcuma, cayena, comino, clavo y pimienta negra)",
+			"2 cebollas",
+			"2 zanahorias",
+			"4 dientes de ajo",
+			"200 ml de vino blanco",
+			"2 cayenas (opcional)",
+			"Aceite de oliva",
+			"Pimienta negra",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Cortar la carne en trozos medianos y ponerla en un bol. Salpimentar, añadir el condimento para pinchos y un poco de aceite de oliva. Mezclar bien para que toda la carne se impregne del condimento.",
+			"Tapar el bol y dejarlo reposar en la nevera unas dos horas.",
+			"Retirar la carne de la nevera y dejar que se temple un poco. Calentar una sartén o cazuela baja a fuego medio alto con un chorrito de aceite de oliva y dorar la carne.",
+			"Mientras la carne se dora, cortar la cebolla, la zanahoria y el ajo en trozos medianos.",
+			"Retirarla y, en el mismo recipiente, rehogar las zanahorias, las cebollas y los dientes de ajo a fuego medio. Salar ligeramente y cocinar unos 10 minutos.",
+			"Devolver la carne a la cazuela, añadir el vino blanco y unos 200 mililitros de agua, remover y tapar. Cocinar a fuego muy suave durante 40 minutos o hasta que la carne quede tierna.",
+			"Transcurrido este tiempo, retirar la carne y triturar las verduras para obtener una salsa.",
+			"Volver a juntar la carne con la salsa y cocinar un par de minutos más. Servir con  arroz o patatas fritas, asadas o cocidas."
+		]
+	},
+	{
+		"Title": "Pollo crujiente al horno",
+		"Amount": "6",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"Un pollo entero y limpio de unos 1,7 k",
+			"2,5 cucharaditas de sal fina",
+			"1,5 cucharaditas de pimienta blanca molida (o al gusto)",
+			"3 cucharaditas de levadura química (el equivalente a un sobre de levadura Royal)",
+			"3 cucharadas de mayonesa"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Secar bien el pollo con papel de cocina y abrirlo en mariposa cortando a ambos lados de la espina dorsal (en este vídeo puedes ver cómo se hace).",
+			"Mezclar la sal, la pimienta y la levadura química y untarla por todo el pollo, prestando especial atención a la piel.  ",
+			"Refrigerar, sin cubrir, un mínimo de tres horas. ",
+			"Sacar del frigorífico unos 40 minutos antes de cocinarlo para que se atempere y volver a  secar con papel de cocina.",
+			"Si encontramos depósitos de grasa, pincharlos con un cuchillo para que esta pueda salir durante la cocción.",
+			"Con ayuda de un pincel untarlo por completo con la mayonesa, y poner sobre una rejilla de horno con la piel hacia arriba (y una bandeja debajo para recoger la grasa).",
+			"Poner a altura media y hornear a 240ºC con calor por arriba, abajo y con ventilador durante 30 minutos aproximadamente (depende del tamaño). Vigilarlo a partir de los 20 minutos",
+			"Poner el grill al máximo un par de minutos para que se tueste, sin dejar de vigilarlo para  evitar que se queme. Sacar del horno y dejar reposar unos 15 minutos antes de servirlo."
+		]
+	},
+	{
+		"Title": "Banana foster",
+		"Amount": "",
+		"Utility": "4",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"2 plátanos",
+			"30 g de mantequilla",
+			"70 g de azúcar moreno",
+			"50 ml de ron",
+			"2 bolas de helado de vainilla o del sabor que más te guste",
+			"½ cucharadita de canela en polvo (opcional)",
+			"Nueces o cacahuetes picado"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pelar y cortar los plátanos longitudinalmente siguiendo su curvatura.",
+			"En una sartén antiadherente y a fuego medio-bajo, derretir la mantequilla. Añadir el azúcar, el ron y la canela (opcional). Remover suavemente de vez en cuando.",
+			"Cuando el azúcar se haya disuelto, colocar los plátanos en la sartén. Dejaros un par de minutos y darles la vuelta para cocinarlos otro par de minutos más.",
+			"Servir las mitades de plátano enteras o troceadas en dos cuencos o platos de postre. Con una cuchara, añadir por encima el caramelo. Terminar con una bola de helado y nueces o cacahuetes picados (opcional)."
+		]
+	},
+	{
+		"Title": "Crema Catalana",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"500 g de leche entera",
+			"200 g de nata para montar (35% materia grasa)",
+			"100 g de azúcar",
+			"1 rama de canela",
+			"1 naranja",
+			"1 limón",
+			"100 g de yemas de huevo",
+			"25 g de harina fina de maíz (maicena)",
+			"1 pizca de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Calentar la leche y la nata. Antes de que hierva, añadir la canela, piel de limón y de naranja al gusto (obtenerlas con un pelador con cuidado de que tengan la menor cantidad de parte blanca posible). Apagar el fuego, tapar y dejar infusionar durante 10 minutos.",
+			"Mezclar en un bol las yemas enérgicamente con la maicena con unas varillas.",
+			"Agregar el azúcar y la sal a la infusión, volver a poner al fuego y llevar a ebullición.",
+			"Retirar la canela y las pieles y mojar las yemas con un poco de la leche. Remover bien. Añadir el resto y remover.",
+			"Devolver la mezcla a la cazuela y terminar de cocer la mezcla sin parar de remover con varillas hasta que espese (ver vídeo).",
+			"Repartir en los recipientes y dejar enfriar en la nevera.",
+			"Esparcir una fina capa de azúcar blanco en la parte superior y quemar con un soplete (o una pala para quemar crema catalana, si se tiene)."
+		]
+	},
+	{
+		"Title": "CRÊME BRÛLÉE",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"700 g de nata para montar (35% de materia grasa)",
+			"Una vaina y media de vainilla",
+			"80 g de azúcar blanco",
+			"120 g de yemas",
+			"1 pizca de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Precalentar el horno a 150ºC con una bandeja grande con dos dedos de agua.",
+			"Calentar en un cazo la nata junto con el azúcar y la vaina de vainilla raspada hasta que esté a punto de hervir. Retirar del fuego, tapar y dejar infusionar 15 minutos.",
+			"Colar la infusión y volver a poner al fuego hasta que hierva.",
+			"Poner en un bol las yemas con la sal. Verter un poco de la nata caliente y mezclar con varillas. Añadir el resto y mezclar bien.",
+			"Repartir la mezcla en recipientes pequeños que se puedan meter al horno. Ponerlos en la bandeja con el agua y cocer durante 40 minutos a 150 grados.",
+			"Dejar reposar 24 horas en la nevera. Esparcir una fina capa de azúcar blanco en la parte superior y quemar con un soplete."
+		]
+	},
+	{
+		"Title": "Espaguetis a la asesina",
+		"Amount": "2",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"200 g de espaguetis",
+			"2 dientes de ajo",
+			"2 guindillas secas",
+			"75 g de passata de tomate (en su defecto, tomate triturado ligeramente reducido en una cazuela con una pizca de sal)",
+			"Aceite de oliva",
+			"Sal",
+			"Caldo de tomate",
+			"250 g de passata (o 50 g de tomate concentrado)",
+			"250 ml de agua (o ½ litro si se usa tomate concentrado)",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Empezar con el caldo mezclando en una cazuela la passata o el tomate concentrardo con el agua. Añadir una pizca de sal y llevarlo a ebullición en una cazuela. En el momento en el que hierva, tapar y dejar a fuego muy suave, simplemente para que se mantenga caliente.",
+			"Comprobar que los espaguetis caben en una sartén grande y tocan el fondo. Si no, romperlos un poco por un extremo con la mano para que quepan (ver vídeo).",
+			"Poner la sartén a fuego medio con un buen chorro de aceite de oliva, un diente de ajo entero y uno picado, y la guindilla picada.",
+			"En cuanto el ajo empiece a dorarse, añadir los 75 gramos de passata del sofrito.",
+			"Remover y colocar los espaguetis en la sartén lo más extendidos posible. Dejar que se tuesten.",
+			"Una vez estén dorados, darles la vuelta con una pinza (ver vídeo).",
+			"Cuando tengan color y estén crujientes por ambos lados, ir incorporando el caldo de tomate poco a poco, para que la pasta lo vaya absorbiendo. Mover los espaguetis para facilitar el proceso.",
+			"Si la pasta absorbe todo el caldo y aún sigue demasiado dura, añadir un chorrito de agua caliente y remover. Dejar un minuto, probar y repetir el proceso si es necesario, teniendo en cuenta que la pasta debe quedar al dente. Servir."
+		]
+	},
+	{
+		"Title": "Rabo de buey a la cerveza",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1,5 kg de rabo de buey -o de toro- troceado",
+			"3 cebollas",
+			"Sal",
+			"Pimienta negra recién molida",
+			"Aceite de oliva",
+			"Unos 330 ml de cerveza"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Salpimentar el rabo de buey y marcarlo por todas partes en una cazuela con un poco de aceite.",
+			"Retirar y reservar. En la misma cazuela, sofreír las cebollas peladas y cortadas en tiras hasta que empiecen a dorarse.",
+			"En ese momento devolver el rabo a la cazuela, añadir una lata de cerveza y llevar a ebullición, a fuego mínimo y tapado, durante entre 90 y 120 minutos.",
+			"Ir vigilando a partir de los 60 minutos por si hay que añadir más líquido, o ya al final de la cocción por si hay que dejar el guiso destapado para que la salsa espese un poco.",
+			"Servir con el acompañamiento deseado (idealmente, después de que pase una noche reposando en la nevera)."
+		]
+	},
+	{
+		"Title": "Judiones de La Granja",
+		"Amount": "8",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 kg de judiones de La Granja de San Ildefonso",
+			"1 manita de cerdo",
+			"1 oreja de cerdo",
+			"3 chorizos para guisar",
+			"1 morcilla",
+			"1 punta de jamón",
+			"3 dientes de ajo",
+			"2 hojas de laurel"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Sofrito",
+			"Ingredients": [
+				"50 ml de aceite de oliva virgen",
+				"½ cebolla",
+				"1 diente de ajo",
+				"1 tomate pequeño",
+				"1 cucharada de pimentón dulce"
+			]
+		},
+		"Steps": [
+			"Poner en remojo con agua fría los judiones la noche anterior.",
+			"Al día siguiente, introducir en una olla grande las carnes, los ajos pelados y las hojas de laurel. Agregar los judiones, cubrir con agua fría, tapar la cazuela y llevar a ebullición.",
+			"Bajar el fuego para que el guiso haga chup chup y desespumar, si hiciera falta. Durante la primera media hora, asustar un par de veces con un vasito pequeño de agua fría.",
+			"Mantener la cocción el tiempo necesario hasta que los judiones estén tiernos; el tiempo dependerá mucho de la antigüedad y la calidad de las judías, pero por lo menos dos horas.",
+			"Mientras se cuecen las judías, preparar el sofrito. Picar finamente la cebolla, el tomate y el ajo.",
+			"Verter el aceite en una sartén y sofreír la cebolla a fuego bajo, hasta que esté transparente. Agregar el diente de ajo y darle unas vueltas.",
+			"Incorporar el tomate y proseguir el sofrito hasta que se reduzca el líquido. En este momento, agregar el pimentón y sofreír (no más de un minuto para que no se queme, pues amargaría).",
+			"Retirar del fuego y reservar hasta que los judiones estén tiernos. Cuando estén listos, agregar el sofrito y darle un último hervor al conjunto. Probar la sazón y rectificar la sal si hiciera falta, aunque como las carnes son saladas puede que no sea necesario. Servir."
+		]
+	},
+	{
+		"Title": "Matamaridos",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"300 g de lomos de pescadilla o merluza limpios de espina y piel",
+			"2 patatas medianas",
+			"1/2 cebolla",
+			"1/2 pimiento rojo",
+			"2 tomates enteros de bote",
+			"2 zanahorias medianas",
+			"2 dientes de ajo",
+			"½ limón",
+			"Perejil fresco picado",
+			"Aceite de oliva",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner en una cazuela la cebolla, el pimiento rojo, los tomates, los dientes de ajo pelados.",
+			"Pelar, cortar las zanahorias y añadirlas al resto de las verduras.",
+			"Pelar las patatas e ir cascándolas (ver vídeo) en trozos de bocado sobre la cazuela.",
+			"Cubrir con agua, salar, añadir un chorro de aceite y calentar al fuego alto. Cuando empiece a hervir, bajar el fuego y dejar que se cueza todo unos 25 minutos, o hasta que las patatas y la zanahoria estén blandas.",
+			"Retirar la cazuela del fuego y sacar la cebolla, los tomates y los dientes de ajo a un vaso batidor. Si gusta el sabor a pimiento, ponerlo entero; si se quiere más suave, añadir solo la mitad. Triturar con batidora, añadirlo al guiso y volver a ponerlo al fuego.",
+			"Cuando hierva otra vez, añadir el pescado cortado en trocitos, un chorro de zumo de limón y un poco de perejil picado. Tapar y dejar que el pescado se cocine con el calor residual durante 5 minutos."
+		]
+	},
+	{
+		"Title": "Olla de hierbabuena",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"½ kilo de alubias blancas",
+			"250 g de cebolla",
+			"3-4 dientes de ajo",
+			"1 cucharadita de hierbabuena seca",
+			"Hierbabuena fresca para servir",
+			"1 hoja de laurel",
+			"½ cucharada de pimentón de La Vera",
+			"Aceite de oliva",
+			"Sal y pimienta negra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Dejar las alubias en remojo durante 24 horas.",
+			"Escurrirlas y ponerlas en una cazuela. Cubrirlas con agua fría, añadir una hoja de laurel y una pizca de sal y cocer a fuego lento durante 1 hora y media, o hasta que las alubias estén tiernas. Añadir un chorro de agua fría si se ven demasiado secas durante la cocción.",
+			"Mientras las judías se cuecen, cortar la cebolla en juliana y picar fino los ajos.",
+			"Poner a calentar un chorro de aceite en una sartén a fuego medio bajo. Rehogar en dicha sartén la cebolla y el ajo con una pizca de sal y pimienta unos 15 minutos, removiendo de vez en cuando.",
+			"Cuando la cebolla esté bien pochada, apagar el fuego de la sartén, añadir el pimentón y rehogar un minuto.",
+			"Verter el sofrito en la cazuela de las alubias junto con la hierbabuena seca molida. Corregir de sal y dar un hervor suave y corto de un par de minutos, meneando la cazuela para que el caldo ligue.",
+			"Servir con unas hojitas de hierbabuena fresca."
+		]
+	},
+	{
+		"Title": "Crema de calabaza y alubias",
+		"Amount": "6",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"300 g de calabaza cacahuete",
+			"1 cebolla",
+			"2 zanahorias",
+			"1 diente de ajo",
+			"500 g de alubias blancas cocidas (peso escurrido)",
+			"2 cdas de aceite de oliva",
+			"Sal",
+			"Pipas de calabaza al gusto o 50 g de panceta salada"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Colocar la calabaza en trozos grandes en una fuente de horno, incorporar la cebolla envuelta en papel de aluminio y asar ambas hortalizas en el horno a 200 °C por lo menos 45 minutos o hasta que ambas hortalizas estén bien blandas y algo tostadas. Si se prefiere prescindir del horno, sofreír la cebolla cortada en algo de aceite de oliva hasta que esté blanda y transparente, y cocer la calabaza tapada en el microondas.",
+			"Cuando la calabaza y la cebolla se puedan tocar, pelarlas.",
+			"Pelar las zanahorias y cocerlas en un cazo al fuego con agua o en el microondas hasta que estén tiernas.",
+			"Pelar el diente de ajo y sofreírlo muy brevemente en un poco de aceite de oliva hasta que pierda el sabor a crudo.",
+			"Pasar la calabaza, la cebolla, las zanahorias con su líquido de cocción, el ajo con su aceite y las alubias blancas cocidas al vaso de una batidora o robot, y triturar hasta obtener una crema fina. Si quedara muy espesa, añadir agua hasta que esté al gusto. Salar.",
+			"Si se quiere acompañar la crema con la panceta, cortarla en dados y pasarlos por una sartén a fuego alto hasta que se doren.",
+			"Servir la crema caliente y acompañar con las pipas de calabaza o la panceta (o ambas cosas)."
+		]
+	},
+	{
+		"Title": "Almejas a la marinera",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 kilo de almejas",
+			"1 cebolleta",
+			"2 dientes de ajo",
+			"1 o 2 guindillas secas pequeñas",
+			"1 cucharada de harina",
+			"200 ml de txakoli u otro vino blanco seco",
+			"Aceite de oliva virgen extra",
+			"Un manojo de perejil fresco",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Picar finamente la cebolleta y los dientes de ajo.",
+			"Poner un buen chorro de aceite a calentar en una cazuela y añadir el ajo y las guindillas.",
+			"Cuando el ajo se empiece a dorar, añadir la cebolla. Dejarla unos 10 minutos a fuego medio bajo hasta que se poche.",
+			"Mientras la cebolla se hace, preparar el aceite de perejil. Poner a calentar agua con sal en una cazuela pequeña. Cuando hierva, sumergir el perejil en el agua 10 segundos.",
+			"Sacarlo y ponerlo en un vaso batidor. Cubrir con aceite de oliva y una pizca de sal, triturar a fondo y reservar.",
+			"Añadir la harina de trigo a la cebolla y rehogarla bien un par de minutos.",
+			"Mojar con el vino, remover y subir el fuego.",
+			"Cuando esté hirviendo, incorporar las almejas, tapar y dejarlas en el fuego el tiempo justo hasta que se abran. Se pueden ir sacando las abiertas para que no se pasen de cocción.",
+			"Servir las almejas en un plato o bandeja con su salsa, y terminarlas con unas cucharadas de aceite de perejil por encima."
+		]
+	},
+	{
+		"Title": "Crujiente de galleta y café",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"10 galletas (cualquiera tipo digestive, maría...)",
+			"2 cucharadas generosas de mantequilla",
+			"6 onzas o 60g de chocolate",
+			"2 cucharadas de café ya preparado",
+			"5 cucharadas de mascarpone",
+			"5 cucharadas de leche (al gusto, según se quiera más o menos densa la crema de mascarpone)",
+			"1/2 cucharadita de jengibre en polvo (opcional, también se puede usar canela, cardamomo o guindilla)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Desmenuzar las galletas con las manos procurando que no queden trozos demasiado grandes.",
+			"En una sartén lo suficientemente amplia para que quepa toda la galleta triturada sin amontonarse demasiado, calentar a fuego medio-bajo la mantequilla y añadir la galleta. Remover y dejar que se vaya caramelizando durante 10 minutos más o menos, con cuidado de que no se tueste en exceso. Subir un poco el fuego para que termine de tostarse y tenga textura crujiente.",
+			"Añadir el café e integrar bien. Colocar la base de galleta en el recipiente donde se vaya a servir, o dividirla en cuencos individuales.",
+			"En la misma sartén poner el chocolate troceado y fundir a fuego bajo junto con la especia elegida.",
+			"Mientras se funde el chocolate batir con una cuchara, o varillas si se tienen, el mascarpone con la leche y colocar encima de la base de galleta.",
+			"Servir el chocolate derretido por encima de la crema."
+		]
+	},
+	{
+		"Title": "Pasta a la arrabbiata",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"500 g de tomate fresco o entero en lata",
+			"1 diente de ajo",
+			"1 berenjena grande",
+			"Un trozo de guindilla seca (unos 3 cm aproximadamente)",
+			"500 g de penne",
+			"Aceite de oliva virgen extra",
+			"Perejil fresco",
+			"Sal fina",
+			"Pimienta negra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Lavar y cortar la berenjena en rodajas de un centímetro y luego en seis u ocho partes.",
+			"Calentar una sartén amplia con aceite de oliva a fuego medio-fuerte. Añadir el ajo laminado y la guindilla picada. Transcurridos un par de minutos añadir la berenjena. Salpimentar y rehogar hasta que la berenjena esté dorada (si fuera necesario añade un poco más de aceite ya que la berenjena tiende a absorberlo).",
+			"Mientras, llevar abundante agua con sal a ebullición en una olla para cocer la pasta.",
+			"Cuando la berenjena esté lista, añadir los tomates ligeramente troceados y salpimentar nuevamente. Si los tomates son frescos, pelarlos previamente (si la piel no se retira fácilmente, escaldarlos con agua caliente e introducirlos en agua con hielo antes de pelar). Cocer a fuego medio hasta que la pasta esté lista.",
+			"Cocer la pasta durante un minuto menos del indicado por el fabricante. Colar, añadir a la salsa y mantecar durante un minuto. Servir y terminar con perejil fresco picado."
+		]
+	},
+	{
+		"Title": "Tarta de manzana de concurso",
+		"Amount": "6",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"6 manzanas golden Perlim Rose (en su defecto, golden)",
+			"125 ml zumo de limón",
+			"125 ml zumo de naranja",
+			"250 g de azúcar",
+			"75 g de azúcar moreno",
+			"225 g mantequilla",
+			"1/2 rama de canela",
+			"70 ml de armañac",
+			"1 placa de hojaldre de mantequilla"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Mezclar el azúcar blanco y el moreno con los zumos de limón y de naranja y ponerlo en un cazo grande a fuego suave hasta que el azúcar se disuelva bien y el líquido se convierta en un almíbar de color caramelo claro.",
+			"Sumar la canela y el armañac y dejar cocer hasta que no huela a alcohol.",
+			"Añadir la mantequilla y dejar cocer suave unos 20 minutos.",
+			"Pelar las manzanas y cortarlas en ocho gajos simétricos cada una. Cocerlos lentamente en la mezcla anterior hasta que estén tiernos, moviéndolos de vez en cuando (ver vídeo).",
+			"Extender un poco el hojaldre con un rodillo, para que la masa esté fina, y pincharlo con un tenedor para que no suba demasiado. Espolvorearlo con azúcar, ponerlo en una bandeja de horno y cocinarlo unos 16 minutos a 180º o hasta que se dore y esté hecho.",
+			"Cortar el hojaldre en seis trozos y dejar que se temple un poco. Repartir ocho gajos de manzana en cada uno, pintar con un poco de la salsa y servir."
+		]
+	},
+	{
+		"Title": "Carcamusas",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"750 g de magro de cerdo",
+			"200 ml de vino blanco",
+			"100 ml de vino oloroso",
+			"1 cebolla grande",
+			"100 g de guisantes",
+			"250 g de tomate triturado",
+			"3 dientes de ajo pequeños",
+			"1 guindilla fresca grande o un par de cayenas secas (o más, si gusta más picante)",
+			"Aceite de oliva virgen extra",
+			"Sal y pimienta negra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Cortar la carne en trozos de bocado, eliminando partes de grasa si las hay. Salpimentar.",
+			"Picar la cebolla y el ajo.",
+			"Calentar un chorro de aceite en una cazuela a fuego vivo. Dorar la carne, sacarla a un plato hondo y reservar.",
+			"Bajar el fuego a medio, añadir un poco de aceite a la cazuela y dorar ligeramente el ajo. Después añadir la cebolla, la guindilla y una pizca de sal.",
+			"Unos 10-15 minutos después, o cuando la cebolla ya esté pochada, devolver la carne a la cazuela y mojar con el vino blanco y el oloroso. Cuando empiece a hervir, bajar el fuego a medio-bajo y dejar que los vinos reduzcan unos 15-20 minutos.",
+			"Añadir el tomate, tapa la cazuela y dejar que se haga a fuego muy suave unos 20-25 minutos.",
+			"Pasado ese tiempo, destapar y dejar que la salsa reduzca hasta espesarse un poco.",
+			"Incorporar los guisantes y cocinar unos 3 minutos. Rectificar de sal y retirar del fuego. Se puede tomar al momento o guardar en nevera para el día siguiente."
+		]
+	},
+	{
+		"Title": "Almejas y gambas al ajillo",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"500 g de almejas tan buenas como puedas permitirte",
+			"600 g de gambas",
+			"8 dientes de ajo",
+			"2-3 guindillas secas",
+			"3-4 cdas. de aceite de oliva virgen suave",
+			"150 ml de vino blanco",
+			"Sal",
+			"Perejil"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner las almejas vivas en un recipiente con agua y una cucharada de sal. Meterlas en la nevera y dejarlas una o dos horas para que suelten arenilla.",
+			"Verter el vino blanco en una sartén donde quepan las almejas y calentar a fuego vivo. Cuando el vino hierva, agregar las almejas escurridas, tapar la sartén y esperar a que las almejas se vayan abriendo. Ir retirando las almejas que se abren a una fuente tapada para que no se recuezan.",
+			"Verter el aceite de oliva en una sartén amplia y sofreír el ajo hasta que empiece a tomar color. Añadir los trozos de guindilla.",
+			"Agregar las colas de gamba a la sartén y cocinar muy brevemente, hasta que pierdan el color de crudo; como hemos dicho antes, si se prefiere, apagar el fuego, agregar las gambas, tapar la cazuela y dejar que se cocinen en el calor remanente.",
+			"Cuando las gambas estén casi cocidas al punto deseado, salar ligeramente y agregar las almejas abiertas para que acabe de calentarse el conjunto brevemente. Si se prefiere, añadir también un poco del caldo de cocción de las almejas. Apagar el fuego y servir de inmediato con perejil picado por encima."
+		]
+	},
+	{
+		"Title": "Mousse de dulce de leche",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"280 g de dulce de leche",
+			"200 g de nata para montar",
+			"135 g de clara de huevo (4 claras aprox.)",
+			"15 g de azúcar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Batir la nata en un bol hasta que monte. Para que esta tarea sea más fácil, es preferible que la nata esté bien fría y que utilices una batidora de varillas eléctrica.",
+			"Añadir el dulce de leche y batir hasta que se incorpore. Reservar.",
+			"En otro bol batir las claras. Cuando comiencen a montar, añadir el azúcar y seguir batiendo hasta formar un merengue. Debe ser consistente (puedes comprobarlo haciendo picos hacia arriba: si no se desmontan, está listo).",
+			"Incorporar el merengue en tandas a la primera mezcla con una lengua con movimientos envolventes. Es importante no batirlo para no perder la estructura de la mezcla.",
+			"Repartir la mousse en recipientes individuales y llevar a la nevera. Enfriar durante al menos tres horas antes de servir."
+		]
+	},
+	{
+		"Title": "Pollo al ajillo",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"800 g de contramuslos de pollo sin piel",
+			"1 cabeza de ajo",
+			"1 hoja de laurel",
+			"3 o 4 guindillas secas pequeñas",
+			"100 ml de cognac o brandy",
+			"1 cucharadita de pimienta en grano",
+			"1 cucharada de vinagre de jerez",
+			"150 ml de aceite de oliva",
+			"Pimienta en grano",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pelar los dientes de ajo y ponerlos a rehogar con el laurel y el aceite en una cazuela a fuego medio-bajo. Vigilar que no se quemen.",
+			"Salar los contramuslos.",
+			"Sacar el laurel y los ajos cuando estén dorados, subir el fuego y cuando el aceite esté bien caliente, freír en él los contramuslos en tandas, hasta que estén bien dorados por todos lados. Sacarlos a un plato y bajar el fuego.",
+			"Cuando el aceite se haya templado, volver a poner en la cazuela el pollo y los ajos. Sumar el brandy, las guindillas, la pimienta en grano y el vinagre de jerez. Añadir unos 150 ml de agua, remover y tapar. Dejar que el pollo se haga a fuego lento unos 40 minutos, o hasta que esté tierno.",
+			"Si la salsa ha quedado muy líquida, se pueden sacar el pollo y los ajos y reducirla unos minutos a fuego vivo."
+		]
+	},
+	{
+		"Title": "Cookies NY Style",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g harina de media fuerza",
+			"250 g de mantequilla",
+			"De 100 a 150 g de azúcar blanco (dependiendo de lo dulces que gusten)",
+			"De 100 a 125 g de azúcar moreno (ídem)",
+			"240 g de chips de chocolate",
+			"2 huevos",
+			"5 g de impulsor químico (levadura tipo Royal)",
+			"1 cucharadita de sal en escamas",
+			"Crema de cacao y avellanas (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Mezclar la mantequilla con los azúcares hasta integrarlos bien.",
+			"Añadir los huevos uno a uno y mezclar.",
+			"Incorporar la harina, el impulsor y la sal. Mezclar sin amasar en exceso.",
+			"Sumar las pepitas de chocolate y repartirlas bien por la masa con las manos.",
+			"Cubrir con film de cocina y refrigerar durante dos horas para que la masa se asiente.",
+			"Si se van a hacer rellenas de crema de cacao, formar bolas de 45 gramos. Aplanar una, poner una cucharadita de crema encima, y tapar con otra también aplanada (ver técnica en el vídeo). Si no se van a rellenar, formar bolas de unos 140 gramos.",
+			"Colocar las bolas de masa en una bandeja o recipiente que quepa en el congelador y congelar.",
+			"Calentar el horno a 205 grados. Repartir las cookies en una bandeja de horno dejando espacio entre ellas, y hornear de 8 a 10 minutos o hasta que estén doradas. Enfriar sobre una rejilla."
+		]
+	},
+	{
+		"Title": "Croquetas de pollo",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"2 pechugas de pollo (unos 450 g)",
+			"1 cucharada de mantequilla",
+			"1 hígado de pollo (opcional)",
+			"1 cebolla mediana",
+			"1 chorro de vino rancio, oloroso o un destilado oscuro",
+			"60 g de harina y un poco más para empanar",
+			"500 ml de leche",
+			"2 huevos",
+			"Pan rallado",
+			"Aceite de oliva",
+			"Sal y pimienta negra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Calentar una cazuela con un chorrito de aceite a fuego medio. Añadir la mantequilla.",
+			"Mientras se derrite, hacer unos cortes en ambas caras de las pechugas para que se cocinen más rápido, salpimentarlas generosamente y dorarlas en la cazuela.",
+			"Mientras se van haciendo, picar la cebolla.",
+			"Cuando las pechugas estén hechas, sacarlas y poner el hígado en la cazuela. Dorarlo por las dos caras y retirarlo.",
+			"Poner la cebolla picada en la cazuela, salar ligeramente y remover.",
+			"Mientras la cebolla se pocha, picar las pechugas con un cuchillo y desmigar el hígado con un tenedor.",
+			"Cuando la cebolla esté blanda, mojar con el vino. Cuando el alcohol se haya evaporado, añadir la harina, remover y dejar que se haga a fuego bajo entre cinco y 10 minutos.",
+			"Mojarla con un buen chorro de leche y remueve con unas varillas. Incorporar la leche poco a poco sin dejar de remover, hasta que se forme la bechamel (para conseguir una masa más fácil de bolear después, pero no tan cremosa, usar sólo 400 ml de leche).",
+			"Añadir el hígado y el pollo. Mezclar bien.",
+			"Ponerle un poco de nuez moscada si se quiere y corregir de sal.",
+			"Pasar la masa a un táper y dejarla en la nevera de un día para otro o, como mínimo, un par de horas.",
+			"Formar las croquetas con la masa y pasarlas por harina, huevo y pan rallado.",
+			"Freírlas en un cazo con aceite bien caliente. Escurrirlas sobre papel de cocina y servir."
+		]
+	},
+	{
+		"Title": "Arroz con leche Asturiano",
+		"Amount": "8",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"250 g de arroz de grano redondo",
+			"200 g de azúcar",
+			"100 g de mantequilla",
+			"1 peladura de limón, sin nada de parte blanca",
+			"1-2 palos de canela en rama",
+			"Leche entera, la que demande el arroz (hasta tres litros)",
+			"1 pizca de sal",
+			"1/4 copita de coñac o de anís",
+			"Azúcar adicional para quemar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner medio litro de agua a hervir y echar el arroz. Hervir hasta que se absorba toda el agua.",
+			"Añadir un litro de leche caliente con los palos de canela, la corteza de limón, la mantequilla y la sal. Llevar a ebullición suave y remover de vez en cuando para que no se pegue en el fondo.",
+			"Ir añadiendo leche a medida que sea necesario, a lo largo de por lo menos una hora de cocción (mínimo dos litros), hasta que el arroz esté muy blando y el conjunto muy cremoso. Cuanto más tiempo de cocción, más deshecho queda el arroz, pero más leche se consume.",
+			"Al final de la cocción, añadir el coñac o el anís.",
+			"Retirar del fuego y agregar el azúcar; mezclar. Retirar la peladura de limón y los palos de canela.",
+			"Dejar enfriar un rato en la cazuela; el arroz con leche espesa mucho al enfriar y es muy probable que haya que añadir algo más de leche fría en el proceso para garantizar que no se obtiene un bloque de arroz con leche.",
+			"Cuando esté tibio y con una consistencia al gusto —hay que tener en cuenta que sigue “fraguando” en la nevera—, pasar el arroz a cuencos de ración y dejar enfriar por completo a temperatura ambiente y posteriormente en la nevera, tapado.",
+			"Justo antes de servir, espolvorear la superficie con azúcar y quemar con una plancha de hierro o un soplete de cocina."
+		]
+	},
+	{
+		"Title": "Ensalada de patatas",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g de patatas monalisa, red pontiac o kennebec",
+			"1/2 cebolla roja",
+			"1 huevo grande",
+			"2 cucharadas de aceitunas negras (de las blandas morunas que se deshuesan fácil)",
+			"2 cucharadas de aceitunas verdes rellenas de anchoa",
+			"2 cucharadas de perejil picado",
+			"3 cucharadas de aceite",
+			"2 cucharadas de vinagre de Jerez",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Picar la cebolla en juliana y aliñarla con sal, vinagre y aceite. Dejarla marinando 15 minutos como mínimo,",
+			"Mezclar las patatas, las aceitunas rellenas, las aceitunas negras deshuesadas y la cebolla marinada con su aliño.",
+			"Remover bien, corregir de sal y terminar con el huevo cocido rallado y el perejil picado por encima."
+		]
+	},
+	{
+		"Title": "Pastela",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 kg de muslos y contramuslos de pollo",
+			"1 kg de cebolla blanca",
+			"150 g de almendras tostadas",
+			"3 huevos L",
+			"1 diente de ajo",
+			"Unas hebras de azafrán",
+			"1 cucharadita de cúrcuma",
+			"1⁄2 cucharada de jengibre en polvo",
+			"1 rama de canela",
+			"Agua de azahar",
+			"1 cucharadita de mantequilla clarificada (en su defecto, mantequilla normal)",
+			"1 cucharadita de mantequilla",
+			"2 cucharadas de aceite de oliva",
+			"20 g de perejil picado",
+			"1 cucharadita de miel",
+			"1 paquete de pasta filo o brick",
+			"Sal y pimienta negra",
+			"Azúcar glas",
+			"Canela en polvo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Calentar el aceite en una cazuela a fuego medio y dorar el pollo.",
+			"Mientras se dora, picar la cebolla y el ajo. Añadirla a la cazuela cuando el pollo esté dorado y dejar unos minutos hasta que la cebolla se ablande.",
+			"Añadir la cúrcuma, el azafrán, la canela, el perejil picado y la mantequilla clarificada. Salpimentar y cocinar durante unos cinco o 10 minutos.",
+			"Subir el fuego, añadir un vaso grande de agua y llevar a hervor.",
+			"Cuando hierva, bajar el fuego, tapar y dejar cocinar durante una hora o hasta que el pollo esté tierno.",
+			"Sacar el pollo de la cazuela y dejar que se enfríe. Dejar la cazuela al fuego para que el caldo reduzca a una tercera parte aproximadamente.",
+			"Quitar la piel y los huesos al pollo -si los tiene-, y desmenuzarlo.",
+			"Cuando el caldo se haya reducido, retirar del fuego. Añadirle la miel y los huevos previamente batidos sin dejar de remover. Dejar enfriar.",
+			"Triturar las almendras con una cucharada de azúcar glas y otra de canela.",
+			"Calentar el horno a 180 grados.",
+			"Untar un molde redondo con mantequilla y ajustar tres hojas de pasta filo al recipiente (ver vídeo).",
+			"Repartir sobre la masa primero el pollo, luego la cebolla con el huevo y su caldo, y terminar con una capa de almendras.",
+			"Plegar la pasta filo y pintándola con un poco de mantequilla blanda para que se quede bien pegada. Tapar con otras tres capas de pasta filo, darle la vuelta y envolver (ver vídeo).",
+			"Darle de nuevo la vuelta a la pastela poniéndola sobre una bandeja de horno. Pintar con mantequilla derretida y hornear durante unos 20 minutos, o hasta que esté dorada y crujiente.",
+			"Sacar y dejar enfriar en una rejilla. Antes de servir, espolvorear con azúcar glas y canela."
+		]
+	},
+	{
+		"Title": "Bacalao al ajoarriero",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"600 g de bacalao",
+			"6 dientes de ajo",
+			"½ guindilla (o al gusto)",
+			"500 g de tomate pelado en daditos (puede ser una buena conserva)",
+			"300 g de cebollas (2 medianas)",
+			"4 pimientos del piquillo",
+			"Sal",
+			"Una hoja de laurel",
+			"Aceite de oliva virgen"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pelar los ajos y cortarlos a pluma. Dorarlos a fuego suave en un fondo de aceite de oliva junto a la guindilla, dejar enfriar el aceite y retirar.",
+			"Mientras, llevar el bacalao a ebullición desde agua fría con una hoja de laurel. Cuando hierva, retirar del fuego y dejar enfriar.",
+			"Pelar y cortar a pluma las cebollas, dorarlas en otro recipiente con un poco de aceite y sal. Dejar que se doren, añadir el tomate y dejar cocer unos minutos.",
+			"Añadir los pimientos cortados en tiras y cocer hasta que casi se elimine el líquido.",
+			"Poner el bacalao en el aceite de freír el ajo, con la piel hacia abajo. Cocinar a fuego muy suave, moviendo la cazuela suavemente en círculos para ayudar a que suelte la gelatina y ligue, durante unos ocho minutos o hasta que las lascas empiecen a separarse.",
+			"Retirar el bacalao del pil pil, desmigarlo y devolver al pilpil junto a la salsa de tomate, terminar de cocinar todo junto unos cinco minutos para que se mezclen los sabores y servir."
+		]
+	},
+	{
+		"Title": "Bizcocho marmolado",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"200 g de azúcar blanco",
+			"3 huevos",
+			"½ cucharadita de esencia de vainilla",
+			"200 g de nata para montar",
+			"200 g de harina de trigo común",
+			"45 g de cacao en polvo sin azúcar",
+			"15 g de impulsor químico",
+			"½ cucharadita de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Calentar el horno a 180 ºC. Enmantecar y enharinar un molde alargado de 24 cm (se puede utilizar otro molde de otro tamaño, alargado o redondo, teniendo en cuenta que cambiará el tiempo de cocción).",
+			"En un bol, batir los huevos con el azúcar hasta que dupliquen su volumen y tengan un aspecto claro y esponjoso.",
+			"Añadir la nata y la esencia de vainilla. Batir un par de minutos más.",
+			"En otro bol tamizar la harina, el impulsor químico y la sal y mezclar. Añadir al batido poco a poco e incorporar con movimientos envolventes.",
+			"Dividir la mezcla en dos partes iguales en dos boles y añadir el cacao a una de ellas. Si la mezcla de vainilla quedase muy líquida, añadir una cucharada de harina hasta que tome una consistencia más densa.",
+			"Verter las mezclas en el molde de manera intercalada y hornear entre 45 y 50 minutos aproximadamente. Para comprobar que está listo, pinchar con un palillo o cuchillo y comprobar si sale seco. Desmoldar una vez esté frío."
+		]
+	},
+	{
+		"Title": "Patatas a lo pobre",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 kg de patatas",
+			"1 pimiento verde italiano",
+			"½ pimiento rojo",
+			"1 cebolla",
+			"Unos 250 ml de aceite de oliva",
+			"Sal fina",
+			"Perejil (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Cortar el pimiento verde italiano, el pimiento rojo y la cebolla en juliana de entre tres y cinco milímetros de grosor.",
+			"Calentar el aceite en una sartén a fuego medio. Añadir los pimientos y la cebolla cortados y pochar durante 10 minutos.",
+			"Mientras, pelar y cortar las patatas en rodajas de cinco milímetros de grosor aproximadamente.",
+			"Añadirlas a la sartén y salar. Pochar durante 10 minutos y mover de vez en cuando con suavidad para que se cocinen uniformemente.",
+			"Subir el fuego para que se doren durante 10 minutos más, dándoles la vuelta una o dos veces con suavidad.",
+			"Retirar y escurrir bien con la ayuda de una araña, espumadera o colador. Servir caliente con un poco de perejil picado por encima."
+		]
+	},
+	{
+		"Title": "Pastel de merluza y su emulsión",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"250 gramos (g) de merluza",
+			"100 g de puerro",
+			"50 g de mantequilla",
+			"125 g de salsa de tomate",
+			"125 g de nata",
+			"3 huevos",
+			"2 g de pimienta de ezpelette",
+			"Una pizca de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Para la emulsión de merluza",
+			"Ingredients": [
+				"500 g de espinas y cabezas de merluza",
+				"125 g de agua",
+				"125 g de aceite de girasol"
+			]
+		},
+		"Steps": [
+			"El pastel de merluza: Cocinar la merluza durante 10 minutos desde agua fría, dejar enfriar a temperatura ambiente. Limpiar y picar el puerro y pochar a fuego bajo en la mantequilla hasta que este quede completamente translúcido pero sin dorar. Desmigar la merluza y añadir el puerro, la salsa de tomate, la nata y los huevos batidos. Poner a punto de sal y añadir la pimienta de ezpelette. Cocinar en un molde engrasado y cubierto de papel de aluminio durante 45 minutos a 170 grados. Comprobar que está bien cocinado introduciendo un pincho y viendo que sale limpio. Dejar reposar y enfriar a temperatura ambiente.",
+			"La emulsión de merluza: Poner todos los ingredientes en una olla a presión y poner a cocer. En cuanto empiece a salir vapor, bajar el fuego al mínimo y dejar cocinar 30 minutos. Colar y reservar. Antes de servir, batir con un brazo eléctrico.",
+			"Acabado y presentación: Cortar el pastel de merluza, tapar con la salsa de merluza y acabar con un poco de cebollino finamente cortado."
+		]
+	},
+	{
+		"Title": "Pasta falso peto",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"Dos o tres puñados generosos de rigatoni (unos 60-80 g de pasta por persona) u otra pasta corta (fusilli o penne por ejemplo)",
+			"Un tronco de brócoli (unos 100-130 g)",
+			"3 cucharadas de aceite de oliva virgen extra",
+			"50 g de queso parmesano rallado o Grana Padano",
+			"40 g de piñones (o pistachos, almendras o avellanas)",
+			"1/2 diente de ajo pequeño",
+			"15-20 hojas de albahaca fresca (al gusto)",
+			"1 cucharadita de sal (al gusto)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Cortar el brócoli en trozos -no hace falta que sean muy pequeños, como de tres centímetros- y colocar en un recipiente apto para microondas con un chorrito de agua, un tupper de cristal y tapar. Cocinar durante cuatro minutos aproximadamente, hasta que al pinchar los trozos el cuchillo entre con facilidad. Escurrir el agua y reservar. Otra opción para cocinar el brócoli sería al vapor; el truco para que no tenga un sabor fuerte es no cocerlo en agua como habitualmente se hace.",
+			"En un vaso de batidora poner el resto de ingredientes: el aceite, el queso, los piñones o fruto seco elegido, el ajo, la albahaca y la sal junto con el brócoli cocido. Triturar todo bien, probar y ajustar sal y albahaca al gusto. Es importante no quedarse corto con la sal ya que el brócoli aporta un sabor algo dulzón.",
+			"Cocer la pasta en una cazuela con agua y sal durante el tiempo indicado en el paquete. Cuando esté lista colocar el colador en la cazuela -y no al revés, es decir, no hay que escurrir la pasta echándola sobre el colador- y escurrir el exceso de agua, conservando como un dedo en el fondo de la cazuela, tampoco demasiado y dependiendo de lo espesa que se quiera la salsa. De esta forma el agua de cocción hará que la salsa ligue bien y se impregne toda la pasta.",
+			"Añadir el pesto a la cazuela, remover bien para integrarlo y servir al momento, con un poco más de queso rallado por encima y unas gotitas de aceite de oliva.",
+			"Preguntar a los comensales si pueden adivinar qué ingredientes lleva la salsa y dejarles impresionados cuando descubran que están comiendo brócoli sin darse cuenta."
+		]
+	},
+	{
+		"Title": "Lentejas guisadas con ají",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"360 gramos de lenteja pardina seca (del año)",
+			"1 hoja de laurel",
+			"3 dientes de ajo sin pelar",
+			"1 zanahoria pelada y cortada en trozos gruesos",
+			"1 cebolla morada",
+			"1/2 calabacín",
+			"1/2 pimiento rojo",
+			"2 cucharadas de tomate triturado",
+			"1 cucharadita de pimentón de la Vera (al gusto)",
+			"2 cucharadas de cilantro fresco picado (al gusto)",
+			"El zumo de una lima",
+			"1 cucharadita de ají en polvo al gusto (o cayena molida o escamas de chile)",
+			"Vinagre de vino",
+			"Aceite de oliva"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Topping",
+			"Ingredients": [
+				"Pepino",
+				"Pimiento rojo y verde",
+				"Tomate",
+				"Cilantro",
+				"Lima",
+				"Aceite de oliva",
+				"Pimienta y sal"
+			]
+		},
+		"Steps": [
+			"Añadir las lentejas, la hoja de laurel, los dientes de ajo sin pelar, 1/2 cebolla morada a trozos grandecitos, la zanahoria, un chorro generoso de vinagre, otro de aceite y sal al gusto en una olla y cubrir con agua hasta unos dos dedos por encima. Dejar cocer aproximadamente 30 minutos o hasta que la lenteja esté casi hecha, pero todavía durita.",
+			"Cortar la verdura para los toppings en cuadraditos muy pequeños y aliñarla con el resto de ingredientes. Reservar.",
+			"Sofreír el calabacín cortado a trozos medianos, el resto de la cebolla y el pimiento. Salpimentar al gusto. Cuando esté todo bien hecho, añadir el tomate triturado y el pimentón y dejar hacer unos 2-3 minutos. Triturar el sofrito con ayuda de una batidora.",
+			"Agregar el sofrito a las lentejas que se están cociendo cuando estén semihechas. De forma inmediata empezará a espesar el caldo gracias al sofrito. Probar y ajustar de sal y vinagre.",
+			"Añadir el zumo de la lima, el cilantro picado y el ají al gusto y dejar cocer todo a fuego medio entre 20 y 30 minutos o hasta que la lenteja esté ya hecha.",
+			"Servir y poner por encima las verduritas frescas."
+		]
+	},
+	{
+		"Title": "Espinacas con garbanzos y gambas",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 kg de espinacas congeladas",
+			"600 g de garbanzos cocidos",
+			"3 dientes de ajo (o al gusto)",
+			"Pimentón o chile al gusto",
+			"Aceite de oliva virgen extra",
+			"Sal",
+			"250 g de gambitas peladas descongeladas y escurridas",
+			"Alcaparras al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Descongelar las espinacas en la nevera, sobre un colador y con un bol o ensaladera debajo para recoger el agua que suelten. Una vez descongeladas, presionarlas con las manos contra el colador para acabar de quitar toda el agua posible.",
+			"En una cazuela amplia o una sartén con un poco de aceite a fuego medio, dorar los ajos picados o laminados. Añadir pimentón al gusto, dar vueltas un minuto y añadir las espinacas escurridas.",
+			"Subir el fuego y cocinar las espinacas durante unos cuatro o cinco minutos -o hasta que se haya eliminado todo el líquido- removiendo más o menos una vez cada minuto (si la cazuela o sartén es pequeña, se puede hacer en dos veces, es importante que la superficie permita la evaporación).",
+			"Cuando casi estén listas, añadir los garbanzos, dar vueltas un par de minutos para que se calienten e integren.",
+			"Añadir las gambitas descongeladas; el momento concreto va en función de cómo nos gusten de hechas (al ser muy pequeñas, a mí con un minuto o minuto y medio, me llega).",
+			"Rematar con alcaparras al gusto y, si se quiere, un poco del vinagre de su conserva y un poco más de pimentón."
+		]
+	},
+	{
+		"Title": "Crema de verduras",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"500 g de calabaza",
+			"2 boniatos medianos",
+			"3-4 zanahorias no muy grandes",
+			"La parte blanca de un puerro",
+			"1 manzana ácida (tipo Granny Smith)",
+			"500 ml de caldo de verduras",
+			"500 ml de leche de almendras",
+			"Zumo de naranja (opcional)",
+			"Aceite de oliva",
+			"1 cucharada de mantequilla (opcional)",
+			"Sal",
+			"Almendras tostadas picadas para decorar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pelar y cortar la calabaza, el boniato y la parte blanca del puerro en trozos no muy gruesos. Lavar bien las zanahorias y cortarlas en trozos de parecido tamaño. Cortar en cuartos la manzana, y quitarle el corazón.",
+			"Embadurnar las verduras y la manzana con un poco de aceite y salarlas ligeramente.",
+			"Ponerlo todo sobre una o dos bandejas de horno, y hornear  unos 30-40 minutos a 200 grados con ventilador. Comprobar que todas las verduras estén tiernas y doradas al sacarlas.",
+			"Triturar las verduras con el caldo y la leche de almendras. Si la crema se ve muy espesa, puedes aligerarla con zumo de naranja, más caldo o más leche de almendras. Se puede potenciar aún más el sabor con una nuez de mantequilla.",
+			"Servir bien caliente con unas almendras saladas picadas por encima y un chorrito de aceite de oliva virgen extra."
+		]
+	},
+	{
+		"Title": "Tarta húmeda de chocolate",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"140 g de mantequilla sin sal",
+			"4 huevos, separados en yemas y claras",
+			"125 g de azúcar blanco",
+			"40 g de harina",
+			"½ cucharadita de impulsor químico",
+			"225 g de chocolate (mínimo 50% de cacao)",
+			"1 cucharadita de esencia de vainilla",
+			"½ cucharadita de sal fina"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "ganache",
+			"Ingredients": [
+				"180 ml de nata para montar",
+				"200 g de chocolate (mínimo 50% cacao)",
+				"20 g de mantequilla sin sal",
+				"Sal en escamas (opcional)"
+			]
+		},
+		"Steps": [
+			"Calentar el horno a 160 ºC. Enmantecar y forrar con papel vegetal un molde de 22 o 24 cm de diámetro.",
+			"Para preparar la base, empezar por fundir el chocolate con la mantequilla en un bol a baño María o en el microondas. En caso de optar por la segunda opción, hacerlo en un recipiente apto y en intervalos de pocos segundos, removiendo y controlando que el chocolate no se queme.",
+			"Mientras el chocolate y la mantequilla se funden, batir en un bol las yemas con un tercio del azúcar (42 g aproximadamente) hasta que se aclare su color, aumente el volumen y luzcan algo esponjosas. Reservar.",
+			"En otro bol batir las claras a punto de nieve. Cuando comiencen a aumentar de volumen, añadir el azúcar restante y batir hasta que se puedan formar picos consistentes.",
+			"Añadir las yemas, la sal y la vainilla al chocolate y mezclar suavemente. Agregar las claras montadas e incorporar con movimientos envolventes. Añadir la harina tamizada junto con el impulsor químico. Mezclar nuevamente con movimientos envolventes suaves hasta que no quede rastro de la harina.",
+			"Verter la mezcla en el molde y hornear durante 35 minutos. La superficie de la tarta debe haberse secado.",
+			"Dejar enfriar por completo para poder añadirle la ganache. Para acelerar este proceso, se puede enfriar la tarta en la nevera una vez haya perdido algo de temperatura.",
+			"Para preparar la ganache calentar la nata en el microondas o en un cazo cuidando que el fondo no se pegue.",
+			"Mientras, trocear el chocolate y colocarlo en un bol junto con la mantequilla. Añadir la nata caliente al chocolate. Remover hasta que todo se funda y quede una mezcla homogénea.",
+			"Cubrir con film de modo que esté en contacto directo con el chocolate y dejar enfriar hasta que tenga la consistencia deseada (para una ganache que chorree, enfriar apenas unos minutos). Para conseguir una ganache más densa como la que aparece en la foto, meterla en la nevera y removerla cada 5 minutos hasta que tenga algo de consistencia.",
+			"Cubrir la superficie de la tarta con la ganache, ya sea de forma regular o irregular. Opcionalmente, terminar con una pizca de sal en escamas. Conservar en la nevera."
+		]
+	},
+	{
+		"Title": "Pollo moruno con dátiles",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"8 contramuslos de pollo",
+			"2 cdas. de ras el hanout",
+			"3 cdas. de aceite de oliva",
+			"2 cebollas moradas",
+			"4 dientes de ajo",
+			"200 ml de caldo de pollo",
+			"400 g de tomate troceado (puede ser de conserva)",
+			"1 batata grande",
+			"200 g de dátiles medjool deshuesados",
+			"Sal",
+			"Cilantro fresco",
+			"Arroz o cuscús para acompañar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Frotar los contramuslos con una de las cucharadas de ras el hanout y salar.",
+			"Pelar y picar las cebollas. Majar el ajo. Pelar y trocear en cubos la batata.",
+			"Cubrir de aceite de oliva el fondo de una cazuela y dorar el pollo a fuego medio-alto. Sacar a una fuente.",
+			"Seguidamente, freír la cebolla picada en el mismo aceite, a fuego bajo hasta que la cebolla se transparente.",
+			"Añadir el ajo majado y darle unas vueltas. Agregar la cucharada restante de ras el hanout y sofreír brevemente para potenciar el aroma.",
+			"Poner el tomate troceado y reducir brevemente. Agregar entonces la batata troceada y el pollo sofrito, y cubrir con el caldo.",
+			"Salar, tapar y estofar a fuego bajo unos 30 minutos, hasta que la batata y el pollo empiecen a estar tiernos.",
+			"Añadir los dátiles al estofado. Proseguir la cocción otros 15 minutos, con la cazuela destapada para que se concentre el jugo de cocción. Servir caliente con arroz o con cuscús, y con hojas de cilantro fresco."
+		]
+	},
+	{
+		"Title": "Pollo a la cazadora",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 pollo troceado como para hacer al ajillo",
+			"50 g de mantequilla",
+			"60 ml de aceite de oliva",
+			"1 cebolla",
+			"6 tomates pelados, sin pepitas y picados (pueden ser de una buena conserva)",
+			"3 zanahorias",
+			"1 rama de apio",
+			"75 ml de vino blanco",
+			"75 ml de agua o caldo de pollo",
+			"Sal",
+			"Pimienta",
+			"Perejil (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"En una cazuela de fondo grueso, poner el aceite y la mantequilla y calentarlos a fuego medio con la cebolla picada. Añadir el pollo salpimentado y dorarlo por todas partes durante 15 minutos, dándole vueltas tres o cuatro veces durante el proceso.",
+			"Añadir el apio, la zanahoria y los tomates, picados. Añadir un poco más de sal y dar vueltas durante cinco minutos más.",
+			"Añadir el agua o caldo y el vino -o 150 ml de agua, si se prefiere-, tapar y dejar cocinar a fuego lento 45 minutos desde que arranque el hervor.",
+			"Controlar pasados 30 minutos: si el pollo ha soltado mucho jugo y la salsa está muy líquida podemos destapar la olla los últimos minutos de cocción para que reduzca. Emplatar, añadir más pimienta y perejil picado y servir."
+		]
+	},
+	{
+		"Title": "Flan de queso sin horno",
+		"Amount": "10",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"200 g de queso crema",
+			"100 g de azúcar",
+			"500 g de nata 35% MG",
+			"250 ml de leche entera",
+			"1 sobre de cuajada en polvo",
+			"Caramelo líquido (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner el queso, el azúcar, la nata y la mitad de la leche en una cazuela. Calentar a fuego medio removiendo con unas varillas hasta llegue a hervir.",
+			"Disolver el sobre de cuajada en la leche reservada, vertar esta mezcla en la cazuela y remover hasta que se forme una crema homogénea.",
+			"Retirar del fuego y repartir la crema en unos vasitos pasándola por un colador.",
+			"Refrigerar un mínimo de cuatro horas o, mejor, de un día para otro.",
+			"Se le puede poner un poco de caramelo líquido por encima."
+		]
+	},
+	{
+		"Title": "Flan de queso azul",
+		"Amount": "10",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"125 g de queso crema",
+			"75 g de queso crema azul",
+			"100 g de azúcar",
+			"500 g de nata 35% m.g.",
+			"250 g de leche entera",
+			"1 sobre de cuajada en polvo",
+			"Membrillo",
+			"Nueces"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Preparar la mezcla del flan como en la primera receta, añadiendo la crema de queso azul junto al queso crema.",
+			"Poner unos daditos de membrillo en el fondo de los vasitos y verter la crema encima.",
+			"Con el flan cuajado, rematar con nueces picadas por encima."
+		]
+	},
+	{
+		"Title": "Cheesecake de chocolate",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"300 g de queso crema",
+			"260 g de chocolate para fundir con 70% de cacao",
+			"1 cucharada de cacao en polvo",
+			"40 ml de brandy (o ron, o whisky)",
+			"60 g de mantequilla",
+			"400 ml de nata líquida (18% MG)",
+			"6 huevos",
+			"185 g de azúcar",
+			"1 pizca de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Base galleta",
+			"Ingredients": [
+				"4 galletas Lotus o similares",
+				"160 g de galletitas saladas",
+				"85 g de mantequilla",
+				"2 cucharaditas de cacao en polvo",
+				"1 cucharada de azúcar"
+			]
+		},
+		"Steps": [
+			"Empezar con la base triturando las galletas. Juntarlas con el cacao y el azúcar. Derretir la mantequilla, añadirla y mezclar con una cuchara.",
+			"En un molde untado con mantequilla y con papel de hornear en el fondo, formar una base de galleta compacta que suba un poco por los bordes, ayudándose con una cuchara (ver vídeo). Aplastar bien, meter en el congelador y dejar que se congele completamente (unas dos horas).",
+			"Derretir el chocolate con la mantequilla y mezclar bien con el queso crema, la cucharadita de cacao, el brandy, la mantequilla, la nata, los huevos, el azúcar y la sal.",
+			"Poner la crema resultante sobre la base congelada.",
+			"Hornear con el horno precalentado a 190ºC durante 24 minutos o hasta conseguir el punto deseado. Debe bailar por el centro al moverla, y se han tenido que formar una especie de ondas en el borde.",
+			"Dejar enfriar completamente durante 4 horas antes de consumir, sin meter la tarta en la nevera. Separar el borde con un cuchillo, desmoldar y espolvorear, si se quiere, con más cacao en polvo."
+		]
+	},
+	{
+		"Title": "Carrillada al vino",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"4 carrilleras de cerdo",
+			"2 cebollas",
+			"4 dientes de ajo",
+			"1 litro de caldo de carne",
+			"1 cda de salsa de soja",
+			"30 ml de vinagre balsámico",
+			"250 ml de vino tinto",
+			"1 cda de miel",
+			"Un chorro de vino rancio (en su defecto, oloroso u oporto)",
+			"Un puñado de pasas",
+			"Aceite de oliva",
+			"Sal y pimienta",
+			"Puré de patatas para acompañar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Calentar el horno a 170 grados.",
+			"Salpimentar las carrilleras, untarlas con aceite y dorarlas en una cazuela con aceite de oliva a fuego medio por las dos caras. Sacarlas y ponerlas en una bandeja o fuente de horno.",
+			"En la misma cazuela, añadir la cebolla cortada en trozos grandes y los dientes de ajo con la piel. Dejar que la cebolla y el ajo se doren.",
+			"Cuando la cebolla se ablande, echar el vino rancio y desglasar el fondo de la cazuela con una espátula.",
+			"Verter sobre las carrilleras y añadir el caldo suficiente para cubrir las carrilleras más o menos por la mitad (no hace falta usar el litro entero).",
+			"Hornear dos horas, remojando con su caldo cada 10 minutos aproximadamente. Si se quedan secas, añadir más caldo.",
+			"Mientras las carrilleras se hacen, poner en un cazo al fuego el vino tinto, el vinagre balsámico y la salsa de soja. Reducir más o menos a la mitad.",
+			"Cuando las carrilleras estén tiernas, sacarlas de la bandeja, deshuesarlas y reservarlas.",
+			"Añadir el caldo de la cocción a la salsa de vino, y volver a reducir al fuego hasta que quede una salsa espesa.",
+			"Devolver las carrilleras a la bandeja o fuente y verter la salsa sobre ellas.",
+			"Añadir las pasas y hornear las carrilleras 15 minutos más, untándolas con su salsa cada cinco.",
+			"Servir con puré de patatas."
+		]
+	},
+	{
+		"Title": "Arroz frito",
+		"Amount": "3",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"350 g de arroz de grano largo o medio cocido el día anterior",
+			"1 zanahoria picada muy fina",
+			"3 huevos grandes batidos",
+			"¼ de lechuga iceberg cortada en juliana fina",
+			"170 g de colas de gambas o langostinos cortadas en trozos grandes",
+			"1 diente de ajo picado fino",
+			"85 g de guisantes congelados",
+			"30 g de chalota picada fina",
+			"1 cucharadita de cubo de caldo de pollo desmenuzado",
+			"Aceite de girasol",
+			"Sal",
+			"Pimienta blanca molida"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Desmenuzar el arroz blanco del día anterior con las manos.",
+			"Calentar una cucharadita y media de aceite en una sartén a fuego vivo. Cuando empiece a humear, añadir la mitad del arroz y cocinarlo unos tres minutos, salteandolo hasta que se dore ligeramente. Reservar.",
+			"Repetir la operación con el resto del arroz y reservarlo junto a la primera mitad.",
+			"En la misma sartén, calentar un par de cucharaditas de aceite. Cuando esté bien caliente, añadir la zanahoria y saltear. Cuando empiece a dorarse, sacarla y reservarla en el mismo recipiente que el arroz.",
+			"Calentar otras dos cucharaditas de aceite en la sartén y cuando esté muy caliente, añadir la lechuga. Sazonar con una pizca de sal, pimienta blanca molida y media cucharadita cubito de caldo de pollo. En cuanto la lechuga empiece a ablandarse, sacarla y juntarla con el arroz.",
+			"Calentar otras dos cucharaditas de aceite. Cuando humeen, añadir los huevos batidos y una pizca de sal. Remover enérgicamente y cocinar unos 45 segundos, hasta que cuajen. Romper los huevos en pedacitos con una cuchara y juntarlos con el arroz.",
+			"Calentar dos cucharaditas de aceite más. Cuando humee, añadir el ajo. En cuanto empiece a soltar aroma, sumar las colas de las gambas o langostinos. Remover y sazona con sal, pimienta y media cucharadita de cubo de caldo desmenuzado. Se les puede dar un toque con un soplete de cocina unos 30 segundos si se quiere.",
+			"Cuando las gambas estén al punto (no demasiado hechas), añadir el arroz con sus aderezos, sumar los guisantes y la chalota o cebolleta picada muy fina. Saltear hasta que los guisantes se hayan descongelado y el arroz esté suelto.",
+			"Sazonar al gusto con sal y un poco más de cubito de caldo, y servir inmediatamente."
+		]
+	},
+	{
+		"Title": "Chorizos criollos a la sidra",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"8/10 chorizos criollos (aproximadamente 1 kg)",
+			"2 cebollas",
+			"4 dientes de ajo (o al gusto, Mónica no le pone)",
+			"300 ml de sidra de manzana asturiana (aproximadamente)",
+			"Aceite de oliva virgen",
+			"Sal",
+			"Pimienta",
+			"Patata cocida para acompañar (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Si se van a usar, cocer las patatas enteras unos 25 minutos o hasta que se puedan atravesar con una brocheta. Cuando ya no quemen, pelar y cortar en rodajas o dados.",
+			"Pelar las cebollas, cortarlas por la mitad a lo largo y después en pluma no muy fina. Pocharlas con un poco de aceite y un pellizco de sal en una cazuela.",
+			"Cuando ya estén transparentes, añadir el ajo picado o laminado y dejar cocinar unos 5 minutos más.",
+			"Añadir los criollos troceados o enteros; en este caso pinchados con un palillo o un tenedor -sin destrozarlos- para que no exploten, suelten el jugo, y también penetre en ellos el sabor de la sidra. Dar vueltas unos tres minutos.",
+			"Añadir la sidra y subir a fuego fuerte hasta que hierva. Dejar hervir a borbotones tres minutos y después bajar el fuego al mínimo. Dejar cocer destapado a fuego suave hasta que los chorizos estén listos y la sidra haya reducido hasta convertirse en una salsa."
+		]
+	},
+	{
+		"Title": "Tarta de calabaza",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"300 g de calabaza rallada",
+			"100 g de nueces pecanas picadas en grueso (y algunas más para decorar)",
+			"120 ml de leche entera",
+			"2 huevos grandes",
+			"120 ml de aceite de oliva suave",
+			"200 g de azúcar",
+			"1 cucharada de zumo de limón",
+			"120 g de harina de repostería",
+			"120 g de harina integral",
+			"1/2 cucharada de levadura química (tipo Royal)",
+			"1/2 cucharada de canela molida",
+			"1 cucharadita de sal",
+			"1/2 cucharadita de bicarbonato",
+			"1/2 cucharadita de clavo molido",
+			"1/2 cucharadita de pimienta negra molida",
+			"1/2 cucharadita de nuez moscada rallada",
+			"1/2 cucharadita de extracto de vainilla"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Cobertura",
+			"Ingredients": [
+				"300 g de queso crema",
+				"50 g de azúcar",
+				"La ralladura de ½ limón y un chorrito de zumo"
+			]
+		},
+		"Steps": [
+			"Mezclar la leche con la cucharada de zumo de limón para obtener un buttermilk. Dejarlo reposar unos 15 minutos, hasta que la leche se corte.",
+			"Calentar el horno a 180 grados con calor arriba y abajo.",
+			"Preparar un molde circular con un papel de horno en la base y engrasar el borde con aceite.",
+			"En un bol, mezclar bien la calabaza y el buttermilk.",
+			"En otro bol, tamizar las harinas y mezclarlas con la levadura, el bicarbonato, la sal y las especias.",
+			"En un tercer bol, con una batidora de varillas, batir los huevos con el azúcar y la esencia de vainilla.",
+			"Cuando la mezcla esté esponjosa y se haya blanqueado, añadir el aceite poco a poco y sin dejar de batir para que emulsione.",
+			"Añadir una tercera parte de la harina con especias y mezclar con una espátula con movimientos suaves y envolventes.",
+			"Cuando la harina esté bien incorporada, añadir la mitad de la calabaza con buttermilk y las nueces pecanas.",
+			"Ir añadiendo de poco en poco el resto de harina y calabaza hasta obtener una masa homogénea, sin remover demasiado.",
+			"Repartir la masa en dos moldes del mismo tamaño (unos 18-20 cm), y hornear durante 30-40 minutos o hasta que al clavar un palillo salga limpio.",
+			"Mientras se hornea, preparar la cobertura. Batir el queso crema, el azúcar, el zumo de limón y la ralladura. Mantener en la nevera.",
+			"Sacar los moldes del horno y dejar enfriar.",
+			"Cuando los bizcochos estén a temperatura ambiente, cubrir el que haya quedado más plano con la mitad de la cobertura. Coloca el otro encima y cubrirlo con el resto de la cobertura. Decorar con chorradas de Halloween si se quiere."
+		]
+	},
+	{
+		"Title": "Tarta de chocolate y crema",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"750 g de Chocolinas",
+			"500 g de dulce de leche",
+			"500 g de queso untable",
+			"250 ml de café frío (sin azúcar)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"En un bol batir el dulce de leche con el queso untable hasta que quede una mezcla homogénea.",
+			"Formar una capa base de galletas, embebiendo una por una previamente en el café durante 3 o 4 segundos (no deben quedar excesivamente húmedas). Ponerlas de la manera más ordenada posible sin dejar separaciones entre ellas.",
+			"Añadir una capa fina de la mezcla, del mismo grosor que las galletas aproximadamente, y extenderla con suavidad.",
+			"Colocar otra capa de galletas embebidas encima y repetir la operación sucesivamente hasta acabar con la mezcla.",
+			"Terminar como se prefiera: puede ser con una última capa de galletas o de mezcla. También se puede decorar con manga pastelera, con ganache o virutas de chocolate, nueces o cacahuetes picados.",
+			"Enfriar en la nevera durante 12 horas. Lo ideal es hacerla de un día para otro."
+		]
+	},
+	{
+		"Title": "Bacalao encebollado canario",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"600 g de lomo de bacalao desalado, ssalado, congelado o fresco",
+			"2 cebollas grandes",
+			"1 pimiento rojo",
+			"1 pimiento verde",
+			"3 dientes de ajo",
+			"1 tomate maduro",
+			"1 hoja de laurel",
+			"125 ml de vino blanco",
+			"4 cucharadas de harina (cantidad aproximada)",
+			"Aceite de oliva virgen extra",
+			"Sal",
+			"Pimienta negra recién molida"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Descongelar, desalar o limpiar el lomo de bacalao según sea necesario. Cortar en trozos de entre cinco y siete centímetros de largo. Reservar.",
+			"Cortar las cebollas y los pimientos en juliana (tiras de cinco milímetros de grosor aproximadamente). Pelar y rallar el tomate, picar los dientes de ajo y reservar.",
+			"Pasar los lomos de bacalao por harina. Calentar abundante aceite de oliva en una sartén u olla grande. Freír los lomos de bacalao por ambas caras, volteándolos con cuidado, hasta que estén ligeramente dorados. Retirar y colocar sobre un plato con papel absorbente.",
+			"Retirar el aceite de la fritura y añadir un chorro generoso de aceite nuevo a la sartén u olla. Calentar a fuego medio. Añadir los ajos hasta que se doren ligeramente.",
+			"Agregar los pimientos y la cebolla. Sofreír a fuego medio.",
+			"Transcurridos entre diez y 15 minutos, cuando se hayan ablandado y dorado la cebolla y los pimientos, añadir el tomate rallado, la hoja de laurel y el vino blanco. Salpimentar. Cocinar diez minutos más.",
+			"Añadir el bacalao sobre el encebollado y cocinar cinco minutos o hasta que el pescado esté al punto deseado. Servir caliente acompañado de papas cocidas o papas arrugadas."
+		]
+	},
+	{
+		"Title": "Alubias del caserío",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g de alubias rojas",
+			"Aceite de oliva virgen extra",
+			"1 cebolla",
+			"1 zanahoria",
+			"1 puerro",
+			"1 tomate",
+			"Perejil fresco",
+			"1 cucharadita de pulpa de pimento choricero",
+			"Sal",
+			"200 g de chorizo ibérico",
+			"12 láminas finísimas de panceta ibérica curada",
+			"30 g de alcaparras",
+			"Pimienta negra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Dejar a remojo la noche anterior las alubias con un poquito de bicarbonato o de sal.",
+			"Al día siguiente, arrancar a cocerlas en una olla cubiertas de agua con la cebolla entera pelada partida por la mitad, la zanahoria pelada, el tomate, el perejil y agua. Cuando rompa a hervir bajaremos el fuego al mínimo y dejaremos cocinar unas dos horas, desespumando cuando sea necesario hasta que consigamos una alubia muy tierna.",
+			"Por otra parte, cocer el chorizo en un cacito con agua durante 15 minutos. Cortar en discos de dos centímetros y reservar.",
+			"Pochar el puerro con muy poquito aceite para que se dore, añadir la pulpa de pimiento choricero y saltear un minuto más.",
+			"Sacar las verduras con las que se han cocido las alubias y triturarlas bien junto al sofrito previo, volcarlo otra vez donde las alubias. Añadir también el chorizo y dejar cocinar 15 minutos más.",
+			"Poner a punto de sal y pimienta negra y servir en un plato. Terminar por encima con las láminas finísimas de panceta ibérica curada y las alcaparras, que darán un contrapunto ácido ideal."
+		]
+	},
+	{
+		"Title": "Lentejas Express",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g de lentejas cocidas",
+			"2 patatas medianas",
+			"200 g de espinacas o hojas de acelgas frescas",
+			"1 puerro",
+			"1 zanahoria",
+			"1 diente de ajo",
+			"50 ml de vino blanco",
+			"800 ml de caldo de verduras o pollo",
+			"Aceite de oliva",
+			"Sal y pimienta negra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Rehogar en una olla ajo, zanahoria y puerro picados con un chorro de aceite de oliva y una pizca de sal. Cocinarlos a fuego medio entre cinco y diez minutos, removiendo de vez en cuando.",
+			"Añadir las lentejas escurridas y el vino blanco y cocinar durante dos minutos.",
+			"Cubrir con caldo de verduras o pollo. Pelar las patatas, cortarlas en cubos de un centímetro aproximadamente y añadirlas a la olla. Salpimentar. Cocinar todo a fuego medio hasta que la patata esté tierna.",
+			"Añadir las espinacas o las hojas de acelga picadas, tapar la olla, retirar del fuego y dejar que reposen un par de minutos más. Remover y servir caliente."
+		]
+	},
+	{
+		"Title": "Lentejas guisadas con verduras",
+		"Amount": "6",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"350 g de lentejas pardinas o caviar (peso en seco)",
+			"3 dientes de ajo",
+			"1 hoja de laurel",
+			"2 zanahorias",
+			"1 cebolla",
+			"2 pimientos verdes (o de colorinchis, a vuestro gusto)",
+			"1 calabacín",
+			"2 tomates medianos triturados (o 150 g de salsa de tomate casera)",
+			"Aceite de oliva virgen",
+			"1 cdta. de pimentón dulce",
+			"1 cdta. de pimentón picante",
+			"½ cdta. de comino molido",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner las lentejas en una cazuela con los dientes de ajo pelados y la hoja de laurel. Cubrir de agua fría.",
+			"Pelar y cortar las zanahorias en trocitos pequeños, y añadirlas a la cazuela.",
+			"Llevar a ebullición y cocer al menos 30 minutos (dependerá de la clase y la calidad de las lentejas), reponiendo el agua si se consume, hasta que estén tiernas las lentejas y las zanahorias.",
+			"Mientras se cuecen las lentejas, poner cubrir el fondo de una sartén con aceite de oliva virgen extra y calentar a fuego medio.",
+			"Picar la cebolla y sofreírla hasta que esté transparente. Agregar entonces los pimientos picados y el calabacín en daditos. Sofreír hasta que todo esté tierno.",
+			"Añadir los pimentones y el comino, y darles unas vueltas para que se potencie el aroma, pero brevemente para que no se tueste demasiado el pimentón, pues amargaría.",
+			"Triturar los tomates -escaldarlos previamente para eliminar la piel, a no ser que tengáis un robot que triture la piel a fondo-, si usáis el tomate crudo, y proseguir el sofrito para que se reduzca un poco el agua del tomate, unos 5 minutos. Si usáis salsa de tomate no hace falta que reduzcáis nada, añadir y punto.",
+			"Agregar el sofrito a las lentejas ya cocidas, mezclar y salar el conjunto al gusto: a poner la mesa y a comer (también pueden dejarse reposar de un día para otro)."
+		]
+	},
+	{
+		"Title": "Garbanzos Express",
+		"Amount": "3",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g de garbanzos cocidos",
+			"6 cucharadas de tomate triturado o rallado",
+			"1 cebolla picada",
+			"1 zanahoria grande picada fina (opcional)",
+			"1 diente de ajo picado",
+			"1 guindilla roja seca picada",
+			"250 ml de caldo de pollo o de verduras (o de los garbanzos si los has cocido tú)",
+			"1 cucharada de menta o hierbabuena picada",
+			"1/2 cucharadita rasa de comino en polvo (opcional)",
+			"2 huevos mollet (cocidos 5 minutos en agua hirviendo)",
+			"Aceite de oliva",
+			"Sal y pimienta negra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Rehogar en una cazuela a fuego suave con un chorro de aceite la cebolla, la zanahoria (si se usa), el ajo, la guindilla, un poco de sal y pimienta y el comino si se quiere.",
+			"Cuando la cebolla esté transparente y la zanahoria haya cambiado de color y esté un poco blanda, añadir el tomate.",
+			"Cuando se convierta en un sofrito espeso, añadir el caldo y los garbanzos, y dejar que hiervan un rato hasta que el caldo espese un poco, añadiendo un poco más de caldo o agua si se quedan demasiado secos.",
+			"Corregir de sal y añadir la menta o hierbabuena picadas.",
+			"Dejar cocer un minuto más y servir con los huevos mollet cortados por la mitad."
+		]
+	},
+	{
+		"Title": "Lentejas tio Lucas",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"500 g de judías previamente remojadas toda la noche",
+			"200 g de tocino entreverado o panceta curada",
+			"4 dientes de ajo",
+			"2 hojas de laurel",
+			"Para el sofrito de acompañamiento",
+			"Aceite de oliva virgen",
+			"1 cebolla mediana picadita",
+			"4 dientes de ajo fileteados",
+			"1 cdta. de pimentón dulce",
+			"1/4 cdta. de comino en grano",
+			"Sal al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner en remojo las judías la noche anterior, en agua limpia y fría.",
+			"Al día siguiente, escurrir las judías y ponerlas en una cazuela amplia con el tocino o panceta, los dientes de ajo pelados y el laurel. Cubrir con agua.",
+			"Llevar a ebullición y asustar dos o tres veces con agua fría. Mantener la cocción a fuego lento el tiempo necesario hasta que estén tiernas las judías, que dependerá de la calidad y la antigüedad.",
+			"Cuando las alubias estén hechas, retirar del fuego. Cortar la cocción con un vasito de agua fría y salar al gusto.",
+			"Para el sofrito, picar finamente la cebolla y filetear los ajos pelados. Cubrir el fondo de una sartén amplia con un poco de aceite de oliva virgen y sofreír la cebolla hasta que esté transparente.",
+			"Agregar el ajo y darle unas vueltas para que tome color.",
+			"Majar groseramente el comino en un mortero y añadirlo al sofrito. Agregar también el pimentón, sofreírlo todo junto un minuto y verter el sofrito en la cazuela de las judías. Remover y listo."
+		]
+	},
+	{
+		"Title": "Alubias blancas con tomate y sobrasada",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"600 g de alubias blancas hervidas (pueden ser de bote)",
+			"2 latas (unos 800 g en total) de tomate natural (triturado o en trozos)",
+			"100 g de sobrasada de buena calidad",
+			"6-8 ramitas de tomillo fresco",
+			"2 dientes de ajo",
+			"1 cebolla",
+			"5 cucharadas soperas de aceite de oliva",
+			"Sal",
+			"Pimienta al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pelar y picar la cebolla y los dientes de ajo.",
+			"Calentarcuatro cucharadas soperas de aceite de oliva en una cazuela y freír las ramas de tomillo. Retirar y ponerlas sobre papel de cocina absorbente.",
+			"Incorporar la cebolla al aceite y sofreír a fuego medio unos 10 minutos, con una pizca de sal. Añadir el ajo y sofreír un par de minutos más. Verter el tomate, una pizca de sal, llevar a ebullición y cocinar, semi-tapado, unos 30 minutos a fuego suave.",
+			"Deshacer la sobrasada en trozos pequeños y freírla en una cucharada sopera de aceite de oliva. Reservar.",
+			"Cuando la salsa de tomate haya espesado, probar y ajustar de sal. Añadir una pizca de azúcar si hiciera falta corregir la acidez. Incorporar las alubias blancas, la mitad de la sobrasada y cocinar cinco minutos más.",
+			"Servir las alubias con tomate en un plato, con un poco de sobrasada restante por encima y una rama de tomillo frita. Terminar de aderezar con pimienta recién molida, sal en escamas y un poco del aceite que haya soltado la sobrasada."
+		]
+	},
+	{
+		"Title": "Rancho Canario",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 cebolla",
+			"2 tomates",
+			"1 diente de ajo",
+			"300 g de garbanzos secos",
+			"400 g de costilla de cerdo",
+			"60 g de chorizo",
+			"½ cucharada de pimentón",
+			"5 hebras de azafrán",
+			"400 g de patatas",
+			"25 g de fideos gruesos nº4"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Poner en remojo los garbanzos de 8 a 12 horas o durante la noche anterior.",
+			"Escaldar los tomates un minuto en agua hirviendo y sumergir en agua helada. Pelar, retirar las semillas y picar fino.",
+			"Pelar y picar fina la cebolla y el ajo. Sofreír en una olla de base ancha el tomate, la cebolla y el ajo con un chorrito de aceite de oliva.",
+			"Una vez los tres ingredientes se hayan ablandado, añadir las costillas para que se doren. Agregar el chorizo cortado en rodajas finas y los garbanzos escurridos.",
+			"Cubrir todo con agua. Añadir el pimentón, las hebras de azafrán y sal.",
+			"Cocer a fuego medio-suave durante 1 hora o hasta que los garbanzos se hayan ablandado bastante. Si llegados a este punto, hay poca agua en la olla, agregar más.",
+			"Pelar y cortar las patatas en trozos grandes. Añadirlas a la olla y cocer 20 minutos más. Añadir los fideos y dejar cocer cinco minutos más. Dejar reposar y servir."
+		]
+	},
+	{
+		"Title": "Potaje de vigilia",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g de bacalao desalado",
+			"500 g de garbanzos",
+			"400 g de espinacas frescas",
+			"8 tomates",
+			"6 dientes de ajo",
+			"2 cebollas grandes",
+			"2 hojas de laurel",
+			"1 cucharada de pimentón",
+			"650 ml de caldo de marisco",
+			"Aceite de oliva",
+			"Sal",
+			"4 huevos cocidos"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Dejar en remojo los garbanzos la noche anterior.",
+			"Poner los garbanzos en el caldo de marisco templado y cocer entre 2 y 2 horas y media.",
+			"Mientras se hacen, aplastar los ajos y dorarlos a fuego suave con aceite de oliva en otra cazuela.",
+			"Añadir la cebolla picada.",
+			"Picar el tomate y sumarlo. Dejar que se haga a fuego muy lento durante toda la cocción de los garbanzos, removiendo de vez en cuando. Cuando éstos estén hechos, añadir el pimentón al tomate, darle una vuelta y retirar del fuego.",
+			"Triturar el sofrito, añadirlo a los garbanzos y dejar cocer 2 o 3 minutos.",
+			"Añadir las espinacas y el bacalao y cocer 1 minuto más. Corregir de sal y dejar reposar fuera del fuego como mínimo unos 3 o 4 minutos.",
+			"Servir con gajos de huevo cocido."
+		]
+	},
+	{
+		"Title": "Olla Podrida",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"800 g de alubias rojas de Ibeas",
+			"300 g de panceta adobada",
+			"4 huevos",
+			"4 costillas de cerdo adobadas",
+			"1 manita de cerdo adobada",
+			"1 oreja adobada",
+			"1 chorizo",
+			"1 morcilla de Burgos",
+			"1/2 cebolla",
+			"5 dientes de ajo",
+			"Miga de pan",
+			"2 cucharadas de pimenton",
+			"Perejil",
+			"Aceite",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Dejar en remojo las carnes adobadas durante 12 horas.",
+			"Poner la alubia en agua fría, añadir media cebolla y dos dientes de ajo, tapar y hervir a fuego suave durante un par de horas.",
+			"En una olla rápida, cocer durante media hora la panceta, las costillas, las manitas y la oreja adobadas. Reservar y añadir el caldo a las alubias.",
+			"Para hacer el relleno, batir los huevos, añadir la miga de pan, un poco de ajo picado, un poco de perejil y tocino frito y picado. Mezclar todos y freír. Mientras se hace, enrollar en la sartén como si fuera una tortilla redondeada (cilindrica). Reservar.",
+			"Cuando falten 10 minutos para que las alubias estén cocidas, freír un par de ajos cortados en láminas. Cuando esté dorado, añadir el pimentón.",
+			"Sumar el aceite, los ajos y el pimentón, el chorizo y la morcilla a las alubias.",
+			"Servir las alubias en plato hondo con una piparra, y las carnes y el relleno en un plato aparte."
+		]
+	},
+	{
+		"Title": "Alubias blancas en salsa verde",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g de alubias blancas, cocidas y escurridas",
+			"Aceite de oliva",
+			"2 dientes de ajo picados",
+			"4 cucharadas de perejil picado",
+			"75 ml de vino blanco",
+			"200 ml de caldo de cocción de las alubias, de verduras o agua",
+			"Un pimiento choricero o media cucharadita de su pulpa",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Cubrir el fondo de la cazuela con una fina capa de aceite de oliva.",
+			"Calentar a fuego medio y añadir el ajo picado. Dejar que se dore ligeramente y agregar el perejil muy finamente picado.",
+			"Abrir el pimiento choricero y ponerlo en la cazuela con la pulpa hacia dentro, frotándolo contra el fondo con una cuchara de madera. En su defecto, añadir un poco de carne de pimiento choricero y remover.",
+			"Verter el vino blanco y dejar que hierva un par de minutos.",
+			"Echar las alubias a la cazuela, mover con cuidado la cazuela para esparcirlas sin que se rompan y agregar el caldo.",
+			"Mantener a fuego lento unos 10 minutos mientras se da a la cazuela un movimiento de suave vaivén para que la salsa ligue.",
+			"Probar el punto de sal, corregir si es necesario y servir inmediatamente."
+		]
+	},
+	{
+		"Title": "Lentejas con chorizo criollo",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"3 cucharadas de aceite de oliva",
+			"4 dientes de ajo",
+			"1 cebolla y media",
+			"2 chirivías tiernas",
+			"2 zanahorias tiernas",
+			"2 tomates",
+			"2 chorizos criollos",
+			"1/2 cucharadita de semillas de hinojo",
+			"1 cucharadita de pimentón ahumado",
+			"250 g de lentejas que no necesiten remojo (yo usé de Puy)",
+			"1 l -aproximadamente- de agua",
+			"4 cucharadas de vinagre al gusto",
+			"Perejil al gusto",
+			"Piparras (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pelar y picar la cebolla, y ponerla en una olla a fuego medio con el aceite y un poco de sal, removiendo de vez en cuando durante cinco minutos. Lavar bien raspándolos con un estropajo las zanahorias y las chirivías -o pelarlas-, cortarlas en rodajas por la parte más fina y cuarteadas y después en trozos por la parte más gruesa, y añadirlas a la olla junto con el chorizo criollo troceado. Dejar cocinar todo junto unos cinco minutos más, también removiendo de vez en cuando.",
+			"Añadir el tomate rallado, las semillas de hinojo, el pimentón, y el ajo picado y cocinar todo junto unos cinco minutos más (o hasta que el tomate haya reducido y el ajo esté cocinado). Añadir 750 ml del agua o fría -a temperatura ambiente-, las lentejas -lavadas en un bol con agua que cambiaremos dos veces y luego escurridas- y un poco de sal.",
+			"Mientras, pelar y picar la media cebolla restante y ponerla en un bol con el vinagre y un poco de sal para que pierda fuerza, no pique y quede ligeramente encurtida.",
+			"Llevar a ebullición durante unos 40 minutos a fuego medio y sin tapa, vigilando a partir de los 20 por si hubiera que añadir algo de líquido. Estarán listas cuando estén blandas, pero todavía enteras, con poco caldo que quedará bastante sabroso. Servir con perejil, la cebolla y, si se quiere, piparras enteras o picadas al gusto."
+		]
 	}
 ]
