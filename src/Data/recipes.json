@@ -1283,7 +1283,7 @@
 		]
 	},
 	{
-		"Title": "Pollo Almendras",
+		"Title": "Pollo con Almendras",
 		"Amount": "",
 		"Utility": "Thermomix",
 		"Tags": [
@@ -4942,7 +4942,7 @@
 		]
 	},
 	{
-		"Title": "Salsa de tomate picante:",
+		"Title": "Salsa de tomate picante",
 		"Amount": "",
 		"Utility": "Thermomix",
 		"Tags": [
@@ -6181,7 +6181,7 @@
 		"Amount": "10",
 		"Utility": "",
 		"Tags": [
-			""
+			"Postres"
 		],
 		"Type": "",
 		"Ingredients": [
@@ -6876,6 +6876,1100 @@
 			"Añadir el tomate rallado, las semillas de hinojo, el pimentón, y el ajo picado y cocinar todo junto unos cinco minutos más (o hasta que el tomate haya reducido y el ajo esté cocinado). Añadir 750 ml del agua o fría -a temperatura ambiente-, las lentejas -lavadas en un bol con agua que cambiaremos dos veces y luego escurridas- y un poco de sal.",
 			"Mientras, pelar y picar la media cebolla restante y ponerla en un bol con el vinagre y un poco de sal para que pierda fuerza, no pique y quede ligeramente encurtida.",
 			"Llevar a ebullición durante unos 40 minutos a fuego medio y sin tapa, vigilando a partir de los 20 por si hubiera que añadir algo de líquido. Estarán listas cuando estén blandas, pero todavía enteras, con poco caldo que quedará bastante sabroso. Servir con perejil, la cebolla y, si se quiere, piparras enteras o picadas al gusto."
+		]
+	},
+	{
+		"Title": "Arroz a banda con ali oli",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Principal"
+		],
+		"Type": "",
+		"Ingredients": [
+			"80 g de tomate triturado, (natural o en conserva)",
+			"40 g de cebolla",
+			"1 o 2 dientes de ajo",
+			"100g de aceite de oliva virgen extra",
+			"Una cucharadita de pimentón",
+			"200g de gambas o langostinos crudos",
+			"200g de arroz",
+			"750g de fumet/caldo de pescado (podéis hacerlo vosotros o comprarlo ya hecho)",
+			"Sal",
+			"Unas hebras de azafrán o 1/2 cucharadita de colorante"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon el tomate en el vaso, la cebolla, el ajo y los cuerpos de las gambas y programa 8 segundos, velocidad 6 para triturarlo.",
+			"Añade el aceite y sofríe 10 minutos, temperatura Varoma, velocidad cuchara.",
+			"Incorpora el pimentón y el arroz y rehoga programando 3 minutos, temperatura Varoma, velocidad cuchara.",
+			"Vierte en el vaso el fumet de pescado, la sal y el azafrán o colorante. Programa 13 minutos, 100º, giro a la izquierda, velocidad 1. Verifica el punto de sal. Vuelca en una fuente y sirve.",
+			"Si os gusta menos caldoso los últimos 13 minutos podéis hacerlo sin el cubilete."
+		]
+	},
+	{
+		"Title": "Receta de Garbanzos con chorizo",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Principal"
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 gramos garbanzos",
+			"150 gramos cebolla",
+			"1 diente ajo",
+			"40 gramos aceite",
+			"100 gramos chorizo",
+			"20 gramos vino blanco",
+			"1 cucharadita pimentón",
+			"1 cucharada maicena",
+			"400 gramos agua",
+			"1 pellizco sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos la cebolla y el ajo en el vaso de la Thermomix y troceamos 3 segundos a velocidad 5.",
+			"Añadimos el aceite y sofreímos programando 8 minutos a temperatura varoma y velocidad 1.",
+			"Añadimos el chorizo troceado y programamos 2 minutos a temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Sofrito para garbanzos con chorizo en Thermomix",
+			"Mientras se sofríe el chorizo diluimos la maicena en un vasito de agua fría y y cuando haya acabado el tiempo lo añadimos al vaso.",
+			"Añadimos el pimentón, y mezclamos durante 20 segundos a velocidad cuchara.",
+			"Incorporamos el agua, el vino blanco y la sal. Programamos 10 minutos a temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Añadimos los garbanzos y programamos 5 minutos más a temperatura varoma, giro a la izquierda y velocidad cuchara."
+		]
+	},
+	{
+		"Title": "Ensalada nórdica de salmon",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Ensalada",
+			"Verano"
+		],
+		"Type": "",
+		"Ingredients": [
+			"800 gramos agua",
+			"25 gramos aceite de oliva virgen extra",
+			"sal",
+			"300 gramos de salmón fresco",
+			"300 gramos arroz de grano largo",
+			"100 gramos salmón ahumado",
+			"1 aguacate",
+			"pimienta negra"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Salsa",
+			"Ingredients": [
+				"100 gramos aceite de oliva virgen extra",
+				"2 cucharadas mostaza de Dijon",
+				"2 cucharadas azúcar moreno",
+				"2 cucharadas vinagre",
+				"1 ramillete eneldo fresco (o media cucharada de eneldo seco)"
+			]
+		},
+		"Steps": [
+			"Para hacer la salsa:",
+			"1. Pon una jarra sobre el Thermomix, pesa el aceite y reserva.",
+			"2. Pon en el vaso la mostaza, el azúcar  y el vinagre y programa vel 5 sin programar tiempo. Con el cubilete puesto y algo de peso sobre este (un limón, por ejemplo), vierte el aceite sobre la tapa para que vaya cayendo poco a poco y emulsione la salsa (unos 30 seg).",
+			"3. Añade el eneldo picado y mezcla 5 seg / vel 3. Vuelca en una salsera y reserva en el frigorífico.  Para hacer el arroz y el salmón:  4. Sin lavar el vaso, pon el agua, el aceite y la sal. Introduce el cestillo en el vaso y programa  7 min / Varoma / vel 1. Mientras tanto, pon el salmón fresco (sin espinas) en la bandeja del varoma, sobre un papel de horno mojado y escurrido, espolvorea con sal, tapa y reserva.",
+			"5. Añade el arroz por el bocal, coloca el Varoma en su posición y programa 13 min / 100º / vel 4. Varias veces durante la cocción, retira el Varoma, mueve el arroz con la espátula a través del bocal y vuelve a colocar el Varoma en su posición.",
+			"6. Acabado el tiempo, retira el varoma, saca el cestillo con la espátula y deja templar el arroz.",
+			"7. Para emplatar, usa un aro y coloca primero el arroz, sobre este el salmón al vapor en dados, el aguacate en trocitos y el salmón ahumado en tiras. Por último riega con la salsa. Esta ensalada puede servirse templada o fría."
+		]
+	},
+	{
+		"Title": "Solomillo de cerdo con salsa al Pedro Ximenez",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Carne",
+			"Principal"
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 solomillo de 500 g aprox.",
+			"1 cucharada (tamaño sopa) de tomillo",
+			"125 g de cebolla",
+			"40 g de patata",
+			"25 g de aceite de oliva",
+			"100 g de vino Pedro Ximénez",
+			"200 g de agua",
+			"Sal",
+			"Pimienta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Limpiamos el solomillo retirando telillas y excesos de grasa. Salpimentamos y espolvoreamos con el tomillo. Lo envolvemos bien con film transparente y lo reservamos dentro del varoma.",
+			"Ponemos en el vaso la cebolla y la patata, ambas peladas y troceadas. Las picamos durante 4 segundos, velocidad 4. Bajamos los trocitos hacia las cuchillas.",
+			"Añadimos el aceite y pochamos durante 10 minutos, 120º, velocidad 1.",
+			"Vertemos el vino dulce y programamos 3 minutos, temperatura varoma, velocidad 1, sin cubilete para facilitar la evaporación del alcohol.",
+			"A continuación, añadimos el agua y salpimentamos. Colocamos el varoma en su posición y programamos 15 minutos, temperatura varoma, velocidad 1.",
+			"Transcurrido el tiempo, abrimos el varoma hacia el lado contrario a nosotros y le damos la vuelta al solomillo. Cerramos y continuamos la cocción durante 10 minutos, temperatura varoma, velocidad 1.",
+			"Terminado el tiempo, retiramos el varoma y con cuidado de no quemarnos retiramos el film transparente al solomillo. Vertemos los jugos en el vaso y trituramos 30 segundos, velocidad 10.",
+			"Cortamos el solomillo en trozos de entre 2 y 3 cm y los servimos regados con la salsa."
+		]
+	},
+	{
+		"Title": "Pollo con salsa de cacahuetes, coco, soja y miel",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"200 g de pechugas de pollo",
+			"100 g de cacahuetes fritos, con sal y sin piel",
+			"70 g de cebolla",
+			"2 dientes de ajo",
+			"1 cucharada sopera de cominos",
+			"25 g de aceite de oliva",
+			"100 g de leche de coco",
+			"100 g de salsa de soja",
+			"1 cucharada sopera de miel (20 g aprox.)",
+			"1 cucharadita (de las de café) de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos en el vaso los cacahuetes, el ajo y el comino. Trituramos durante 5 segundos a velocidad 7.",
+			"Añadimos 25 g de aceite de oliva y sofreímos la mezcla durante 3 minutos, 100º, velocidad 1.",
+			"Añadimos la cebolla a grandes trozos y troceamos 5 segundos a velocidad 5.",
+			"Bajamos los restos de las paredes del vaso con la espátula, le añadimos la leche de coco y programamos 3 minutos, 100º, velocidad 1. Con cubilete.",
+			"Mientras, troceamos las pechugas en tiras.",
+			"Añadimos la salsa de soja, la miel y la sal. Programamos 2 minutos, 100º, velocidad 1. Con cubilete.",
+			"Añadimos la pechuga y programamos 10 minutos, 100º, velocidad cuchara, giro a la izquierda. Con cubilete.",
+			"Quitamos el cubilete y programamos 5 minutos más, 100º, velocidad cuchara, giro a la izquierda. Sin cubilete."
+		]
+	},
+	{
+		"Title": "Pulled Pork",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"475 g de aguja de cerdo",
+			"30 g de azúcar moreno",
+			"15 ml de vinagre de manzana",
+			"40 ml de ketchup",
+			"15 ml de soja",
+			"15 ml de aceite",
+			"250 ml de agua",
+			"1 cebolla",
+			"2 ajos",
+			"1 guindillas",
+			"1 hoja de laurel",
+			"1 cucharadas de mostaza dijón",
+			"1 cucharadita de pimentón dulce"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Introducimos el azúcar, el vinagre, el kétchup, la soja, el aceite, el agua, la cebolla, el ajo, la guindilla, la mostaza y el pimentón, trituramos a velocidad 8 durante 1 minuto.",
+			"Añadimos la carne en tacos grandes y e laurel, programamos 90ºC, potencia de calor 5, velocidad 0 durante 5 horas.",
+			"Pasado este tiempo, retiramos la carne y programamos 110ºC, potencia de calor 7, velocidad 1 durante 15 minutos para reducir la salsa.",
+			"Mientras tanto, deshilachamos la carne con ayuda de dos tenedores. Cuando la salsa esté reducida mezclamos con la carne deshilachada.",
+			"Servimos con pan de hamburguesa, cebolla morada encurtida, pepinillos agridulces y lechuga con mayonesa cortada finamente."
+		]
+	},
+	{
+		"Title": "Marmitako de atún",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"50gr de aceite de oliva",
+			"100gr de pimiento verde",
+			"150gr de cebolla",
+			"100gr de tomate triturado*",
+			"2 dientes de ajo",
+			"Para el resto:",
+			"2 cucharadas de pimentón dulce*",
+			"800gr de patatas “chascadas” o troceadas como os explico arriba",
+			"70gr de zanahoria cortada en rodajas finitas",
+			"500 gr de agua",
+			"sal",
+			"300gr atún cortado en dados",
+			"Perejil picado"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso todos los ingredientes del sofrito y trocea 4 segundos en velocidad 4.",
+			"Sofríe durante 7 minutos, temperatura Varoma, velocidad 3 y medio.",
+			"Incorpora las dos cucharadas de pimentón y remueve programando 5 segundos en velocidad 3.",
+			"Pon en el vaso la mariposa y agrega las patatas y las zanahorias, rehoga 2 minutos, 100º, giro a la izquierda y velocidad cuchara.",
+			"Incorpora el agua y los calditos de pescado o sal y programa 25 minutos, Varoma, giro a la izquierda y velocidad cuchara.",
+			"Añade el atún cortado en dados y programa 3 minutos, varoma, giro a la izquierda y velocidad cuchara.",
+			"Cuando pare la máquina incorpora el perejil picado con una tijera. Deja reposar unos minutos."
+		]
+	},
+	{
+		"Title": "Tarta Cheesecake",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"150 gr. galletas (De canela, Digestive, María...)",
+			"75 gr. mantequilla fría",
+			"3 hojas gelatina (O 1/2 sobre en polvo)",
+			"350 gr. nata montar (100 gr. + 250 gr.)",
+			"75 gr. azúcar",
+			"350 gr. queso de untar o mascarpone (Yo pongo 250 mascarpone y 100 de untar).",
+			"Cobertura: 2 hojas gelatina  y 200 gr. mermelada (Fresa, frutos rojos....) "
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Triturar las galletas con golpes de turbo. Añadir la mantequilla en trozos, 3 min. 80º, vel.3. Forrar la base de un molde desmontable, que no exceda de 23 cm., o moldes de emplatar individuales, alisando bien con el anverso de una cuchara. Llevar a la nevera.",
+			"Remojar las 3 láminas de gelatina en agua fría, 5 minutos.",
+			"Sin lavar el vaso, calentar 100 gr. de nata con el azúcar y la gelatina bien escurrida 3 min. 80º, vel.1.",
+			"Añadir el resto de nata (250 gr.) y el queso, mezclar 10 seg. vel.5. Volcar sobre la base y llevar unas 3 horas mínimo a la nevera, hasta que solidifique.",
+			"Remojar 2 láminas en agua fría 5 minutos. Calentar la mermelada en el microondas, añadir la gelatina bien escurrida y mezclar bien. Cubrir la tarta y llevar a la nevera otra hora.",
+			"Sacar de la nevera 10 minutos antes de servir, está más rica."
+		]
+	},
+	{
+		"Title": "Arroz con atún",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"3 latas pequeñas (de 80 g cada una) de atún en aceite de oliva",
+			"3 dientes de ajo",
+			"100-120 g de pimiento rojo en trozos",
+			"100-120 g de pimiento verde en trozos",
+			"350 g de arroz de grano redondo",
+			"50 g de vino blanco",
+			"1 pellizco de colorante alimentario (opcional)",
+			"800 g de agua caliente",
+			"1 pastilla de caldo concentrado de pescado",
+			"1 cucharada de perejil fresco picado"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Colamos al atún a través de un colador colocado sobre un bol y reservamos también el aceite.",
+			"En el vaso de la Thermomix ponemos los dientes de ajo, el pimiento rojo, el pimiento verde y el aceite reservado de escurrir el atún. Programamos 3 segundos, a velocidad 5. Con la espátula, bajamos los restos de verdura que hayan quedado en las paredes y tapa del vaso hacia las cuchillas.",
+			"Sofreímos durante 6 minutos, temperatura 120º y velocidad 1.",
+			"Incorporamos el arroz y rehogamos durante 1 minuto, temperatura 120º, giro a la izquierda y velocidad 1.",
+			"Añadimos el vino blanco y, sin poner el cubilete, programamos 1 minuto, temperatura varoma, giro a la izquierda y velocidad 1.",
+			"Agregamos el colorante, agua caliente y la pastilla de caldo. Programamos 10 minutos, temperatura 100º, giro a la izquierda y velocidad 1.",
+			"Vertemos en un fuente o bol grande y añadimos el atún desmenuzado. Mezclamos con la espátula, dejamos reposar un par de minutos, espolvoreamos con el perejil picado y servimos."
+		]
+	},
+	{
+		"Title": "Ensalada marroquí de zanahorias",
+		"Amount": "6",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g Agua",
+			"500 g Zanahoria pelada y cortada en rodajas finas",
+			"1 Diente de ajo",
+			"1 cucharadita Pimentón dulce",
+			"1 cucharadita Comino molido",
+			"1 pizca Canela molida",
+			"1 cucharadita Pimienta de cayena molida",
+			"1 pellizco Azúcar",
+			"100 ml Aceite de oliva virgen extra",
+			"30 ml Zumo de limón",
+			"1 cucharadita Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Empezamos poniendo el agua en el vaso. Situamos el recipiente Varoma en su posición con las zanahorias, tapamos y programamos 20 min/Varoma/vel1.",
+			"Retiramos el Varoma y vertemos las zanahorias en un bol. Vaciamos el vaso.",
+			"Ponemos en el vaso el ajo, el pimentón, el comino, la canela, la pimienta de cayena, el azúcar y trituramos10 seg/vel 7.",
+			"Añadimos el aceite, el zumo de limón y la sal y mezclamos 10 seg/vel 3",
+			"Vertemos esta mezcla sobre las zanahorias y mezclamos bien con una cuchara. Dejamos macerar mientras enfría y servimos."
+		]
+	},
+	{
+		"Title": "Arroz amarillo con pollo",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"100 g de aceite de oliva",
+			"2 dientes de ajo",
+			"500 g de pechuga o contramuslos de pollo, cortados en dados",
+			"70 g de zanahoria, pelada y cortada en trocitos pequeños",
+			"140 g de pimiento verde, cortado en trocitos pequeños",
+			"140 g de pimiento rojo, cortado en trocitos pequeños",
+			"850 g de caldo de ave",
+			"sal",
+			"1 pellizco de pimentón",
+			"¼ cucharadita de colorante alimentario",
+			"350 g de arroz de grano corto",
+			"100 g de guisantes (en conserva) al natural, escurridos"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos el aceite y los ajos en el vaso de la Thermomix. Troceamos durante 5 segundos, a velocidad 6. Seguidamente, programamos 3 minutos, temperatura varoma y velocidad 1.",
+			"Añadimos el pollo en dados y programamos 5 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Incorporamos la zanahoria y los pimientos y programamos 6 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Agregamos el caldo, el pimentón, el colorante y un puñadito de sal. Programamos 9 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara.",
+			"Echamos el arroz por el bocal y programamos 14 minutos, temperatura 100º, giro a la izquierda y velocidad cuchara.",
+			"Cuando falten 3 minutos para el final, agregamos los guisantes por el bocal.",
+			"Volcamos en una fuente, dejamos reposar durante 3 minutos y servimos."
+		]
+	},
+	{
+		"Title": "Quesada pasiega",
+		"Amount": "8",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"250 g de queso de Burgos",
+			"500 ml de leche entera",
+			"2 huevos medianos",
+			"270 g de azúcar",
+			"la ralladura de un limón",
+			"1 cucharadita de canela molida",
+			"100 g de mantequilla a temperatura ambiente y un poco más para engrasar el molde",
+			"150 g de harina de repostería (Sin gluten: 100gr de harina de arroz+50 gr de maicena)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Precalienta el horno a 180º con calor arriba y abajo y mientras engrasa un molde desmoldable con mantequilla o una fuente redonda o en su lugar usad papel de horno para poder desmoldar la quesada sin problemas.",
+			"Pon en el vaso el queso de Burgos y tritura 10 segundos en velocidad 5.",
+			"Agrega la leche, huevos, azúcar, la ralladura de limón y la canela, y mezcla 30 segundos en velocidad 6.",
+			"Incorpora la mantequilla a temperatura ambiente o derretida y mezcla 15 segundos en velocidad 4.",
+			"Agrega la harina y programa 20 segundos en velocidad 6.",
+			"Vierte la mezcla en el molde engrasado y hornea 1 hora a 180ºC con calor arriba y abajo ó hasta que esté cuajada. Deja enfriar y guarda en la nevera"
+		]
+	},
+	{
+		"Title": "Pisto",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"150 gr de pimiento rojo en trozos",
+			"150 gr de pimiento verde en trozos",
+			"300 gr de cebolla cortada en cuartos",
+			"300 gr de calabacin sin pelar, lavado y en trozos medianos",
+			"60 gr de aceite de oliva virgen extra",
+			"500 gr de tomate triturado",
+			"1 cucharadita sal",
+			"1 pizca de azucar",
+			"1 pizca de pimienta negra molida"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos en el vaso los pimientos y la cebolla y programamos 4 segundos, velocidad 4. Reservamos todo en el cestillo.",
+			"Troceamos el calabacín programando 2 segundos, velocidad 4.",
+			"Añadimos el aceite y las verduras reservadas. Programamos 15 minutos, temperatura Varoma, giro a la izquierda, velocidad cuchara.",
+			"Incorporamos el tomate, la sal y la pimienta y la pizca de azucar y programamos 20 minutos, temperatura Varoma, giro a la izquierda, velocidad cuchara."
+		]
+	},
+	{
+		"Title": "Salsa Brava",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"Media cebolla.",
+			"30 gr. de aceite de oliva virgen",
+			"25 gr. de harina corriente,",
+			"3 cucharaditas de pimentón dulce La Chinata",
+			"1 cucharadita de pimentón picante La Chinata.",
+			"250 gr. de caldo casero de cocido."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Introducimos en el vaso de la thermomix la media cebolla y el aceite y programamos 3 minutos, temperatura varoma, velocidad 4.",
+			"Añadimos en el vaso de la thermomix la harina. Programamos temperatura varoma, 3 minutos, velocidad 3. Veremos que la harina se ha tostado y debe haber perdido el sabor a crudo.",
+			"Con la thermomix parada, añadimos el pimentón dulce y picante y programamos 1 minuto, temperatura varoma, velocidad 3.",
+			"Incorporamos el caldo previamente calentado y programamos 8 minutos, temperatura 100º, velocidad 3, sin el cubilete puesto para que evapore y la salsa se espese."
+		]
+	},
+	{
+		"Title": "Arroz caldoso con pollo",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"500 g de pollo deshuesado y sin piel en trozos",
+			"2 dientes de ajo",
+			"100 g de pimiento rojo",
+			"100 g de pimiento verde",
+			"2 tomates maduros",
+			"50 g de aceite de oliva virgen extra",
+			"Media cucharadita de pimentón dulce",
+			"1 litro de caldo de ave",
+			"200 g de arroz redondo Sabroz®",
+			"200 g de judias verdes congeladas",
+			"Sal al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon los tomates en cuartos y trocea 5 segundos en velocidad 5. Retira y reserva.",
+			"Vierte en el vaso los ajos, los pimientos y el aceite y trocea 5 segundos en velocidad 5, ahora sofríe 10 minutos, 120ºC o Varoma, velocidad 2.",
+			"Incorpora el pollo en trozos y rehoga 5 minutos, 120ºC o Varoma, giro a la izquierda y velocidad cuchara.",
+			"Agrega el tomate triturado y cocina 5 minutos, Varoma, giro a la izquierda y velocidad cuchara. Añade el pimentón y mezcla 30 segundos, Varoma, giro a la izquierda y velocidad cuchara.",
+			"Vierte el caldo de ave y la sal al gusto y programa 10 minutos, 100ºC giro a la izquierda y velocidad cuchara.",
+			"Solo queda verter el arroz y las judías y cocinar 13 minutos, 100ºC, giro a la izquierda y velocidad cuchara. Sirve en una fuente inmediatamente y a comer. Listo."
+		]
+	},
+	{
+		"Title": "Bacalao dorado",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400-500 g de bacalao desalado desmigado",
+			"400 g de cebolla cortada en juliana",
+			"1 diente de ajo picado",
+			"100 ml de aceite de oliva virgen extra",
+			"5-6 huevos medianos",
+			"40 ml de nata (opcional)",
+			"Además:",
+			"200 g de patatas paja",
+			"80 g de aceitunas negras para decorar",
+			"Perejil picado para espolvorear",
+			"1 sartén de 24-26 cm de diámetro alta"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon la mariposa dentro del vaso, vierte la cebolla, el ajo picadito y el aceite y cocina 16 minutos, 120ºC o Varoma, velocidad 1.",
+			"Añade el bacalao desalado y cocina 3 minutos, Varoma, giro a la izquierda y velocidad 1.",
+			"Pon una sartén al fuego y vierte en ella todo el preparado del vaso. Termina de cocinar a fuego medio-alto y deja evaporar parte del caldo que ha soltado.",
+			"Mientras tienes la sartén al fuego, retira la mariposa, vierte los huevos y la nata en el vaso y bate 8 segundos en velocidad 3.",
+			"Vierte en la sartén las patatas paja y remueve hasta repartirlas entre el bacalao. Agrega encima los huevos batidos con la nata, remueve y cocina. En cuanto veas que empieza a cuajar el huevo, apaga el fuego para que no se seque y quede una mezcla jugosa.",
+			"Añade las aceitunas y el perejil picadito y sirve inmediatamente."
+		]
+	},
+	{
+		"Title": "Linguini con salmón ahumado y cintas de calabacín con salsa nórdica",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"350 g de linguini o espaguetis",
+			"1 calabacín con su piel, muy bien lavado",
+			"200 g de salmón ahumado en trocitos",
+			"500 g de nata para montar",
+			"Sal",
+			"Pimienta",
+			"1/2 cucharadita de nuez moscada",
+			"Una pizca de ajo en polvo",
+			"2 cucharaditas pequeñas de mostaza",
+			"1 cucharada grande de eneldo fresco (se puede sustituir por seco)",
+			"1/2 cucharadita de azúcar",
+			"Zumo de 1/2 limón"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos en el vaso 1.500 g de agua, con una pizca de sal y un chorrito de aceite. Calentamos 10 minutos, temperatura 100º, velocidad cuchara.",
+			"Añadimos la pasta por el bocal y programamos el tiempo que indique el paquete, que serán entre 12-15 minutos, temperatura 100º, velocidad cuchara, giro a la izquierda.",
+			"Mientras se cuece la pasta, con un pelador o mandolina (o con mucha maña con un cuchillo bien afilado) cortamos el calabacín en tiras muy finas. Cogemos una olla amplia, wok o sartén profunda (lo suficiente para que nos quepa después toda la pasta con su salsa), añadimos un chorrito de aceite y salteamos rápidamente a fuego fuerte el calabacín.",
+			"Escurrimos los linguini, reservamos y desechamos el agua de cocción.",
+			"Sin lavar el vaso, ponemos la nata, sal y pimienta al gusto, nuez moscada, ajo en polvo, mostaza, eneldo, azúcar y limón. Programamos 8 minutos, temperatura 100º, velocidad 2.",
+			"Ponemos en la olla con el calabacín los linguini, el salmón ahumado y la salsa nórdica. Removemos bien y cocinamos en la olla durante 1 minuto."
+		]
+	},
+	{
+		"Title": "Bizcocho de zanahoria",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"200 g zanahorias peladas (cortadas en 2 o 3 trozos)",
+			"160 g azúcar (la receta original lleva 200 gr)",
+			"2 huevos",
+			"120 g aceite de girasol",
+			"1 chorrito vainilla o azúcar vainillado",
+			"120 g harinas de repostería",
+			"1 cucharadita bicarbonato",
+			"1/2 cucharadita canela",
+			"1/2 cucharadita levadura química",
+			"1/2 cucharadita sal",
+			"100 g nueces picadas gruesas",
+			"1 cucharada colmada azúcar glass"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso las zanahorias y programa 5 seg/ vel. 5.",
+			"Agrega el azúcar, los huevos, el aceite y la vainilla. Mezcla 5 seg/ vel. 5.",
+			"Añade la harina, el bicarbonato, la canela, la levadura, la sal y las nueces. Programa 6 seg/ vel. 4. Termina de mezclar con la espátula.",
+			"Engrasa un molde de bizcocho y vierte en el la preparación del vaso.",
+			"Introduce en el horno precalentado a 180 grados con calor arriba y abajo y hornea durante 30 – 35 minutos. Comprueba con una aguja que el centro del bizcocho está bien hecho, si sale seca puedes retirarlo del horno.",
+			"Deja enfriar y espolvorea con el azúcar glass."
+		]
+	},
+	{
+		"Title": "Tarta la Viña",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 kilo de queso de untar",
+			"500 ml de nata con un 35,1% de materia grasa",
+			"6 huevos L ó 7 huevos M",
+			"350-400 g de azúcar blanquilla -cantidad al gusto-",
+			"30 g de harina de trigo o maicena* si eres celíaco"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Precalienta el horno a 200ºC con calor arriba y abajo y mientras forra un molde con papel de horno humedecido -así es más fácil de manejar-, o unta con mantequilla o usa spray desmoldante.",
+			"Pon en el vaso de la Thermomix® todos los ingredientes de la tarta y mezcla 30 segundos en velocidad 5-6.",
+			"Vierte dentro del molde y hornea 40-50 minutos a 200º-210C con calor arriba y abajo. Vigila el horno en los últimos minutos que cada horno es un mundo :D. Deja templar dentro del horno con la puerta entreabierta unos minutos y retira, desmolda y sirve ya a temperatura ambiente con miel, mermelada, o a tu gusto."
+		]
+	},
+	{
+		"Title": "Hummus de Lentejas",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 diente de ajo",
+			"40 gr de semillas de sésamo tostado (o tostadas en la sartén)",
+			"10 almendras crudas sin piel",
+			"1 cucharadita de comino molido",
+			"30 gr de zumo de lima o limón",
+			"1 pellizco de clavo molido (opcional)",
+			"70 gr de aceite de oliva virgen extra",
+			"400 gr de lentejas cocidas de bote, lavadas y escurridas",
+			"1 cucharadita de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon todos los ingredientes en el vaso excepto los que son para decorar y tritura 30 segundos en velocidad 5-10. Baja los restos de las paredes con la espátula y vuelve a triturar 30 segundos en velocidad 5-10. Debe quedar uniforme.",
+			"Sirve en un plato rociado con aceite de oliva, cebolleta cortada muy finita y unas hojas de cilantro picado. Acompaña de pan, tostaditas, palitos de pan, etc..."
+		]
+	},
+	{
+		"Title": "Carrilleras al Pedro Ximénez",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"200 gr. cebolla",
+			"100 gr. puerro (Sólo la parte blanca)",
+			"60 gr. zanahoria",
+			"75 gr. tomate nat. triturado",
+			"50 gr. aceite",
+			"800-1.000 gr. carrilleras (6-8 piezas)",
+			"sal",
+			"pimienta",
+			"125 gr. Pedro Ximénez",
+			"250 gr. vino tinto",
+			"2 hojas laurel",
+			"romero y tomillo",
+			"150 gr. caldo carne"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Picar la cebolla, puerro y zanahoria, 2 seg. vel.5. Bajar restos hacia las cuchillas, añadir el tomate y aceite, 12 min., Varoma, vel. cuchara.",
+			"Agregar las carrilleras salpimentadas, 5 min., Varoma, giro izda, vel. cuchara.",
+			"Vino Pedro Ximénez, tinto, laurel, romero y tomillo y caldo de carne, 60 min., 100º, giro izda, vel, cuchara. Quitar el cubilete, colocar el cestillo en su lugar para evitar salpicaduras y otros 10 min., Varoma, giro izda., vel. cuchara.",
+			"Sacar las carrilleras, retirar las hojas de laurel y triturar la salsa, 1 min. vel. 10. Servir bien calientes."
+		]
+	},
+	{
+		"Title": "Merluza con verduras al vapor",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 cucharada de aceite",
+			"4 filetes de merluza (procuramos que sean del mismo grosor)",
+			"sal y pimienta",
+			"2 dientes de ajo",
+			"1 cucharadita de orégano",
+			"30 g de aceite de oliva",
+			"300 g de agua",
+			"50 g de vino banco",
+			"½ pastilla de caldo de pescado",
+			"1 patata pelada y cortada en rodajas de 0,5 cm",
+			"1 calabacín sin pelar y cortado en rodajas de 0,5 cm",
+			"100 g de cebolla cortada en aros finos",
+			"1 tomate cortado en rodajas finas"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pincelamos el recipiente varoma con aceite y colocamos los filetes de merluza, espolvoreándolos con sal, pimienta y orégano. Tapamos y reservamos.",
+			"Ponemos en el vaso el aceite y los ajos. Programamos 5 segundos, velocidad 7 y sofreímos programando 5 minutos, temperatura varoma, velocidad 1.",
+			"Añadimos al vaso el agua, el vino blanco y la media pastilla de caldo de pescado. Colocamos la verdura en el cestillo, intercalando capas de patatas, calabacín, cebolla y tomate.",
+			"Introducimos el cestillo dentro del vaso y colocamos el recipiente varoma en su posición. Programamos 25 minutos, temperatura varoma, velocidad 1.",
+			"Al terminar sacamos el cestillo y colocamos en una fuente la verdura espolvoreamos con sal y colocamos el pescado encima, rociamos con un poquito del caldo y si nos agrada le echamos un chorrito de aceite de oliva virgen extra por encima."
+		]
+	},
+	{
+		"Title": "Pollo al curry",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 kg Pollo en pechugas o contramuslos deshuesados",
+			"150 g Cebolla",
+			"3 Diente de ajo",
+			"400ml Leche de coco",
+			"300g Tomates en conserva natural",
+			"3 Curry molido cucharadas",
+			"Cúrcuma molida una pizca",
+			"Comino molido una pizca",
+			"Jengibre molido una pizca",
+			"Sal",
+			"Pimienta negra molida"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos la cebolla y el ajo en la Thermomix y troceamos 5 segundos a velocidad 5. Añadimos el aceite y sofreímos 7 minutos a temperatura varoma y velocidad 2.",
+			"Mientras, troceamos el pollo en dados y apartamos. Una vez se haya sofrito el ajo y la cebolla, añadimos el tomate pelado en lata y trituramos 10 segundos a velocidad 4.",
+			"Después añadimos el pollo troceado, la leche de coco (hemos probado varias leches de coco y son muy distintas, la que más nos gusta es la de Mercadona con diferencia), dos cucharadas de curry amarillo y una de curry rojo que es el que pica, si nos gusta. Si no quieres picante, añade media cucharada más de curry amarillo. Además, añadimos un poco de cúrcuma y comino. La puntita de una cucharita pequeña y un poco de gengibre molido. Y programamos 17 minutos, a 100 grados y velocidad 1. Y ya está listo un curry delicioso."
+		]
+	},
+	{
+		"Title": "Albóndigas salsa almendras",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"600 gr. carne picada mezcla",
+			"30 gr. pan rallado",
+			"2 dientes de ajo",
+			"1 cucharadita de sal",
+			"1 huevo l",
+			"perejil y pimienta",
+			"30 gr. aceite",
+			"50 gr. almendras crudas",
+			"1 ajo gordo",
+			"pereil",
+			"75 gr. vino blanco",
+			"colorante",
+			"30 gr. pan (del fresco)",
+			"400 gr. agua",
+			"1/2 cucharadita de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"ajos y perejil 5 seg, vel.5. añadir la carne, sal, pimienta, pan rallado y huevo, 4 seg, vel. 5. formar las albondiguitas, no hace falta rebozarlas, se hacen perfectamente y quedarán más jugositas. colocarlas en el cestillo y reservar.",
+			"*salsa: calentar el aceite 5 min. varoma, vel.1.",
+			"añadir el pan en taquitos, las almendras, el ajo en láminas y el perejil. sofreír 6 min. varoma, vel. cuchara.",
+			"añadir el vino blanco y triturar 20 seg. vel. 5-7-10.",
+			"agregar el agua, colorante  y sal, colocar el cestillo y cocer 20 min. varoma, vel.2",
+			"sacar el cestillo, volcar en una olla, y triturar la salsa, con cuidado de no quemarse por el vapor, 10 seg. vel.5-7-10. echarla en la olla y dar un hervor de 3 ó 4 minutos,  veréis que aroma."
+		]
+	},
+	{
+		"Title": "Salmon con salsa de queso manchego",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"250 g de queso curado",
+			"350 g de leche entera",
+			"500 g de patatas en trozos o rodajas.",
+			"Espárragos  verdes (un manojo). También pueden ser congelados.",
+			"1 chorrito de aceite",
+			"Dos lomos de salmón  fresco sin piel (700 g) salpimentados.",
+			"1 pellizco de eneldo."
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponga el queso en el vaso y ralle 10 seg/ vel 10.",
+			"Añada la leche e introduzca el cestillo en el vaso con las patatas. Sitúe  el recipiente  varoma en su posición  y coloque los espárragos.  Tape el varoma y programe 10 min/ Varoma/ vel 3. Mientras tanto, unte la bandeja Varoma con aceite y coloque los lomos de salmón.",
+			"Destape el Varoma y coloque la bandeja Varoma. Tape de nuevo y programe 20 min/ varoma/ vel 3. Retire el varoma y con la  mueca de la espátula retire el cestillo. Coloque las patatas en una fuente y ponga encima el salmón y riegue con la salsa del vaso. Espolvorée  con el eneldo y sirva acompañado de los espárragos."
+		]
+	},
+	{
+		"Title": "Garbanzos con setas o callos veganos",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g de garbanzos cocidos de bote",
+			"40 g de aceite de oliva virgen extra",
+			"300 g de cebolla cortada en cuartos",
+			"2 dientes de ajo",
+			"1 cucharadita de pimentón dulce",
+			"400 g de setas cardo cortada en tiras",
+			"½ cayena -al gusto-",
+			"100 g de tomate frito",
+			"1 cucharadita de comino",
+			"Sal y pimienta al gusto",
+			"350 g de caldo de verduras o agua"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso el aceite, la cebolla cortada en cuartos y los dientes de ajo pelados y trocea 4 segundos en velocidad 4. Sofrie 10 minutos, 120ºC o Varoma, velocidad 1. Mientras abre el bote de garbanzos, vierte en el varoma, lava y deja escurrir, reserva.",
+			"Coloca en el vaso la mariposa y añade el pimentón y las setas cortadas en tiras y cocina 2 minutos, 120ºC o Varoma, giro a la izquierda y velocidad cuchara.",
+			"Incorpora la cayena, el tomate frito, el comino, la sal y la pimienta y el caldo. Coloca el Varoma con la tapa en su posición y cocina 12 minutos, Varoma, giro a la izquierda y velocidad cuchara.",
+			"Ya solo falta que añadas al vaso los garbanzos calentitos del Varoma y termines de mezclar 2-3 minutos, 100ºC giro a la izquierda y velocidad 1."
+		]
+	},
+	{
+		"Title": "Bacalao con tomate y papas panaderas",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"100 g cebollas",
+			"2 dientes de ajo",
+			"150 g aceite de oliva virgen extra",
+			"800 g tomate triturado",
+			"1 cucharadita azúcar",
+			"1 cucharadita sal",
+			"1 pellizco pimienta",
+			"6 lomos de bacalao",
+			"100 g agua",
+			"600 g patatas"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponga en el vaso la cebolla y el ajo y trocee 4 segundos, velocidad 4.  Con la espátula, baje los restos de verduras de la tapa y del interior del vaso hacia las cuchillas.",
+			"Añada 50g de aceite y sofría programando 5 minutos, temperatura varoma, velocidad 1.",
+			"Agregue el tomate, el azúcar y la sal y programe 25 minutos, temperatura, varoma, velocidad 1. Coloque el cestillo apoyado en sus 4 patitas sobre la tapa para evitar salpicaduras.",
+			"Engrase el recipiente Varoma con aceite y coloque el bacalao (con la piel hacia arriba). Asegúrese de que algunos de los agujeros queden descubiertos para que pueda pasar el vapor.",
+			"Retire el cestillo, sitúe el recipiente Varoma en su posición y programe 6 minutos, temperatura varoma, velocidad 1. Retire el recipiente Varoma y vierta la salsa en una bandeja de horno. Reserve.",
+			"Con el vaso limpio y seco, coloque la mariposa en las cuchillas, vierta en el vaso el resto del aceite (100g) y el agua. Programe 4 minutos, temperatura varoma,giro a la izquierda, velocidad cuchara.",
+			"Incorpore las patatas, los pimientos y la sal. Programe 13 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+			"Retire la mariposa. Vuelque las patatas en el cestillo colocado sobre un bol para que escurra.",
+			"Prepare una lactonesa",
+			"Ponga las patatas y los pimientos sobre la salsa de tomate, coloque encima los lomos de bacalao y vierta sobre cada uno, una cucharada de lactonesa.",
+			"Gratínelo unos minutos, hasta que la lactonesa adquiera un color dorado.",
+			"Sugerencia: puede montar el plato en cazuelitas individuales y gratinar"
+		]
+	},
+	{
+		"Title": "Arroz con espárragos",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 manojo de espárragos verdes",
+			"1 litros de caldo de ave",
+			"50 g de aceite de oliva",
+			"350 g de arroz",
+			"50 g de vino blanco",
+			"30 g de mantequilla",
+			"un poco de queso rallado",
+			"sal y pimienta blanca recién molida"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Lavamos los espárragos y cortamos la parte más blanca, quedándonos únicamente con la parte verde. Los vertemos en el vaso junto con la cebolla y programamos 5 seg/vel 5.",
+			"Añadimos el aceite y programamos 5 min/120ºC/vel 1.",
+			"Vertemos el arroz y programamos 3 min/120ºC/vel cuchara con giro a la izquierda.",
+			"Añadimos ahora el vino y ponemos el cestillo en lugar del cubilete. Programamos 1 min/temp Varoma/vel cuchara con giro a la izquierda.",
+			"Agregamos el caldo y programamos 35 min/100ºC/vel cuchara con giro a la izquierda.",
+			"Sacamos el arroz y lo ponemos en una fuente. Añadimos  la mantequilla y removemos suavemente. Añadimos el queso rallado al gusto en cada plato."
+		]
+	},
+	{
+		"Title": "",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			""
+		],
+		"Type": "",
+		"Ingredients": [
+			"2 dientes ajo",
+			"3-4 ramitas perejil fresco -solo hojas-",
+			"60 g aceite oliva virgen extra",
+			"250 g calabaza en dados",
+			"1 sobre azafrán",
+			"900 g caldo de ave",
+			"sal",
+			"300 g arroz",
+			"50 g queso rallado",
+			"beicon ahumado o jamón en taquitos para decorar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponga en el vaso el ajo y el perejil y programe 5 seg / vel 5.",
+			"Con la espátula baje los ingredientes hacia el fondo del vaso. Incorpore el aceite y los dados de calabaza y programe 6 min / Varoma / Giro inverso / vel Velocidad cuchara",
+			"Añada el azafrán y el caldo y programe 10 min / 100º / Giro inverso / vel Velocidad cuchara.",
+			"Añada el arroz a través del bocal y programe 13 min / 100º / Giro inverso / vel Velocidad cuchara.",
+			"Cuando falten 3 minutos incorpore el queso rallado por el bocal. Mientras tanto, ponga el beicon en el microondas, entre hojas de papel absorbente de cocina, hasta que esté crujiente (entre 1 y 3 minutos según la potencia del microondas).",
+			"Vierta el arroz en una fuente, deje reposar 2 minutos y sirva decorado con el beicon y perejil"
+		]
+	},
+	{
+		"Title": "Bacalao espiritual",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Pescado"
+		],
+		"Type": "",
+		"Ingredients": [
+			"2 unidades Patatas para freir, Cortadas en juliana o 200 g Patatas paja",
+			"250 g aceite de oliva, Para freir",
+			"200 g cebolla, Cortada en cuartos",
+			"2 dientes ajo",
+			"200 g zanahoria, Troceada",
+			"500 g Bacalao en salazón, Desalado, sin piel ni espinas",
+			"50 g pan blanco",
+			"50 g leche"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Bechamel",
+			"Ingredients": [
+				"300 g leche",
+				"200 g nata liquida de cocinar",
+				"60 g harina de repostería",
+				"60 g mantequilla",
+				"1 pellizco pimienta negra molida",
+				"1 pellizco nuez moscada",
+				"1 pellizco sal, Ojo con la sal contenida en el bacalao y con la que trae las patatas paja de paquete.",
+				"3 cucharadas pan, Rallado"
+			]
+		},
+		"Steps": [
+			"Fria las patatas paja en una sarten con abundante aceite caliente. Retire sobre papel absorbente y reserve. (si las vas a preparar con las de paquete salta este paso)",
+			"Ponga en el vaso la cebolla, los ajos, la zanahoria y 80 g del aceite donde has frito las patatas y trocee 10 seg/vel 5.",
+			"Situa el recipiente Varoma en su position con el bacalao y programe 15 min/Varoma/vel Velocidad cuchara . Mientras tanto, ponga en un bol el pan y la leche.",
+			"Retire el Varoma, rehogue el contenido del vaso5 min/Varoma/vel Velocidad cuchara y, mientras tanto, desmenuce el bacalao. ",
+			"Añada en el vaso el bacalao y el pan mojado en la leche y mezcle 5 seg/vel 3.Vuelque en una fuente refractaria y reparta las patatas paja fritas por encima. Reserve.",
+			"Precaliente el horno con grill a 180°C.",
+			"Bechamel",
+			"Sin lavar el vaso, vierta la leche, la nata, la harina, la mantequilla, la sal, la pimienta y la nuez moscada y mezcle 5 seg/vel 4. Despues, programe 8 min/90°C/vel 3. Vierta la bechamel en la fuente reservada con las patatas, el bacalao y las verduras.",
+			"Espolvoree la superficie con el pan rallado y unos trocitos de mantequilla y gratine durante 10 minutos o hasta que la superficie este dorada. Sirva inmediatamente."
+		]
+	},
+	{
+		"Title": "Paté de pescado",
+		"Amount": "",
+		"Utility": "",
+		"Tags": [
+			"Entrante"
+		],
+		"Type": "",
+		"Ingredients": [
+			"400 g palitos de cangrejo",
+			"5 huevos",
+			"200 g bonito o 3 lata mejillones (escurridos)",
+			"400 g leche, evaporada",
+			"6 pimientos del piquillo, escurridos",
+			"5g sal",
+			"1 pellizco pimienta",
+			"salsa mayonesa , o salsa rosa"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Forre con film transparente un molde de plum-cake de unos 31 x 12 cm, aproximadamente. Reserve.",
+			"Ponga los palitos de cangrejo en el vaso y trocéelos programando 4 segundos, velocidad 4. Retire la mitad y reserve.",
+			"Añada los huevos, el atún, la leche, los pimientos, la sal y la pimienta y programe 7 minutos, 90º,  velocidad 5.",
+			"Añada los palitos de cangrejo troceados y reservados, mezcle bien con la espátula y vierta la mezcla en el molde (déle unos golpes sobre la mesa para que no queden burbujas). Déjelo enfriar en el frigorífico durante 2 horas como mínimo.",
+			"Desmóldelo y sírvalo con mayonesa o salsa rosa"
+		]
+	},
+	{
+		"Title": "Salsa Española",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Salsas"
+		],
+		"Type": "",
+		"Ingredients": [
+			"70 g aceite de oliva virgen extra",
+			"100 g de cebolla",
+			"50 g de zanahorias",
+			"2 dientes de ajo",
+			"100 g de vino blanco",
+			"30 de salsa de tomate frito",
+			"500 gramo de caldo de carne",
+			"1 pellizcos de nuez moscada",
+			"Sal,pimienta blanca",
+			"30 gramos O medio. Cubilete de salsa de soja"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos las verduras en el Vaso cerrado y trituramos un poco a vel 5. Echamos el aceite y bajamos con la espátula los restos hacia las cuchillas. programamos 10 min/ Varoma/ vel1.",
+			"Añadimos el vino la salsa de tomate y medio cubilete de salsa de soja, el caldo, las especias,programamos 10 min/100C/ vel1.",
+			"En este punto podemos triturar unos seg Vel 5. Si queremos la salsa fina.",
+			"Al terminar la cocción probamos de sazón y rectificamos si hace falta."
+		]
+	},
+	{
+		"Title": "Emblanco de pescado",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Pescado"
+		],
+		"Type": "",
+		"Ingredients": [
+			"300 gr de pescado blanco (rosada,pescadilla,etc)",
+			"1 tomate maduro",
+			"1 cebolla mediana",
+			"1 pimiento verde, mediano.",
+			"600 gr de patatas peladas y cortadas en rodajas de 1 cm, aprox",
+			"60 gr de aceite de oliva.",
+			"1 cucharadita de sal",
+			"1000 gr de agua"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Coloque el pescado en el recipiente varoma.Tape y reserve.",
+			"Ponga en el vaso el tomate,la cebolla y el pimiento.Trocee programando 3 seg, velocidad 4. Con la espátula,baje los restos de verdura de la tapa y del interior del vaso hacia las cuchillas.",
+			"Ponga las patas en el cestillo e introdúzcalo dentro del vaso. Añada el aceite,la sal y el agua.Programe 20 min, temperatura varoma, velocidad 1.",
+			"Cuando acabe el tiempo programado,coloque el recipiente varoma en su posición y programe,7 minutos,temperatura varoma,velocidad 1.",
+			"Sacar el cestillo con ayuda de la espátula. Viérta las patatas y el pescado en una fuente.Espere a que baje la temperatura y triture el caldo que ha quedado dentro del vaso, 30 seg,velocidad progresiva del 5 al 10.Verifíque de sal y vierta la salsa sobre las patatas y el pescado"
 		]
 	}
 ]
