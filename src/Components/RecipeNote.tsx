@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Form, ListGroup } from 'react-bootstrap';
 import Constants from '../Classes/Constants';
 import { IRecipe } from '../Classes/IRecipe';
+import { TagUtils } from '../Classes/Utils';
 
 interface RecipeNoteProps {
     recipe: IRecipe;
@@ -11,14 +12,13 @@ interface RecipeNoteState {
 }
 
 export class RecipeNote extends Component<RecipeNoteProps, RecipeNoteState> {
+    private tagUtils: TagUtils = new TagUtils();
     static displayName = RecipeNote.name;
 
     render() {
 
         let contentIngredients2: JSX.Element = <div></div>;
         let tagsContent: JSX.Element[] = [];
-        let colorForTag: string[] = ["amber", "aqua", "blue", "light-blue", "brown", "blue-grey", "green", "light-green", "indigo", "khaki",
-            "lime", "orange", "deep-orange", "pink", "purple", "deep-purple", "red", "sand", "teal", "yellow", "grey"];
 
         //Build additional ingredients
         if (this.props.recipe.Ingredients2.TitleIngredients2 !== null) {
@@ -40,18 +40,7 @@ export class RecipeNote extends Component<RecipeNoteProps, RecipeNoteState> {
 
         //Build tags
         if (this.props.recipe.Tags != null) {
-            for (let i = 0; i < this.props.recipe.Tags.length; i++) {
-
-                //Get random number
-                let rnd = Math.floor(Math.random() * (colorForTag.length));
-
-                //Build and push tag
-                let colorTagWithCss = "tag w3-tag w3-padding w3-round-large w3-center w3-" + colorForTag[rnd];
-                tagsContent.push(<span className={colorTagWithCss}>{this.props.recipe.Tags[i]}</span>);
-
-                //Remove color from list
-                colorForTag.splice(rnd,1);
-            }
+            tagsContent = this.tagUtils.GenerateTags(this.props.recipe.Tags);
         }
 
         return (

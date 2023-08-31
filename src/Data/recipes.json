@@ -3651,7 +3651,7 @@
 		"Amount": "",
 		"Utility": "",
 		"Tags": [],
-		"Type": "Postres",
+		"Type": "Postre",
 		"Ingredients": [
 			"1 tableta chocolate blanco",
 			"50gr cacahuetes",
@@ -3678,7 +3678,7 @@
 		"Amount": "5",
 		"Utility": "",
 		"Tags": [],
-		"Type": "Postres",
+		"Type": "Postre",
 		"Ingredients": [
 			"100 grs. de chocolate blanco",
 			"50 grs. de azúcar",
@@ -3701,7 +3701,7 @@
 		"Amount": "",
 		"Utility": "",
 		"Tags": [],
-		"Type": "Postres",
+		"Type": "Postre",
 		"Ingredients": [
 			"120 g de galletas maría",
 			"100 g de azúcar",
@@ -4977,9 +4977,9 @@
 		"Amount": "6",
 		"Utility": "Thermomix",
 		"Tags": [
-			"Postres"
+			"Postre"
 		],
-		"Type": "Postres",
+		"Type": "Postre",
 		"Ingredients": [
 			"80 g de galletitas saladas tipo Ritz",
 			"80 g de pistachos + 25 g para adornar",
@@ -6181,7 +6181,7 @@
 		"Amount": "10",
 		"Utility": "",
 		"Tags": [
-			"Postres"
+			"Postre"
 		],
 		"Type": "",
 		"Ingredients": [

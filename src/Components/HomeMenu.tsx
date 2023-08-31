@@ -6,7 +6,7 @@ import { default as recipes } from "../Data/recipes.json";
 import { IRecipe } from '../Classes/IRecipe';
 import { NotFound } from './NotFound';
 import { ReactSearchAutocomplete } from 'react-search-autocomplete';
-import { Utils } from '../Classes/Utils';
+import { TagUtils, Utils } from '../Classes/Utils';
 import { SearchItem } from '../Classes/SearchItem';
 
 interface HomeProps {
@@ -18,10 +18,15 @@ interface HomeState {
 export class HomeMenu extends Component<HomeProps, HomeState> {
     static displayName = HomeMenu.name;
     searchItems: SearchItem[] = [];
+    allTags:string[]=[];
+    tagsContent: JSX.Element[] = [];
+    tagUtils: TagUtils = new TagUtils();
 
     constructor(props: HomeProps) {
         super(props);
         this.state = {};
+
+        this.buildAllTags();
 
         for (let i = 0; i < recipes.length; i++) {
             let item: SearchItem = new SearchItem(i, recipes[i].Title);
@@ -40,6 +45,20 @@ export class HomeMenu extends Component<HomeProps, HomeState> {
         }
 
         return recipeId;
+    }
+
+    buildAllTags(){
+        for (let i = 0; i < recipes.length; i++) {
+            for (let a = 0; a < recipes[i].Tags.length; a++) {
+                this.allTags.push(recipes[i].Tags[a]);
+            }
+        }
+
+        this.allTags = this.allTags.filter(function(elem, index, self) {
+            return index === self.indexOf(elem);
+        })
+
+        this.tagsContent = this.tagUtils.GenerateTags(this.allTags);
     }
 
     getParameterByName = (name: string, url = window.location.href) => {
@@ -84,6 +103,10 @@ export class HomeMenu extends Component<HomeProps, HomeState> {
             </div>
             <div className='recipesView'>
                 {centralContent}
+            </div>
+
+            <div className='recipesTags'>
+                {this.tagsContent}
             </div>
         </div>;
 

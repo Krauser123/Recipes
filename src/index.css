@@ -76,7 +76,7 @@ label {
   margin-right: 0.5em;
 }
 
-.recipesSearchCollapse{
+.recipesSearchCollapse {
   color: #e3a21a;
   text-align: left;
 }
@@ -106,25 +106,36 @@ label {
     padding: 1em;
   }
 
+  .recipesTags {
+    width: 100%;
+    margin-top: 2em;
+    padding: 1em;
+    text-align: center;
+  }
+
+  .recipesTags span {
+    margin: 0.2em;
+  }
+
   .recipesAutoSearch {
     padding-right: 1em;
     padding-left: 1em;
   }
 
-  .recipesSearchCollapse{
+  .recipesSearchCollapse {
     margin-top: 1em;
     visibility: visible;
     display: initial;
   }
 
-  .menuCategories{
+  .menuCategories {
     border: 0.4em groove #1C6EA4;
     border-radius: 1em;
     margin: 1em;
     margin-bottom: -2em;
   }
 
-  .menuCategories .recipeLink{
+  .menuCategories .recipeLink {
     margin-left: 1em;
   }
 
@@ -136,7 +147,7 @@ label {
 /* For desktop: */
 @media only screen and (min-width: 768px) {
 
-  .recipesSearchCollapse{
+  .recipesSearchCollapse {
     visibility: collapse;
     display: none;
   }
@@ -167,6 +178,16 @@ label {
   .recipesView {
     width: 75em;
     margin-left: 24em;
+  }
+
+  .recipesTags {
+    width: 22em;
+    margin-left: 0.5em;
+    margin-top: 8em;
+  }
+
+  .recipesTags span {
+    margin: 0.2em;
   }
 
   .appTitle {
@@ -236,7 +257,7 @@ label {
   font-weight: 900;
   margin: 0em;
   color: #e3a21a;
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
 
 .notfound .notfound-404 h1>span {
