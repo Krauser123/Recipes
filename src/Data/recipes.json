@@ -43,7 +43,8 @@
 		"Type": "Entrante",
 		"Ingredients": [
 			"3 latas de atún en aceite de oliva",
-			"80g. de cebolla.",
+			"Cebolla",
+			"80g",
 			"30g. del aceite del atún.",
 			"45g. de mantequilla.",
 			"100g. de harina de trigo.",
@@ -1872,6 +1873,31 @@
 			"Rehoga un poco y vierte la mitad de la leche (que esté fría) poco a poco, sin dejar de remover con una varilla o cuchara de madera, hasta conseguir una crema homogénea.",
 			"Vierte el resto de la leche en 2 veces, sin dejar de remover. Echa sal a tu gusto y cocina la salsa a fuego suave durante 10-15 minutos. Cuanto más tiempo la cocines, más suave y rica quedará.",
 			"Si no la usas de inmediato pásala a un recipiente y tápala con papel plástico de cocina. Es importante que el plástico esté en contacto con la masa. De esta forma evitarás que le salga costra en la parte superior."
+		]
+	},
+	{
+		"Title": "Bechamel Thermomix",
+		"Amount": "",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Salsas"
+		],
+		"Type": "Salsas",
+		"Ingredients": [
+			"500gr de leche entera o semidesnatada",
+			"40gr de maizena",
+			"20gr de mantequilla",
+			"Una pizca de nuez moscada",
+			"Sal y pimienta al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": [
+				""
+			]
+		},
+		"Steps": [
+			"Echa todos los ingrendientes en la Thermomix y configura 10 minutos, 100º, velocidad 4"
 		]
 	},
 	{
@@ -8160,6 +8186,860 @@
 			"Picamos la panceta en taquitos y la butifarra negra en trozos y los freímos en una pizca de aceite de oliva. Cuando está lista, retiramos la butifarra negra para que no se deshaga y la reservamos para el final. En el mismo aceite donde hemos frito las carnes, pochamos los ajos tiernos y la cebolla muy picados.",
 			"Seguidamente agregamos el anís o el vino blanco dejando que evapore. Agregamos las habas frescas y tras rehogar un minuto añadimos el laurel, la mejorana y caldo suficiente para cubrirlas (o agua si no tenemos un caldo casero listo), dejando que cuezan hasta que estén bien tiernas.",
 			"Cuando las habas empiezan a arrugarse como las yemas de los dedos después de un baño en la piscina, es que casi están listas. Entonces añadiremos las butifarras negras que habíamos reservado y las hojas de hierbabuena muy picadas. Pasamos a una cazuela de barro y llevamos a la mesa."
+		]
+	},
+	{
+		"Title": "Relleno Sandiwch",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Aperitivo",
+			"Bocadillos",
+			"Verano"
+		],
+		"Type": "Aperitivo",
+		"Ingredients": [
+			"20gr pimiento rojo",
+			"20gr de pimiento verde",
+			"40gr de cebolla tierna",
+			"25gr de aceitunas rellenas anchoa",
+			"20gr de pepinillos agridulces",
+			"3 latas de atún sin el aceite)",
+			"4 cucharadas de mayonesa"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Todo al vaso y 15 segundos en velocidad 4"
+		]
+	},
+	{
+		"Title": "Costillas BBQ",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Carne",
+			"Americana"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 kg de costillar de cerdo",
+			"400 g de salsa barbacoa"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pincela las costillas con la salsa. Puedes cocinarla inmediatamente en la slow cooker o puedes dejarla macerar unas horas en la salsa, a tu gusto. Quedan genial de las dos formas.",
+			"Introduce las costillas en tu olla de cocción lenta y programa 8 horas en temperatura baja. Cuando acabe el tiempo estarán deliciosas y la carne se separará del hueso con facilidad, estarán llenas de sabor y con la carne blandita, así que retira las costillas con cuidado para que no se rompan. Pasa a una fuente y acompaña de una patatas fritas y más salsa barbacoa."
+		]
+	},
+	{
+		"Title": "Crema galletas María",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"12 galletas María",
+			"100 g de azúcar o su equivalente en edulcorante químico",
+			"40 g de caramelo líquido",
+			"500 ml de nata líquida para cocinar",
+			"500 ml de leche",
+			"1 sobre de cuajada"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso las galletas y tritúralas 7 segundos en velocidad 7. Baja los restos de las paredes y de la tapa.",
+			"Agrega el resto de ingredientes y programa 9 minutos, 100º, velocidad 4. Sirve en en los recipientes que más te gusten y déjalos cuajar en la nevera unas 4 horas."
+		]
+	},
+	{
+		"Title": "Crema Calabaza",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Cuchara"
+		],
+		"Type": "",
+		"Ingredients": [
+			"150 g de zanahorias peladas",
+			"250 g de puerros o de cebolla",
+			"1 cucharada de curry o una pizca de pimentón de la Vera -opcional, dosis al gusto-",
+			"50 g de aceite de oliva virgen extra",
+			"600 g de calabaza sin piel",
+			"sal al gusto",
+			"500-600 g de agua -o hasta cubrir verduras- o caldo azteca, caldo de verduras, etc. Pon caldo en función de la densidad que le quieras dar a tu crema. Te recomiendo poner 500 g y aumentar después para ajustar a tu gusto",
+			"100 g de nata líquida o leche evaporada o leche entera ó 4 quesitos"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pela las zanahorias y el puerro y ponlas en el vaso, trocea 4 segundos en velocidad 4. Añade la cucharadita de curry y el aceite y programa 5 minutos, Varoma, velocidad 2.",
+			"Incorpora la calabaza troceada y sin piel y programa 10 minutos, 100º, velocidad 2.",
+			"Cubre todas las verduras con el agua o el caldo elegido, salpimenta y programa 15 minutos, 100º, velocidad 1. Comprueba punto de sal o salpimenta al gusto.",
+			"Agrega la nata en el último minuto y tritúralo a velocidad progresiva 5-7-9.",
+			"Sirve la crema decorada con picatostes o cebollino o nata, al gusto."
+		]
+	},
+	{
+		"Title": "Crema de brócoli con un toque de queso",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Cuchara"
+		],
+		"Type": "",
+		"Ingredients": [
+			"40 g de aceite de oliva virgen extra",
+			"1 diente de ajo",
+			"1 puerro cortado en rodajas",
+			"600 g de brócoli en ramilletes y tallos en trozos",
+			"500 g de agua o caldo de verduras",
+			"Sal al gusto",
+			"Pimienta al gusto",
+			"100 g de nata líquida o leche evaporada",
+			"50 g de queso brie o azul, gorgonzola, queso de cabra... y un poco más para decorar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso el aceite, el ajo -sin el germen o al gusto- y el puerro cortado y trocea 4 segundos en velocidad 5. Sofríe 8 minutos, 120ºC o Varoma, velocidad 1.",
+			"Añade el brócoli al vaso, el agua o caldo, la sal y la pimienta y cocina 28 minutos, 100ºC, velocidad 1.",
+			"Acabado el tiempo agrega la nata y el queso y tritura 1 minuto en velocidad progresiva 5-10. Ajusta el punto de sal y sirve con picatostes y un chorrito de aceite. Listo."
+		]
+	},
+	{
+		"Title": "Cebolla caramelizada",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"4 cebollas dulces cortadas en juliana",
+			"2-3 cucharadas soperas de aceite de oliva virgen extra",
+			"2 cucharadas de azúcar por cebolla"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Prepara la cebolla. Córtala en juliana. Pon al fuego una tartera con un chorro o 3 cucharadas aproximadamente de aceite de oliva y cocina a fuego bajo -nivel 3 de 10 de la inducción- durante 40-45 minutos con la olla tapada. Remueve de vez en cuando.",
+			"Pasados los 45 minutos, verás que la cebolla está transparente. Es el momento de agregar el azúcar, subir el fuego y remover para que no se queme el azúcar. Se irá dorando, cuando esté doradita puedes retirarla ya o agregar un Pedro Ximenez, un vinagre de Módena o al gusto... terminas de evaporar el líquido y listo para usar."
+		]
+	},
+	{
+		"Title": "Ensalada Colesaw",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			"Verano",
+			"Aperitivo"
+		],
+		"Type": "Verdura",
+		"Ingredients": [
+			"3 Huevos duros",
+			"1 repollo pequeño (300 gr)",
+			"300gr zanahorias",
+			"200gr pepinillos en vinagre",
+			"200gr aceitunas, sin hueso",
+			"1 col lombarda pequeña (300gr)",
+			"Aceite para aliñar",
+			"Vinagre para aliñar",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Trocear los pepinillo y las aceitunas, 7 segundos, velocidad 4. Retirar del vaso y colocar en una bandeja en las partes más externas.",
+			"Introducir los huevos duros en el vaso y trocearlos programando 2 segundos, velocidad 4. Retirar del vaso y colocar en una bandeja a continuación del anterior.",
+			"Trocear las zanahorias, 5 segundos, velocidad 5. Retirar del vaso y colocar en una bandeja a continuación del anterior.",
+			"Trocear la lombarda, 7 segundos, velocidad 4. Retirar del vaso y colocar en una bandeja a continuación del anterior.",
+			"Trocear el repollo, 7 segundos, velocidad 4. Retirar del vaso y colocar en una bandeja en el centro.",
+			"Aliñar con sal, aceite y vinagre al gusto y servir. También se puede acompañar con Lactonesa"
+		]
+	},
+	{
+		"Title": "Fabada",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"500 gr de Fabes",
+			"200 gr de panceta fresca entera",
+			"1 cebolla entera sin piel",
+			"2 chorizos asturianos",
+			"2 morcillas asturianas",
+			"Un hueso de jamón",
+			"1 ajo",
+			"Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Hierve las alubias en una olla normal durante 15 minutos",
+			"Añade todos los ingredientes a la Crockpot, 7 horas en baja"
+		]
+	},
+	{
+		"Title": "Flan Queso",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "",
+		"Ingredients": [
+			"450 ml de leche entera, semi o desnatada",
+			"90 gr azúcar o edulcorante químico",
+			"1 sobre de cuajada*",
+			"8 quesitos o 125 gr de queso de untar cremoso o mascarpone (puedes aumentar hasta 300gr)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Todos los ingredientes en el vaso y programa 10 minutos, temperatura 90º, velocidad 4."
+		]
+	},
+	{
+		"Title": "Fricandó de autor",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			"Carne",
+			"Catalana"
+		],
+		"Type": "",
+		"Ingredients": [
+			"½ kg de llata de ternera, espaldilla en filetes finos",
+			"1 cebolla cortada en brunoise",
+			"100 g de tomate triturado",
+			"200 g de setas",
+			"30 ml de brandy",
+			"100 g de harina",
+			"750 ml de caldo de ave",
+			"Perejil picado para espolvorear y emplatar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Limpia las setas y reserva. Filetea la llata -el solomillo- y pasa por harina.",
+			"Marcar los filetes en una sartén con aceite de oliva y cuando los tengas marcados, retira y reserva.",
+			"Vierte la cebolla en la sartén antiadherente donde has cocinado los filetes y sofrie hasta que estén doraditas. Cuando esté pochado vierte el Brandy y cocina hasta que evapore.",
+			"Ahora agrega el tomate triturado junto con la ramita de tomillo y el laurel, hasta que el tomate reduzca.",
+			"Añade de nuevo la carne a la sartén junto con el caldo. Dejar cocinar unos 20 minutos antes de añadir las setas y dejar cocinar 10 minutos mas o hasta que la carne este tierna.",
+			"Emplata y espolvorea con perejil picadito. Delicioso y súper fácil. Listo"
+		]
+	},
+	{
+		"Title": "Guiso de patatas con guisantes ",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"1 cebolla picadita",
+			"80 g de mezcla de jamón y bacon o chorizo en taquitos",
+			"1 diente de ajo triturado",
+			"4 cucharadas de tomate triturado o troceado",
+			"800-900 g de patatas en trozos o panadera",
+			"Sal y pimienta al gusto",
+			"Caldo de pollo o carne o agua hasta cubrir las patatas",
+			"1 hoja de laurel",
+			"300 g de guisantes o espinacas"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Calienta un chorro de aceite y vierte la cebolla, sofríe unos 8 minutos a fuego medio.",
+			"Incorpora el ajo, el jamón y el bacon y mezcla 6-8 minutos.",
+			"Agrega el tomate y mezcla. Vierte las patatas y haz lo mismo. Salpimenta.",
+			"Incorpora el caldo hasta cubrir las patatas, el laurel y cocina 25 minutos a fuego medio con tapa.",
+			"Añade los guisantes o espinacas y cocina 8 minutos más."
+		]
+	},
+	{
+		"Title": "Hummos de garbanzos",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"400 g de garbanzos cocidos",
+			"½ diente de ajo",
+			"50-60 g de agua",
+			"25 g de zumo de limón",
+			"50-70 g de aceite de oliva virgen extra",
+			"1 cucharadita de comino en polvo",
+			"1-2 cucharadita de salsa Tahine",
+			"sal al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Todos los ingredientes y programa 1 minuto en velocidad progresiva 5-7-9"
+		]
+	},
+	{
+		"Title": "Judiones del Barco",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"500gr de Judiones remojados durante 24 horas, o 2 botes de judiones precocidos",
+			"50gr de aceite",
+			"2 tomates",
+			"1 pimiento verde pequeño",
+			"1 diente de ajo",
+			"2 zanahorias",
+			"1 cucharada de Pimentón dulce",
+			"1 hoja de laurel",
+			"1 patata pequeña en tacos",
+			"1 chorizo",
+			"sal",
+			"500gr de agua"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon los judiones en remojo 8 horas",
+			"Hierve 2 o 3 horas hasta que esten blandos",
+			"En la thermomix vamos a hacer la salsa con el chorizo, así que pon el aceite, el tomate, el pimiento, el ajo, y las zanahorias y tritura 20-30 segundos en velocidad progresiva 5-7-9.",
+			"Sofríe programamando 10 minutos, 100º, velocidad 1.",
+			"Agrega el pimentón dulce, y mezcla 10 segundos a velocidad 4.",
+			"Incorpora la hoja de laurel, el chorizo en rodajas, la patata en tacos y el agua y programa 15 minutos, 100º, velocidad cuchara y giro a la izquierda.",
+			"Incorpora los judiones y programar 15 minutos, 100º, velocidad cuchara y giro a la izquierda."
+		]
+	},
+	{
+		"Title": "Chícharos con chorizo",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"150 g de cebolla o puerro en trozos",
+			"100 g de pimiento rojo en trozos",
+			"2 dientes de ajo",
+			"50 g de zanahoria en trozos",
+			"50 g de aceite de oliva virgen extra",
+			"200 g de chorizo en rodajas",
+			"1 trozo pequeño de tocino (opcional)",
+			"100 g de jamón serrano en tacos*",
+			"2 botes de judias blancas cocidas y escurridas",
+			"500 g de agua",
+			"sal -rectifica al final si echas el tocino y el jamón-",
+			"1 hoja de laurel"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon el en vaso la cebolla en cuartos, el pimiento, el ajo, la zanahoria y el aceite y trocea 5 segundos en velocidad 5.",
+			"Pocha las verduritas durante 8 minutos, Varoma, velocidad 1, sin cubilete.",
+			"Incorpora el chorizo en rodajas, el tocino, el jamón en tacos, agrega 3 cucharadas de judias blancas -para espesar la salsa-, el agua y el laurel y programa 20 minutos, 100º, giro a la izquierda y velocidad cuchara.",
+			"Agrega el resto de las judias y programa 3 minutos, 100º, giro a la izquierda y velocidad cuchara. Comprueba el punto de sal y ajusta si es necesario. Listo... sirve caliente."
+		]
+	},
+	{
+		"Title": "Aliño moruno",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"3 dientes de ajo",
+			"60gr de mostaza de Dijon",
+			"70gr de salsa de tomate",
+			"sal al gusto",
+			"2 cucharadas de orégano seco",
+			"20gr de zumo de limón",
+			"50gr de aceite de oliva virgen extra",
+			"1 poco de pimienta negra recién molida"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon los ingredientes del aliño en el vaso y mezcla 30 segundos en velocidad 7",
+			"Puedes usarlo para macerar carne"
+		]
+	},
+	{
+		"Title": "Salta de tomate",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"50 g aceite de oliva virgen extra",
+			"150 g de cebolla en cuartos",
+			"3 dientes de ajo",
+			"½ cubilete de orégano seco o más",
+			"2 botes de 800 g de tomate entero pelado de lata cada uno (1600gr)",
+			"sal y pimienta al gusto",
+			"Azúcar (un par de cucharadas) opcional"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon la cebolla y los ajos junto con el aceite en el vaso y trocea 4 segundos en velocidad 4.",
+			"Sofríe durante 10 minutos, Varoma, velocidad 1, sin cubilete.",
+			"Agrega el orégano, tomates, sal y pimienta y programa 20 minutos, Varoma, velocidad 1, retira el cubilete y pon el cestillo sobre la tapadera.",
+			"Acaba con 5 minutos más, Varoma en velocidad 2 con el cestillo sobre la tapadera. Así trocearemos un poco el tomate entero sin triturarlo, para que no nos quede una pasta que nada tendría que ver con la salsa que queremos preparar. Rectifica el punto de sal y pimienta. Listo para meter en botes esterilizados previamente y pasteurizar en agua hirviendo durante unos 30 minutos."
+		]
+	},
+	{
+		"Title": "Tomate frito casero",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"50 g de aceite de oliva virgen extra",
+			"2 dientes de ajo",
+			"100 g de cebolla",
+			"100 g de zanahoria",
+			"1 kg de tomate natural triturado",
+			"15 g de azúcar",
+			"sal, pimienta y albahaca, orégano (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Vierta el aceite en el vaso y programe 3 minutos, Varoma, velocidad 1.",
+			"A continuación, añada los dientes de ajo, la cebolla y la zanahoria. Tritúrelo 10 segundos, velocidad 5 y programe 7 minutos, temperatura Varoma, velocidad 3y medio.",
+			"Antes de incorporar el tomate baje con la espátula todo lo que haya quedado en las paredes y la tapa del vaso. Añada el tomate y el resto de ingredientes y programe 30 minutos, temperatura Varoma, velocidad 1. Coloque encima de la tapa el cestillo para evitar salpicaduras. Guarda en tarros esterilizados y esteriliza o congela lo que te sobre."
+		]
+	},
+	{
+		"Title": "Strudel de manzana",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"Pasta filo",
+			"3 manzanas reineta ralladas",
+			"100 gr de azúcar blanquilla",
+			"50 gr de pasas",
+			"50 gr de almendras laminadas",
+			"50 gr de piñones",
+			"2 cucharadas de pan rallado",
+			"½ cucharadita de Canela molida, Vainilla en polvo, Nuez moscada"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Separa las hojas de pasta filo. Coloca en una base de silicona la primera y úntala con mantequilla.",
+			"Ralla la manzana o córtala en trocitos pequeños. Yo la he rallado con la ayuda de la mandolina cortándolo en paja o juliana. Viértela en un bol y reserva tapado con film transparente para evitar que se oxide mucho. Reserva",
+			"En un bol pesa el resto de ingredientes del relleno, el azúcar -puedes usar la thermomix®- las pasas, las almendras laminadas, los piñones, el pan rallado y la canela, la vainilla y la nuez moscada. Mezcla todo con las manzanas.",
+			"Vierte la mezcla encima de la pasta filo, en un lateral a lo largo. Une con las manos todo el montón para compactarlo en ese lateral y que sea más fácil enrollar. Deja los bordes de las esquinas libres para empezar cerrando tu paquete por ahí. Mete las esquinas de izquierda y derecha un poco hacía adentro y luego enrolla para acabar dejando el cierre hacía abajo y que el rollo se vea perfecto por arriba. Pincela con mantequilla todo el exterior.",
+			"Hornea a 180ºC con calor arriba y abajo o con aire incorporado. Comprueba que está hecho pinchando el strudel con una brocheta y toca la punta de esta, si sale bien caliente es que el centro de nuestro strudel está cocinado. Pasa a una fuente y toma templado. Puedes espolvorear con azúcar glas la superficie si quieres decorarlo."
+		]
+	},
+	{
+		"Title": "Arroz para sushi",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"240 g de vinagre de arroz",
+			"80 g de azúcar",
+			"40 g de sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Aliño de arroz para Sushi: Pon todos los ingredientes en el vaso y programa 4 minutos, 80º y velocidad 2. Esta mezcla se conserva meses en el frigorífico.",
+			"Arroz para Sushi para 4 makis de 8 piezas cada uno ó 32 piezas: Ten listo el aliño para arroz que te presentamos antes porque se usa frío. Moja un rectángulo de papel de hornear, escúrrelo y ponlo dentro del recipiente Varoma. Reserva.",
+			"Pon el el vaso el litro de agua y caliéntalo 5 minutos, Varoma a velocidad 1. Mientras el agua del vaso se caliente vamos a LAVAR EL ARROZ PARA SUSHI con agua fría, es muy importante que lo metas en el cestillo bajo el chorro de agua y que lo laves hasta que el agua salga totalmente transparente, así el arroz quedará bien cocinado.",
+			"Pon el arroz lavado en el varoma y agrega los 380 g de agua fría. Colócalo en su posición y programa 20 minutos, Varoma, velocidad 2. NO LEVANTES LA TAPA PARA MIRAR EL ARROZ, hay que dejarlo cocinar perfectamente y si levantas la tapa parte del agua se evaporará y no quedará en su punto. Acabado el tiempo deja reposar 10 minutos SIN LEVANTAR LA TAPA DEL VAROMA.",
+			"Vuelca el arroz en un recipiente de madera (absorben la humedad) o en su defecto en una fuente amplia y con la ayuda de una espátula con el filo fino (para no romper el arroz) o lengua de gato, levanta el arroz con cuidado para ayudar a enfriar. Los Japoneses usan una especie de paipai para ir abanicando el arroz y ayudar a bajar la temperatura.",
+			"Mientras los mueves pon ½ cubilete de aliño de vinagre, ve repartiendo bien por todo el arroz, el aspecto será pegajoso y brillante."
+		]
+	},
+	{
+		"Title": "Sangría",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"2 melocotones",
+			"1 pera",
+			"1 naranja",
+			"1 limón",
+			"2-3 cucharadas de azúcar blanquilla -opcional-",
+			"Reservar las pieles de los cítricos para decorar -opcional-",
+			"80-100 ml de licor al gusto -opcional-",
+			"750 ml de vino tinto",
+			"800-1500 ml de gaseosa",
+			"Hielos para los vasos"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Trocea las frutas a mano tras lavarlas y secarlas o trocea en tu máquina. Comienza por el melocotón y la pera programando 2 ó 3 segundos en velocidad 4. Retira y reserva.",
+			"Pon en el vaso la naranja y el limón bien pelados,(sin pepitas, piel y partes blancas) junto con el azúcar, y tritura 1 minuto en velocidad 10.",
+			"Añade el licor, el vino y la gaseosa en cantidad al gusto, los hielos -opcional, lo puedes añadir a los vasos- y el melocotón y mezcla 1 minuto a velocidad 2.",
+			"Vierte la sangría en una jarra y decórala con las pieles de los cítricos."
+		]
+	},
+	{
+		"Title": "Salsa Jack Daniel´s",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"200gr de ketchup",
+			"50gr de whisky Jack Daniel’s® ",
+			"60gr de miel de la buena",
+			"40gr de vinagre de manzana",
+			"10gr de vino blanco",
+			"10gr de zumo de limón",
+			"10gr de salsa inglesa Worcestershire",
+			"10gr de salsa de soja",
+			"1 cucharadita de pimienta negra",
+			"1 cucharadita de mostaza de Dijon",
+			"1 cucharadita de ajo en polvo",
+			"1 pizca de pimentón agridulce"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Vierte todos los ingredientes en el vaso de la Thermomix y programa 6 minutos, Varoma, velocidad 2.",
+			"Bajamos la temperatura a 100 grados y programamos 15 minutos más, en velocidad 1, sin cubilete, para que evapore el líquido y la salsa espese. Retira a un envase y deja enfriar."
+		]
+	},
+	{
+		"Title": "Rabo de toro",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"1,5 kg de rabo de toro",
+			"1 cebolla grande o 1 puerro cortado para sofrito",
+			"½ pimiento rojo cortado en taquitos",
+			"½ pimiento verde cortado en taquitos",
+			"1 chorrito de Brandy",
+			"500 g de agua o caldo de carne, hasta que quede 2 dedos por debajo de la carne",
+			"1 cucharadita de Pimentón dulce",
+			"2 hojas de laurel",
+			"2 dientes de ajo",
+			"3 zanahorias peladas y cortadas en rodajas",
+			"sal al gusto"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Escalda el rabo de toro en agua hirviendo, así saldrán las impurezas. Una vez que están escaldados -un par de minutos- retira de la olla y lávalos bajo el grifo. Reserva.",
+			"Pica para sofrito la cebolla o el puerro y los pimientos. Pon un chorro de aceite de oliva en la base de tu olla, pon a calentar, y cuando esté caliente vierte la cebolla y pocha un ratito, añade los pimientos y deja que ablanden.",
+			"Añade el brandy y deja reducir, una vez reducido, pon el agua o caldo de carne y deja hervir unos minutos antes de continuar. Vierte todo el sofrito con el caldo en la Thermomix® y tritura la salsa 30 segundos en velocidad progresiva 5-10. Devuelve la salsa a la olla.",
+			"Con la salsa en la olla, añade un poco de pimentón dulce y remueve, coloca el rabo de toro, vierte el laurel, los ajos, las zanahorias cortadas en rodajas y la sal al gusto. El caldo debe quedar dos dedos por debajo de la carne... si no llega, añade más caldo o agua. Cierra la olla y cuece 20-25 minutos con la presión en la segunda anilla o 1 hora en la olla."
+		]
+	},
+	{
+		"Title": "Pollo en escabeche",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"1 kg de contramuslos de pollo, sin piel, deshuesados y en trozos",
+			"Harina para enharinar el pollo",
+			"Aceite de oliva virgen extra",
+			"1 cebolla cortada en juliana",
+			"2 zanahorias peladas y cortadas en rodajas finas",
+			"6 dientes de ajo",
+			"3 hojas de laurel",
+			"Unos granos de pimienta negra o mixta o molida",
+			"Opcional: 1 ramita de romero y/o tomillo",
+			"180 ml de vino blanco",
+			"125 ml de vinagre de Jerez",
+			"50 ml de aceite de oliva virgen extra",
+			"Agua hasta medio cubrir el pollo"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Prepara la carne de pollo. Retira la piel, deshuesa y corta en trozos. Salpimenta, pasa el pollo por harina, retira el exceso y reserva.",
+			"Prepara tu olla o cacerola baja y vierte un buen chorro de aceite, deja que caliente y fríe el pollo vuelta y vuelta. Cuando esté listo, pasa a un plato y reserva.",
+			"En el aceite de la fritura anterior y a fuego medio, agrega la cebolla cortada en juliana, las zanahorias en rodajas finas, los ajos con o sin piel y cocina a fuego medio 6 minutos, removiendo de vez en cuando.",
+			"Agrega las hojas de laurel, los granos de pimienta o la pimienta molida, -opcional- las ramitas de hierbas aromáticas. Remueve y cocina 4 minutos. Cuando veas la cebolla blandita que se empieza a transparentar, añade el vino y cocina a fuego medio-alto para evaporar el alcohol. Unos 4-6 minutos.",
+			"Incorpora el pollo reservado con todos los jugos vertidos en el plato, el vinagre, el aceite y un poco de agua hasta medio cubrir el pollo y cocina 35-40 minutos a fuego medio-bajo, tapado o con la tapa ligeramente abierta. Pasado el tiempo comprueba que las zanahorias estén blandas o cocina unos minutos más. Listo para guardar en un tupper de cristal o consumir. Te vas a chupar los dedos."
+		]
+	},
+	{
+		"Title": "Pate de marisco",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"7 palitos de mar",
+			"3 quesitos",
+			"1 lata de atún",
+			"1 chorrito de aceite del atún",
+			"unas gotas de Brandy",
+			"2 cucharadas de mahonesa"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Tritura 30 segundos en velocidad 4-5"
+		]
+	},
+	{
+		"Title": "Patatas a la riojana",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			"Principal"
+		],
+		"Type": "",
+		"Ingredients": [
+			"1-2 pimientos choriceros hidratados en agua durante 30 minutos",
+			"50 g de aceite de oliva virgen extra",
+			"240 g de cebolla",
+			"2-3 dientes de ajo",
+			"2-3 chorizos cortados en rodajas",
+			"½ cucharita de pimentón dulce y/o picante o una cayena",
+			"1 hoja de laurel",
+			"Sal al gusto",
+			"800-1,200kg de patatas agrias, peladas y chascadas en trozos",
+			"500 ml de agua o caldo",
+			"Perejil para decorar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso el aceite, la cebolla cortada en cuartos y los dientes de ajo y trocea 5 segundos en velocidad 4. Sofríe 10 minutos, 120ºC o Varoma, velocidad 1.",
+			"Añade el chorizo cortado en rodajas, el pimentón y la hoja de laurel y sofríe 3 minutos, 120ºC o Varoma, velocidad 1.",
+			"Pon la mariposa en las cuchillas y añade las patatas, el agua o caldo, la carne del pimiento choricero y cuece 25 minutos, 100º, giro a la izquierda y velocidad cuchara con cubilete. Comprueba que las patatas están es su punto -pincha para ver si están blandas-, si no están pon unos minutos más. Listo."
+		]
+	},
+	{
+		"Title": "Mermelada de pimientos",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"400-600 g pimientos rojos asados o un bote grande de pimientos del piquillo en tiras de buena calidad. 1 bote con su jugo son unos 300gr.",
+			"200-300 g azúcar moreno",
+			"100-120 g vinagre de manzana, de vino o mezclado con el de jerez",
+			"40-50 g de agua"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Añade el azúcar, el vinagre y el agua y programa 35 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara y pon el cestillo sobre la tapadera para que evapore el líquido"
+		]
+	},
+	{
+		"Title": "Macarrones Carbonara express",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"60 g de cebolla",
+			"20 g de aceite de oliva virgen extra",
+			"100 g de bacon en tiras o jamón en taquitos",
+			"120 g de nata para cocinar o leche evaporada",
+			"250 g de agua para cocer la pasta",
+			"Sal al gusto",
+			"140 g de macarrones integrales",
+			"1 yema de huevo batida",
+			"Queso parmesano para espolvorear por encima",
+			"Perejil fresco para adornar y dar sabor"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso la cebolla y el aceite y trocea 4 segundos en velocidad 5.",
+			"Agrega el bacon en tiras y sofríe todo 8 minutos, varoma, giro a la izquierda y velocidad cuchara.",
+			"Añade la nata y el agua junto con la pasta y la sal y cocina 10 minutos, 100ºC, giro a la izquierda y velocidad cuchara, para que se vayan soltando todos los sabores.",
+			"Incorpora la sal, el huevo batido y cocina 2 minutos más a 100ºC, giro a la izquierda y velocidad cuchara.",
+			"Sirve en una fuente, espolvorea con el parmesano, si lo deseas, puedes gratinar en el horno y terminar con el perejil fresco picado. A comer"
+		]
+	},
+	{
+		"Title": "Serraduras",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"200 g de galletas Maria® -1 rulo-",
+			"500 g de nata para montar",
+			"250-350 g de leche condensada -como te guste de dulce-",
+			"4 natillas sabor vainilla de 115 g unidad"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Las galletas: Pon en el vaso las galletas y tritura 8 segundos en velocidad 8. Retira y reserva.",
+			"La nata montada: En el vaso limpio, pon la mariposa y vierte la nata bien fría de la nevera. Programa velocidad 3 y medio-4 para montar la nata. Cuando esté ya montando, agrega la leche condensada y sigue batiendo con mucho cuidado hasta que esté lista. Ojo, no se te pase o harás manteequilla. Retira y reserva.",
+			"Montaje de la Serradura: Si te resulta más cómodo, puedes meter la mezcla de nata y leche condensada en una manga para agregarla a los vasos con facilidad. Lo primero será preparar 6 vasos. Vierte la capa de galletas trituradas, luego añade la nata montada con leche condensada, otra capa de galletas, encima pon la natilla sabor vainilla, de nuevo galletas y termina con nata montada con leche condensada y espolvorea un poco de galleta. Reserva en la nevera hasta el momento de servir. Súper sencillo."
+		]
+	},
+	{
+		"Title": "Paella",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"2 dientes de ajo",
+			"70gr de aceite de oliva virgen extra",
+			"600gr de pollo cortado en trozos",
+			"150gr de pimientos rojo y verde (mejor poner 2 Alcachofas limpias cortadas en 8 trozos)",
+			"150gr de judías verdes en trozos de 2cm aprox",
+			"100gr de judías blancas o garrofó, que es una variedad local de alubia (opcional)",
+			"100gr de tomate natural triturado",
+			"Sal",
+			"1/2 cucharadita de pimentón dulce",
+			"Azafrán al gusto",
+			"300gr de arroz Bomba (grano corto)",
+			"600gr de agua",
+			"Pastilla de caldo de pollo (opcional)"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon en el vaso los ajos y trocéalos 2 segundos en velocidad 8.",
+			"Agrega el aceite y sofrie 3 minutos, Varoma, velocidad 1.",
+			"Introduce el pollo y saltea 10 minutos, Varoma, giro a la izquierda y velocidad cuchara.",
+			"Añade los pimientos en tiras, las judias, el tomate y la sal, y vuelve a programar 10 minutos, Varoma, giro a la izquierda y velocidad cuchara.",
+			"Ahora pon el pimentón, el azafrán y el arroz y programa 5 minutos, Varoma, giro a la izquierda y velocidad cuchara.",
+			"Mientras, pon los 600gr de agua en la sartén o “paella” -como la llaman en Valencia-, agrega la pastilla de caldo o el concentrado casero y lleva a ebullición.",
+			"Acabado el tiempo, vierte el contenido del paso en la paella o sartén y cocina 17 minutos:  los 5 primeros minutos a fuego fuerte. Los 10 siguiente a fuego medio y los últimos 2 minutos a fuego fuerte para hacer el “socarrat” y que el arroz se pegue un poco al fondo. Apaga el fuego, cubre con papel y deja reposar 5 minutos antes de servir."
+		]
+	},
+	{
+		"Title": "Lentejas",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"400 gr de lentejas pardinas",
+			"1 cebolla (puedes añadir más verduras 150 gr de pimiento verde y 150 gr de pimiento rojo)",
+			"50 gr de aceite de oliva virgen extra",
+			"1 cucharadita de pimentón dulce",
+			"1 ajo",
+			"2 zanahorias peladas y cortadas en rodajas",
+			"1 patata mediana cortada en cubos",
+			"2 chorizos -ó 1 chorizo y una morcilla-",
+			"1 punta de jamón",
+			"1 hoja de laurel",
+			"Agua hasta cubrir las legumbres"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon las lentejas en remojo unas 4 horas. Escurre.",
+			"Trocea una cebolla y en una sartén sofríe la cebolla -puedes añadir también pimiento verde y rojo- y el ajo, hasta que esté pochadita. Separa del fuego, echa una cucharadita de pimentón y mezcla bien. Pasa este sofrito a la Crock-Pot ®. En Thermomix® por las verduras -cebolla y pimientos- y el aceite, trocea 5 segundos el velocidad 4 y sofrie 12 minutos, Varoma, giro a la izquierda y velocidad cuchara.",
+			"Incorpora a la Crock-Pot ® las lentejas escurridas, las zanahorias, la patata cortada, los chorizos enteros o en rodajas, la punta de jamón y la hoja de laurel. Cubre con agua hasta 1-2 dedos por encima de las legumbres. Mueve un poco para asentarlo todo y programa 7 horas en baja temperatura. No abras la tapa hasta que se acabe el tiempo. Listo"
+		]
+	},
+	{
+		"Title": "Langostinos con leche de coco",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"50 g -o lo que necesites- de aceite de oliva virgen extra",
+			"2 dientes de ajo picaditos",
+			"2 cm de raiz de jengibre pelada y picaditos",
+			"½ cebolla picadita",
+			"500 g de panceta fresca cortada en tiras -retira la grasa de algunas si quieres-",
+			"2 botes (800g) de leche de coco AROY®",
+			"Sal y pimienta al gusto",
+			"500-600 g de calabaza cortada en cubos",
+			"250 g de judías redondas baby cortadas en mitades",
+			"400-500 de langostinos con cabeza y el cuerpo pelado",
+			"2 cayenas",
+			"Acompaña con ARROZ JAZMIN de guarnición"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pon una tartera de base ancha al fuego, vierte el aceite y calienta. Echa el ajo, el jengibre y la cebolla hasta dorar.",
+			"Incorpora la panceta cortada en tiras y sofríe hasta que empiece a tomar algo de color.",
+			"Añade los 2 botes de leche de coco junto con la sal y la pimienta y deja que hierba cuando comience la ebullición añade la calabaza cortada en cubos de 1-1'5cm de tamaño -no los pongas muy pequeños para que no se hagan demasiado rápido- y las judías baby cortadas en mitades y deja cocinar hasta que estén al dente. Comprueba a los 10-15 minutos como van de cocción -pincha con un tenedor-.",
+			"Cuando las judias y la calabaza estén tiernos ya puedes incorporar los langostinos con el cuerpo pelado y la cabeza -le da mucho sabor- junto con un par de cayenas. Cocina 4-5 minutos más hasta que los langostinos estén rosas y ya cocinados y tendrás lista la receta."
 		]
 	}
 ]
