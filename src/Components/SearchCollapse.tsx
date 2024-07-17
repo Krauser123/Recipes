@@ -3,6 +3,7 @@ import { Collapse } from 'react-collapse';
 import { IRecipe } from '../Classes/IRecipe';
 import { Utils } from '../Classes/Utils';
 import { SearchCollapseItem } from './SearchCollapseItem';
+import Constants from '../Classes/Constants';
 
 interface SearchCollapseProps {
     recipes: IRecipe[];
@@ -45,7 +46,7 @@ export class SearchCollapse extends Component<SearchCollapseProps, SearchCollaps
 
         return (
             <div className="menuCategories">
-                <div className='menuItemParent' onClick={() => this.onClickCollapse()}>Menu</div>
+                <div className='menuItemParent' onClick={() => this.onClickCollapse()}>{Constants.Menu}</div>
                 <Collapse isOpened={this.state.isOpened}>
                     {Object.keys(recipesPerCategories).map((category: string, index) => (
                         <SearchCollapseItem key={index} recipesPerCategories={recipesPerCategories} category={category}></SearchCollapseItem>

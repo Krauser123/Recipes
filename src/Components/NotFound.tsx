@@ -16,7 +16,7 @@ export class NotFound extends Component<NotFoundProps, NotFoundState> {
             <div className="notfoundContainer">
                 <div className="notfound">
                     <div className="notfound-404">
-                        <h3>Oops! Page not found</h3>
+                        <h3>{Constants.NotFoundMainMessage}</h3>
                         <h1><span>4</span><span>0</span><span>4</span></h1>
                     </div>
                     <h2>{Constants.NotFoundMessage}</h2>

@@ -43,8 +43,7 @@
 		"Type": "Entrante",
 		"Ingredients": [
 			"3 latas de atún en aceite de oliva",
-			"Cebolla",
-			"80g",
+			"80g Cebolla",
 			"30g. del aceite del atún.",
 			"45g. de mantequilla.",
 			"100g. de harina de trigo.",
@@ -9040,6 +9039,227 @@
 			"Incorpora la panceta cortada en tiras y sofríe hasta que empiece a tomar algo de color.",
 			"Añade los 2 botes de leche de coco junto con la sal y la pimienta y deja que hierba cuando comience la ebullición añade la calabaza cortada en cubos de 1-1'5cm de tamaño -no los pongas muy pequeños para que no se hagan demasiado rápido- y las judías baby cortadas en mitades y deja cocinar hasta que estén al dente. Comprueba a los 10-15 minutos como van de cocción -pincha con un tenedor-.",
 			"Cuando las judias y la calabaza estén tiernos ya puedes incorporar los langostinos con el cuerpo pelado y la cabeza -le da mucho sabor- junto con un par de cayenas. Cocina 4-5 minutos más hasta que los langostinos estén rosas y ya cocinados y tendrás lista la receta."
+		]
+	},
+	{
+		"Title": "Aperitivos de garbanzos",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"Garbanzos cocidos y escurridos",
+			"Especias al gusto",
+			"Aceite de girasol"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Precalentar horno a 200 grados",
+			"Hornear los garbanzos 15 min",
+			"Echar un chorreon de aceite, especias comino, picante,pimienta negra y sal",
+			"Hornear 10 min a 200 grados",
+			"Remover y hornear otros 5-10 min",
+			"Dejar enfriar"
+		]
+	},
+	{
+		"Title": "Judias verdes con parmesano",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"1 kilo de judías verdes",
+			"200 g de queso parmesano",
+			"½ cebolla",
+			"3 huevos",
+			"Aceite de oliva virgen extra",
+			"Pimienta y Sal"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Limpiar las judías retirando las puntas y las venas o hebras.judías verdes con parmesano al horno",
+			"Cortar en mitades o tercios.",
+			"Cocer en una cacerola con agua y sal hasta que estén blandas. Escurrir y reservar.",
+			"Cortar la cebolla en brunoise (trocitos pequeños).",
+			"Calentar una sartén con aceite de oliva y sofreír las cebollas y las judías. Retirar del fuego y reservar.",
+			"Precalentar el horno a 180 grados.",
+			"Batir los huevos y agregar sal, pimienta y el queso parmesano, dejando un poco para espolvorearlo al final.",
+			"En un bol refractario, colocar la mezcla de judías y el huevo con el queso parmesano.",
+			"Espolvorear el queso restante.",
+			"Hornear durante 15 minutos aproximadamente o hasta gratinar.",
+			"Servir para acompañar al gusto. Esta receta rinde para 4 porciones."
+		]
+	},
+	{
+		"Title": "Chili dulce ahumado",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [],
+		"Type": "",
+		"Ingredients": [
+			"500gr carne",
+			"1 Cebolla",
+			"2 dientes ajo",
+			"500gr tomate frito",
+			"250gr alubias pintas",
+			"3 cucharadas de chile en polvo",
+			"1 cucharadita de pimentón ahumado",
+			"1/2 cucharadita de sal",
+			"Ajo en polvo",
+			"1 cucharada comino",
+			"1 cebolla en polvo",
+			"2 cucharadas de azucar moreno"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Empieza pelando la cebolla y picándola finita y haz lo mismo con el ajo, pélalo y pícalo.",
+			"En una sartén alta o una olla echa un poco de aceite de oliva y ponla a fuego medio. Cuando esté caliente echa la cebolla y el ajo y cocínalos durante 5 minutos, lo justo para que la cebolla empiece a dorarse.",
+			"Incorpora las especias y mezcla durante 1 minuto.",
+			"Añade la carne picada y un poco de sal y cocínalo todo junto hasta que la carne deje de estar rosada",
+			"Añade el tomate, el líquido de cocer los frijoles o el caldo y el azúcar y cocina (con la olla destapada) a fuego suave durante media hora o hasta que veas que se ha evaporado la mayor parte del caldo pero no todo, la mezcla debe quedar melosa, no seca.",
+			"Añade los frijoles escurridos y cocínalo todo junto 10 minutos más."
+		]
+	},
+	{
+		"Title": "Pollo en salsa champiñones",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Carne",
+			"Principal"
+		],
+		"Type": "",
+		"Ingredients": [
+			"1 cebolla mediana en cuartos",
+			"2 dientes de ajos pelados",
+			"50 g de aceite de oliva",
+			"320 g de champiñones frescos en cuartos",
+			"100 g de vino blanco",
+			"700g de muslos de pollo",
+			"1 Pastilla Avecrem",
+			"2 pellizcos de pimienta negra molida",
+			"1 cucharada de postre de harina de trigo",
+			"200gr de nata"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Ponemos en el vaso la cebolla, el ajo y troceamos 3 seg/vel 7.",
+			"Añadimos el aceite de oliva y los champiñones, sofreímos 5 min/120°C/giro inverso /vel.",
+			"Incorporamos el vino y, sin poner el cubilete, programamos 2 min/Varoma/giro inverso /vel. Reservamos aparte.",
+			"Colocamos el cubrecuchillas. Ponemos en el vaso el pollo, los champiñones reservados, el caldo de pollo, 1 cucharadita de sal y la pimienta. Programamos 50min/100°C/giro inverso /velocidad 🥄. Retiramos el pollo y reservamos en una olla. Ponemos el contenido del vaso a un bol y retiramos el cubrecuchillas.",
+			"Ponemos en el vaso los champiñones y el caldo reservado y la harina y troceamos 5 seg/vel 5.",
+			"Programamos 18 min/Varoma/vel 2( En este paso podemos poner unas patatas cortadas finas en el varoma, para acompañar)",
+			"Añadimos la nata y programamos 3 min/98°C/vel 1. Añadimos el contenido el la olla junto al pollo , y hervimos 10-15min fuego suave."
+		]
+	},
+	{
+		"Title": "Tarta de queso y Filipinos",
+		"Amount": "4",
+		"Utility": "Thermomix",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"400g queso crema (Philadelphia)",
+			"250g Filipinos",
+			"400ml nata para cocinar",
+			"4 huevos",
+			"10g de maicena",
+			"100g Azúcar"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": "Base galleta",
+			"Ingredients": [
+				"135g Filipinos",
+				"40gr Chocolate fundido"
+			]
+		},
+		"Steps": [
+			"Mezcla todo en la thermomix.",
+			"Hornea entre 25 y 30 min a 200 grados.",
+			"Dejala reposar unos 20 min fuera del horno y luego al frigo 4 horas."
+		]
+	},
+	{
+		"Title": "Ragut de venao",
+		"Amount": "4",
+		"Utility": "Crockpot",
+		"Tags": [
+			"Carne",
+			"Principal"
+		],
+		"Type": "Principal",
+		"Ingredients": [
+			"1 kg de ragut de venao",
+			"harina",
+			"1 cebolla",
+			"1 zanahoria",
+			"1 pimiento verde",
+			"medio pimiento rojo",
+			"1 tomate rallado",
+			"ajos",
+			"aceite de oliva virgen extra",
+			"romero y orégano",
+			"1 vaso de vino tinto",
+			"1 onza de cacao 80%"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Enharinamos ligeramente la carne y la sellamos en una olla con aceite de oliva. La vamos pasando a la cubeta de la #crockpot a medida que esté lista.",
+			"En la misma olla, añadimos un poco de aceite y pochamos ajos, cebolla y resto de verdura. Cuando estén cocinadas añadimos el tomate rallado y dejamos reducir.",
+			"Incorporamos el vaso de vino, romero, orégano, y dejamos que evapore el alcohol y reduzca durante unos 15 minutos.",
+			"Incorporamos todo a la #crockpot y cocinamos 4 horas en alta.",
+			"Pasado el tiempo, retiramos la carne, incorporamos el cacao y trituramos muy fina la salsa.",
+			"Incorporamos la carne de nuevo e incorporamos y la cocinamos otros minutos para que reduzca la salsa mientras preparamos la guarnición."
+		]
+	},
+	{
+		"Title": "Polvorones de Chicote",
+		"Amount": "4",
+		"Utility": "",
+		"Tags": [
+			"Postre"
+		],
+		"Type": "Postre",
+		"Ingredients": [
+			"100 gramos de harina de almendra",
+			"450 gramos de harina",
+			"200 gramos de manteca de cerdo",
+			"120 gramos de azucar glass",
+			"1 cucharada de canela",
+			"Ralladura de un limón"
+		],
+		"Ingredients2": {
+			"TitleIngredients2": null,
+			"Ingredients": []
+		},
+		"Steps": [
+			"Pongo en un cuenco grande 100 gramos de harina de almendra tostada ligeramente junto con 450 gramos de harina normal.",
+			"Mezclo bien y añado una cucharadita de canela molida, sigo mezclando.",
+			"Añado 200 gramos de manteca de cerdo a temperatura ambiente y amaso apretando con las manos. La masa ha de quedar integrada pero no lisa.",
+			"Añado 120 gramos de azúcar glass y mezclo bien.",
+			"Por último pongo la ralladura de 1 limón y mezclo con la masa. Todo dentro del cuenco, así no se ensucia nada.",
+			"Dejo reposar la masa en la nevera más o menos 1 hora y pasado este tiempo estiro la masa sobre un papel sulfurizado o un tapete de silicona (si no tienes nada de esto hazlo sobre la mesa floreada de harina, será algo más laborioso pero también se puede.",
+			"Corta los polvorones del tamaño o forma que quieras con un cortapastas. Si no tienes, corta los polvorones cuadrados con un cuchillo.",
+			"Cuece los polvorones en el horno a180 grados durante unos 14 minutos (dependerá del grosor, yo los hago de 1 cm)",
+			"Deja que atemperen y espolvorea de azúcar glass.",
 		]
 	}
 ]
